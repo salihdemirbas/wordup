@@ -123,19 +123,22 @@ function useSoundEffects(mutedRef) {
     try {
       const ctx = getAudioCtx()
       const now = ctx.currentTime
-      const frequencies = [523.25, 783.99]
+      // Canlı, 4 notalık hızlı pırıltı melodisi (Do, Mi, Sol, İnce Do)
+      const frequencies = [523.25, 659.25, 783.99, 1046.50]
       frequencies.forEach((freq, i) => {
         const osc = ctx.createOscillator()
         const gain = ctx.createGain()
         osc.connect(gain)
         gain.connect(ctx.destination)
-        osc.type = 'sine'
+        osc.type = 'triangle' // Daha parlak bir ses dalgası
         osc.frequency.value = freq
-        gain.gain.setValueAtTime(0, now + i * 0.12)
-        gain.gain.linearRampToValueAtTime(0.25, now + i * 0.12 + 0.03)
-        gain.gain.exponentialRampToValueAtTime(0.001, now + i * 0.12 + 0.35)
-        osc.start(now + i * 0.12)
-        osc.stop(now + i * 0.12 + 0.4)
+
+        const t = now + i * 0.08 // Notaları daha sık hızla çal
+        gain.gain.setValueAtTime(0, t)
+        gain.gain.linearRampToValueAtTime(0.15, t + 0.02)
+        gain.gain.exponentialRampToValueAtTime(0.001, t + 0.25)
+        osc.start(t)
+        osc.stop(t + 0.3)
       })
     } catch (e) { /* sessiz */ }
   }, [getAudioCtx, mutedRef])
@@ -175,36 +178,34 @@ function useSoundEffects(mutedRef) {
     try {
       const ctx = getAudioCtx()
       const now = ctx.currentTime
-      const notes = [523.25, 659.25, 783.99, 1046.50, 1318.51]
-      notes.forEach((freq, i) => {
+
+      // Yumuşak, basit ve rahatsız etmeyen, ama canlı bir arpej (Do - Mi - Sol - Do)
+      const notes = [
+        { f: 523.25, t: 0.00 }, // C5
+        { f: 659.25, t: 0.10 }, // E5
+        { f: 783.99, t: 0.20 }, // G5
+        { f: 1046.50, t: 0.30 } // C6
+      ]
+
+      notes.forEach(({ f, t }) => {
         const osc = ctx.createOscillator()
         const gain = ctx.createGain()
         osc.connect(gain)
         gain.connect(ctx.destination)
+
+        // Pürüzsüz ve kulak tırmalamayan 'sine' (Sinüs) dalgası
         osc.type = 'sine'
-        osc.frequency.value = freq
-        const startTime = now + i * 0.13
+        osc.frequency.value = f
+
+        const startTime = now + t
         gain.gain.setValueAtTime(0, startTime)
-        gain.gain.linearRampToValueAtTime(0.2, startTime + 0.03)
-        gain.gain.setValueAtTime(0.2, startTime + 0.15)
-        gain.gain.exponentialRampToValueAtTime(0.001, startTime + 0.55)
+        // Sesi (volume) düşük tuttuk (0.1), yumuşak bir fade-out efekti verdik
+        gain.gain.linearRampToValueAtTime(0.12, startTime + 0.05)
+        gain.gain.exponentialRampToValueAtTime(0.001, startTime + 0.8)
+
         osc.start(startTime)
-        osc.stop(startTime + 0.6)
+        osc.stop(startTime + 0.85)
       })
-      setTimeout(() => {
-        if (mutedRef.current) return
-        const osc = ctx.createOscillator()
-        const gain = ctx.createGain()
-        osc.connect(gain)
-        gain.connect(ctx.destination)
-        osc.type = 'sine'
-        osc.frequency.value = 1046.50
-        const t = ctx.currentTime
-        gain.gain.setValueAtTime(0.15, t)
-        gain.gain.exponentialRampToValueAtTime(0.001, t + 0.8)
-        osc.start(t)
-        osc.stop(t + 0.85)
-      }, 700)
     } catch (e) { /* sessiz */ }
   }, [getAudioCtx, mutedRef])
 
