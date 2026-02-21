@@ -1,0 +1,9950 @@
+[
+  {
+    "english": "able",
+    "turkish": "yapabilmek",
+    "options": [
+      "yapabilmek",
+      "yetersiz",
+      "engelli",
+      "hazır"
+    ]
+  },
+  {
+    "english": "about",
+    "turkish": "hakkında",
+    "options": [
+      "hakkında",
+      "içinde",
+      "sonra",
+      "karşı"
+    ]
+  },
+  {
+    "english": "above",
+    "turkish": "üzerinde",
+    "options": [
+      "üzerinde",
+      "altında",
+      "yanında",
+      "arkasında"
+    ]
+  },
+  {
+    "english": "accept",
+    "turkish": "kabul etmek",
+    "options": [
+      "kabul etmek",
+      "reddetmek",
+      "beklemek",
+      "inanmak"
+    ]
+  },
+  {
+    "english": "accident",
+    "turkish": "kaza",
+    "options": [
+      "kaza",
+      "olay",
+      "tesadüf",
+      "plan"
+    ]
+  },
+  {
+    "english": "account",
+    "turkish": "hesap",
+    "options": [
+      "hesap",
+      "kitap",
+      "borç",
+      "banka"
+    ]
+  },
+  {
+    "english": "across",
+    "turkish": "karşısında",
+    "options": [
+      "karşısında",
+      "yanında",
+      "uzağında",
+      "içinde"
+    ]
+  },
+  {
+    "english": "act",
+    "turkish": "davranmak",
+    "options": [
+      "davranmak",
+      "durmak",
+      "konuşmak",
+      "bakmak"
+    ]
+  },
+  {
+    "english": "action",
+    "turkish": "eylem",
+    "options": [
+      "eylem",
+      "düşünce",
+      "hayal",
+      "sessizlik"
+    ]
+  },
+  {
+    "english": "actor",
+    "turkish": "oyuncu",
+    "options": [
+      "oyuncu",
+      "yazar",
+      "yönetmen",
+      "izleyici"
+    ]
+  },
+  {
+    "english": "add",
+    "turkish": "eklemek",
+    "options": [
+      "eklemek",
+      "çıkarmak",
+      "bölmek",
+      "çarpmak"
+    ]
+  },
+  {
+    "english": "address",
+    "turkish": "adres",
+    "options": [
+      "adres",
+      "isim",
+      "şehir",
+      "mekan"
+    ]
+  },
+  {
+    "english": "admire",
+    "turkish": "hayran olmak",
+    "options": [
+      "hayran olmak",
+      "kıskanmak",
+      "nefret etmek",
+      "korkmak"
+    ]
+  },
+  {
+    "english": "admit",
+    "turkish": "itiraf etmek",
+    "options": [
+      "itiraf etmek",
+      "yalan söylemek",
+      "saklamak",
+      "unutmak"
+    ]
+  },
+  {
+    "english": "advance",
+    "turkish": "ilerlemek",
+    "options": [
+      "ilerlemek",
+      "durmak",
+      "gerilemek",
+      "beklemek"
+    ]
+  },
+  {
+    "english": "advantage",
+    "turkish": "avantaj",
+    "options": [
+      "avantaj",
+      "engel",
+      "fırsat",
+      "eksiklik"
+    ]
+  },
+  {
+    "english": "adventure",
+    "turkish": "macera",
+    "options": [
+      "macera",
+      "tehlike",
+      "gezi",
+      "oyun"
+    ]
+  },
+  {
+    "english": "afraid",
+    "turkish": "korkmuş",
+    "options": [
+      "korkmuş",
+      "cesur",
+      "mutlu",
+      "üzgün"
+    ]
+  },
+  {
+    "english": "after",
+    "turkish": "sonra",
+    "options": [
+      "sonra",
+      "önce",
+      "şimdi",
+      "asla"
+    ]
+  },
+  {
+    "english": "afternoon",
+    "turkish": "öğleden sonra",
+    "options": [
+      "öğleden sonra",
+      "sabah",
+      "akşam",
+      "gece"
+    ]
+  },
+  {
+    "english": "again",
+    "turkish": "tekrar",
+    "options": [
+      "tekrar",
+      "asla",
+      "bazen",
+      "henüz"
+    ]
+  },
+  {
+    "english": "against",
+    "turkish": "karşı",
+    "options": [
+      "karşı",
+      "yanında",
+      "için",
+      "doğru"
+    ]
+  },
+  {
+    "english": "age",
+    "turkish": "yaş",
+    "options": [
+      "yaş",
+      "boy",
+      "kilo",
+      "isim"
+    ]
+  },
+  {
+    "english": "ago",
+    "turkish": "önce",
+    "options": [
+      "önce",
+      "sonra",
+      "şimdi",
+      "yakında"
+    ]
+  },
+  {
+    "english": "agree",
+    "turkish": "katılmak",
+    "options": [
+      "katılmak",
+      "reddetmek",
+      "sormak",
+      "bakmak"
+    ]
+  },
+  {
+    "english": "air",
+    "turkish": "hava",
+    "options": [
+      "hava",
+      "su",
+      "toprak",
+      "ateş"
+    ]
+  },
+  {
+    "english": "airport",
+    "turkish": "havaalanı",
+    "options": [
+      "havaalanı",
+      "istasyon",
+      "liman",
+      "durak"
+    ]
+  },
+  {
+    "english": "all",
+    "turkish": "hepsi",
+    "options": [
+      "hepsi",
+      "birazı",
+      "hiçbiri",
+      "bazısı"
+    ]
+  },
+  {
+    "english": "allow",
+    "turkish": "izin vermek",
+    "options": [
+      "izin vermek",
+      "yasaklamak",
+      "istemek",
+      "durmak"
+    ]
+  },
+  {
+    "english": "almost",
+    "turkish": "neredeyse",
+    "options": [
+      "neredeyse",
+      "tamamen",
+      "asla",
+      "her zaman"
+    ]
+  },
+  {
+    "english": "alone",
+    "turkish": "yalnız",
+    "options": [
+      "yalnız",
+      "birlikte",
+      "kalabalık",
+      "mutlu"
+    ]
+  },
+  {
+    "english": "along",
+    "turkish": "boyunca",
+    "options": [
+      "boyunca",
+      "karşısında",
+      "içinde",
+      "dışında"
+    ]
+  },
+  {
+    "english": "already",
+    "turkish": "zaten",
+    "options": [
+      "zaten",
+      "henüz",
+      "sonra",
+      "asla"
+    ]
+  },
+  {
+    "english": "also",
+    "turkish": "ayrıca",
+    "options": [
+      "ayrıca",
+      "ancak",
+      "çünkü",
+      "veya"
+    ]
+  },
+  {
+    "english": "although",
+    "turkish": "rağmen",
+    "options": [
+      "rağmen",
+      "çünkü",
+      "eğer",
+      "fakat"
+    ]
+  },
+  {
+    "english": "always",
+    "turkish": "her zaman",
+    "options": [
+      "her zaman",
+      "asla",
+      "bazen",
+      "nadiren"
+    ]
+  },
+  {
+    "english": "among",
+    "turkish": "arasında",
+    "options": [
+      "arasında",
+      "dışında",
+      "üstünde",
+      "altında"
+    ]
+  },
+  {
+    "english": "amount",
+    "turkish": "miktar",
+    "options": [
+      "miktar",
+      "sayı",
+      "fiyat",
+      "ölçü"
+    ]
+  },
+  {
+    "english": "and",
+    "turkish": "ve",
+    "options": [
+      "ve",
+      "veya",
+      "ama",
+      "çünkü"
+    ]
+  },
+  {
+    "english": "angry",
+    "turkish": "kızgın",
+    "options": [
+      "kızgın",
+      "mutlu",
+      "üzgün",
+      "yorgun"
+    ]
+  },
+  {
+    "english": "animal",
+    "turkish": "hayvan",
+    "options": [
+      "hayvan",
+      "bitki",
+      "insan",
+      "eşya"
+    ]
+  },
+  {
+    "english": "another",
+    "turkish": "başka",
+    "options": [
+      "başka",
+      "aynı",
+      "farklı",
+      "tek"
+    ]
+  },
+  {
+    "english": "answer",
+    "turkish": "cevap",
+    "options": [
+      "cevap",
+      "soru",
+      "söz",
+      "yazı"
+    ]
+  },
+  {
+    "english": "any",
+    "turkish": "herhangi",
+    "options": [
+      "herhangi",
+      "hiçbir",
+      "bazı",
+      "tüm"
+    ]
+  },
+  {
+    "english": "anything",
+    "turkish": "herhangi bir şey",
+    "options": [
+      "herhangi bir şey",
+      "hiçbir şey",
+      "her şey",
+      "biraz"
+    ]
+  },
+  {
+    "english": "appear",
+    "turkish": "görünmek",
+    "options": [
+      "görünmek",
+      "kaybolmak",
+      "bakmak",
+      "duymak"
+    ]
+  },
+  {
+    "english": "apple",
+    "turkish": "elma",
+    "options": [
+      "elma",
+      "armut",
+      "muz",
+      "çilek"
+    ]
+  },
+  {
+    "english": "area",
+    "turkish": "alan",
+    "options": [
+      "alan",
+      "çizgi",
+      "nokta",
+      "kenar"
+    ]
+  },
+  {
+    "english": "arm",
+    "turkish": "kol",
+    "options": [
+      "kol",
+      "bacak",
+      "el",
+      "ayak"
+    ]
+  },
+  {
+    "english": "army",
+    "turkish": "ordu",
+    "options": [
+      "ordu",
+      "polis",
+      "halk",
+      "takım"
+    ]
+  },
+  {
+    "english": "arrange",
+    "turkish": "düzenlemek",
+    "options": [
+      "düzenlemek",
+      "bozmak",
+      "aramak",
+      "beklemek"
+    ]
+  },
+  {
+    "english": "arrive",
+    "turkish": "varmak",
+    "options": [
+      "varmak",
+      "ayrılmak",
+      "koşmak",
+      "durmak"
+    ]
+  },
+  {
+    "english": "art",
+    "turkish": "sanat",
+    "options": [
+      "sanat",
+      "bilim",
+      "spor",
+      "oyun"
+    ]
+  },
+  {
+    "english": "article",
+    "turkish": "makale",
+    "options": [
+      "makale",
+      "kitap",
+      "dergi",
+      "haber"
+    ]
+  },
+  {
+    "english": "as",
+    "turkish": "olarak",
+    "options": [
+      "olarak",
+      "için",
+      "çünkü",
+      "gibi"
+    ]
+  },
+  {
+    "english": "ask",
+    "turkish": "sormak",
+    "options": [
+      "sormak",
+      "cevaplamak",
+      "bakmak",
+      "görmek"
+    ]
+  },
+  {
+    "english": "asleep",
+    "turkish": "uyuyan",
+    "options": [
+      "uyuyan",
+      "uyanık",
+      "yorgun",
+      "canlı"
+    ]
+  },
+  {
+    "english": "at",
+    "turkish": "-de/-da",
+    "options": [
+      "-de/-da",
+      "üzerinde",
+      "altında",
+      "içinde"
+    ]
+  },
+  {
+    "english": "attack",
+    "turkish": "saldırmak",
+    "options": [
+      "saldırmak",
+      "savunmak",
+      "kaçmak",
+      "durmak"
+    ]
+  },
+  {
+    "english": "attempt",
+    "turkish": "girişim",
+    "options": [
+      "girişim",
+      "sonuç",
+      "başarı",
+      "hata"
+    ]
+  },
+  {
+    "english": "attend",
+    "turkish": "katılmak",
+    "options": [
+      "katılmak",
+      "ayrılmak",
+      "izlemek",
+      "duymak"
+    ]
+  },
+  {
+    "english": "attitude",
+    "turkish": "tutum",
+    "options": [
+      "tutum",
+      "davranış",
+      "fikir",
+      "boyut"
+    ]
+  },
+  {
+    "english": "available",
+    "turkish": "müsait",
+    "options": [
+      "müsait",
+      "meşgul",
+      "pahalı",
+      "uzak"
+    ]
+  },
+  {
+    "english": "average",
+    "turkish": "ortalama",
+    "options": [
+      "ortalama",
+      "toplam",
+      "yüksek",
+      "düşük"
+    ]
+  },
+  {
+    "english": "away",
+    "turkish": "uzakta",
+    "options": [
+      "uzakta",
+      "yakında",
+      "burada",
+      "içeride"
+    ]
+  },
+  {
+    "english": "baby",
+    "turkish": "bebek",
+    "options": [
+      "bebek",
+      "çocuk",
+      "yaşlı",
+      "genç"
+    ]
+  },
+  {
+    "english": "back",
+    "turkish": "arka",
+    "options": [
+      "arka",
+      "ön",
+      "yan",
+      "üst"
+    ]
+  },
+  {
+    "english": "bad",
+    "turkish": "kötü",
+    "options": [
+      "kötü",
+      "iyi",
+      "güzel",
+      "temiz"
+    ]
+  },
+  {
+    "english": "bag",
+    "turkish": "çanta",
+    "options": [
+      "çanta",
+      "kutu",
+      "sepet",
+      "torba"
+    ]
+  },
+  {
+    "english": "bank",
+    "turkish": "banka",
+    "options": [
+      "banka",
+      "okul",
+      "market",
+      "hastane"
+    ]
+  },
+  {
+    "english": "bath",
+    "turkish": "banyo",
+    "options": [
+      "banyo",
+      "mutfak",
+      "oda",
+      "bahçe"
+    ]
+  },
+  {
+    "english": "battle",
+    "turkish": "savaş",
+    "options": [
+      "savaş",
+      "barış",
+      "kavga",
+      "oyun"
+    ]
+  },
+  {
+    "english": "be",
+    "turkish": "olmak",
+    "options": [
+      "olmak",
+      "yapmak",
+      "gitmek",
+      "gelmek"
+    ]
+  },
+  {
+    "english": "bear",
+    "turkish": "ayı",
+    "options": [
+      "ayı",
+      "aslan",
+      "kaplan",
+      "kedi"
+    ]
+  },
+  {
+    "english": "beautiful",
+    "turkish": "güzel",
+    "options": [
+      "güzel",
+      "çirkin",
+      "eski",
+      "kötü"
+    ]
+  },
+  {
+    "english": "because",
+    "turkish": "çünkü",
+    "options": [
+      "çünkü",
+      "ancak",
+      "rağmen",
+      "veya"
+    ]
+  },
+  {
+    "english": "become",
+    "turkish": "olmak",
+    "options": [
+      "olmak",
+      "kalmak",
+      "bitirmek",
+      "başlamak"
+    ]
+  },
+  {
+    "english": "bed",
+    "turkish": "yatak",
+    "options": [
+      "yatak",
+      "masa",
+      "sandalye",
+      "dolap"
+    ]
+  },
+  {
+    "english": "beer",
+    "turkish": "bira",
+    "options": [
+      "bira",
+      "şarap",
+      "su",
+      "süt"
+    ]
+  },
+  {
+    "english": "before",
+    "turkish": "önce",
+    "options": [
+      "önce",
+      "sonra",
+      "şimdi",
+      "asla"
+    ]
+  },
+  {
+    "english": "begin",
+    "turkish": "başlamak",
+    "options": [
+      "başlamak",
+      "bitirmek",
+      "durmak",
+      "izlemek"
+    ]
+  },
+  {
+    "english": "behind",
+    "turkish": "arkasında",
+    "options": [
+      "arkasında",
+      "önünde",
+      "yanında",
+      "üstünde"
+    ]
+  },
+  {
+    "english": "believe",
+    "turkish": "inanmak",
+    "options": [
+      "inanmak",
+      "şüphelenmek",
+      "reddetmek",
+      "bilmek"
+    ]
+  },
+  {
+    "english": "belong",
+    "turkish": "ait olmak",
+    "options": [
+      "ait olmak",
+      "ayrılmak",
+      "sahip olmak",
+      "vermek"
+    ]
+  },
+  {
+    "english": "below",
+    "turkish": "aşağıda",
+    "options": [
+      "aşağıda",
+      "yukarıda",
+      "içinde",
+      "dışında"
+    ]
+  },
+  {
+    "english": "best",
+    "turkish": "en iyi",
+    "options": [
+      "en iyi",
+      "en kötü",
+      "daha iyi",
+      "normal"
+    ]
+  },
+  {
+    "english": "better",
+    "turkish": "daha iyi",
+    "options": [
+      "daha iyi",
+      "daha kötü",
+      "en iyi",
+      "kötü"
+    ]
+  },
+  {
+    "english": "between",
+    "turkish": "arasında",
+    "options": [
+      "arasında",
+      "dışında",
+      "yanında",
+      "önünde"
+    ]
+  },
+  {
+    "english": "big",
+    "turkish": "büyük",
+    "options": [
+      "büyük",
+      "küçük",
+      "geniş",
+      "dar"
+    ]
+  },
+  {
+    "english": "bill",
+    "turkish": "fatura",
+    "options": [
+      "fatura",
+      "para",
+      "borç",
+      "hesap"
+    ]
+  },
+  {
+    "english": "bird",
+    "turkish": "kuş",
+    "options": [
+      "kuş",
+      "balık",
+      "böcek",
+      "memeli"
+    ]
+  },
+  {
+    "english": "black",
+    "turkish": "siyah",
+    "options": [
+      "siyah",
+      "beyaz",
+      "mavi",
+      "kırmızı"
+    ]
+  },
+  {
+    "english": "blood",
+    "turkish": "kan",
+    "options": [
+      "kan",
+      "su",
+      "kemik",
+      "deri"
+    ]
+  },
+  {
+    "english": "blue",
+    "turkish": "mavi",
+    "options": [
+      "mavi",
+      "yeşil",
+      "sarı",
+      "siyah"
+    ]
+  },
+  {
+    "english": "board",
+    "turkish": "tahta",
+    "options": [
+      "tahta",
+      "kağıt",
+      "cam",
+      "metal"
+    ]
+  },
+  {
+    "english": "boat",
+    "turkish": "tekne",
+    "options": [
+      "tekne",
+      "araba",
+      "uçak",
+      "tren"
+    ]
+  },
+  {
+    "english": "body",
+    "turkish": "vücut",
+    "options": [
+      "vücut",
+      "kafa",
+      "ruh",
+      "akıl"
+    ]
+  },
+  {
+    "english": "book",
+    "turkish": "kitap",
+    "options": [
+      "kitap",
+      "defter",
+      "kalem",
+      "kağıt"
+    ]
+  },
+  {
+    "english": "born",
+    "turkish": "doğmuş",
+    "options": [
+      "doğmuş",
+      "ölmüş",
+      "yaşayan",
+      "genç"
+    ]
+  },
+  {
+    "english": "borrow",
+    "turkish": "ödünç almak",
+    "options": [
+      "ödünç almak",
+      "vermek",
+      "satmak",
+      "çalmak"
+    ]
+  },
+  {
+    "english": "both",
+    "turkish": "her ikisi",
+    "options": [
+      "her ikisi",
+      "hiçbiri",
+      "bazıları",
+      "sadece"
+    ]
+  },
+  {
+    "english": "bottle",
+    "turkish": "şişe",
+    "options": [
+      "şişe",
+      "bardak",
+      "tabak",
+      "kaşık"
+    ]
+  },
+  {
+    "english": "bottom",
+    "turkish": "alt/dip",
+    "options": [
+      "alt/dip",
+      "üst",
+      "yan",
+      "orta"
+    ]
+  },
+  {
+    "english": "box",
+    "turkish": "kutu",
+    "options": [
+      "kutu",
+      "çanta",
+      "paket",
+      "oda"
+    ]
+  },
+  {
+    "english": "boy",
+    "turkish": "erkek çocuk",
+    "options": [
+      "erkek çocuk",
+      "kız çocuk",
+      "adam",
+      "bebek"
+    ]
+  },
+  {
+    "english": "branch",
+    "turkish": "dal/şube",
+    "options": [
+      "dal/şube",
+      "kök",
+      "yaprak",
+      "gövde"
+    ]
+  },
+  {
+    "english": "brave",
+    "turkish": "cesur",
+    "options": [
+      "cesur",
+      "korkak",
+      "akıllı",
+      "sessiz"
+    ]
+  },
+  {
+    "english": "bread",
+    "turkish": "ekmek",
+    "options": [
+      "ekmek",
+      "su",
+      "yemek",
+      "et"
+    ]
+  },
+  {
+    "english": "break",
+    "turkish": "kırmak/ara",
+    "options": [
+      "kırmak/ara",
+      "yapmak",
+      "tutmak",
+      "beklemek"
+    ]
+  },
+  {
+    "english": "breakfast",
+    "turkish": "kahvaltı",
+    "options": [
+      "kahvaltı",
+      "öğle yemeği",
+      "akşam yemeği",
+      "atıştırmalık"
+    ]
+  },
+  {
+    "english": "breathe",
+    "turkish": "nefes almak",
+    "options": [
+      "nefes almak",
+      "koşmak",
+      "uyumak",
+      "bakmak"
+    ]
+  },
+  {
+    "english": "bridge",
+    "turkish": "köprü",
+    "options": [
+      "köprü",
+      "yol",
+      "nehir",
+      "dağ"
+    ]
+  },
+  {
+    "english": "bring",
+    "turkish": "getirmek",
+    "options": [
+      "getirmek",
+      "götürmek",
+      "almak",
+      "satmak"
+    ]
+  },
+  {
+    "english": "brother",
+    "turkish": "erkek kardeş",
+    "options": [
+      "erkek kardeş",
+      "kız kardeş",
+      "baba",
+      "amca"
+    ]
+  },
+  {
+    "english": "brown",
+    "turkish": "kahverengi",
+    "options": [
+      "kahverengi",
+      "siyah",
+      "mavi",
+      "yeşil"
+    ]
+  },
+  {
+    "english": "build",
+    "turkish": "inşa etmek",
+    "options": [
+      "inşa etmek",
+      "yıkmak",
+      "boyamak",
+      "kazmak"
+    ]
+  },
+  {
+    "english": "building",
+    "turkish": "bina",
+    "options": [
+      "bina",
+      "ev",
+      "sokak",
+      "park"
+    ]
+  },
+  {
+    "english": "built",
+    "turkish": "inşa edilmiş",
+    "options": [
+      "inşa edilmiş",
+      "yıkık",
+      "eski",
+      "yeni"
+    ]
+  },
+  {
+    "english": "bus",
+    "turkish": "otobüs",
+    "options": [
+      "otobüs",
+      "tren",
+      "araba",
+      "uçak"
+    ]
+  },
+  {
+    "english": "business",
+    "turkish": "iş",
+    "options": [
+      "iş",
+      "eğlence",
+      "oyun",
+      "tatil"
+    ]
+  },
+  {
+    "english": "busy",
+    "turkish": "meşgul",
+    "options": [
+      "meşgul",
+      "boş",
+      "hazır",
+      "yavaş"
+    ]
+  },
+  {
+    "english": "but",
+    "turkish": "ama/fakat",
+    "options": [
+      "ama/fakat",
+      "çünkü",
+      "veya",
+      "eğer"
+    ]
+  },
+  {
+    "english": "butter",
+    "turkish": "tereyağı",
+    "options": [
+      "tereyağı",
+      "süt",
+      "peynir",
+      "yoğurt"
+    ]
+  },
+  {
+    "english": "buy",
+    "turkish": "satın almak",
+    "options": [
+      "satın almak",
+      "satmak",
+      "vermek",
+      "çalmak"
+    ]
+  },
+  {
+    "english": "cake",
+    "turkish": "kek/pasta",
+    "options": [
+      "kek/pasta",
+      "ekmek",
+      "kurabiye",
+      "şeker"
+    ]
+  },
+  {
+    "english": "call",
+    "turkish": "aramak/çağırmak",
+    "options": [
+      "aramak/çağırmak",
+      "duymak",
+      "bakmak",
+      "yazmak"
+    ]
+  },
+  {
+    "english": "calm",
+    "turkish": "sakin",
+    "options": [
+      "sakin",
+      "sinirli",
+      "heyecanlı",
+      "hızlı"
+    ]
+  },
+  {
+    "english": "camera",
+    "turkish": "kamera",
+    "options": [
+      "kamera",
+      "telefon",
+      "ayna",
+      "resim"
+    ]
+  },
+  {
+    "english": "can",
+    "turkish": "-ebilmek",
+    "options": [
+      "-ebilmek",
+      "yapmak",
+      "istemek",
+      "gitmek"
+    ]
+  },
+  {
+    "english": "captain",
+    "turkish": "kaptan",
+    "options": [
+      "kaptan",
+      "asker",
+      "pilot",
+      "şoför"
+    ]
+  },
+  {
+    "english": "car",
+    "turkish": "araba",
+    "options": [
+      "araba",
+      "bisiklet",
+      "motor",
+      "otobüs"
+    ]
+  },
+  {
+    "english": "card",
+    "turkish": "kart",
+    "options": [
+      "kart",
+      "kağıt",
+      "zarf",
+      "mektup"
+    ]
+  },
+  {
+    "english": "care",
+    "turkish": "bakım/önemsemek",
+    "options": [
+      "bakım/önemsemek",
+      "ihmal",
+      "nefret",
+      "korku"
+    ]
+  },
+  {
+    "english": "careful",
+    "turkish": "dikkatli",
+    "options": [
+      "dikkatli",
+      "dikkatsiz",
+      "hızlı",
+      "yavaş"
+    ]
+  },
+  {
+    "english": "careless",
+    "turkish": "dikkatsiz",
+    "options": [
+      "dikkatsiz",
+      "dikkatli",
+      "akıllı",
+      "tembel"
+    ]
+  },
+  {
+    "english": "carry",
+    "turkish": "taşımak",
+    "options": [
+      "taşımak",
+      "itmek",
+      "çekmek",
+      "bırakmak"
+    ]
+  },
+  {
+    "english": "case",
+    "turkish": "durum/vaka",
+    "options": [
+      "durum/vaka",
+      "sebep",
+      "sonuç",
+      "karar"
+    ]
+  },
+  {
+    "english": "cat",
+    "turkish": "kedi",
+    "options": [
+      "kedi",
+      "köpek",
+      "kuş",
+      "fare"
+    ]
+  },
+  {
+    "english": "catch",
+    "turkish": "yakalamak",
+    "options": [
+      "yakalamak",
+      "atmak",
+      "vurmak",
+      "kaçırmak"
+    ]
+  },
+  {
+    "english": "cause",
+    "turkish": "sebep olmak",
+    "options": [
+      "sebep olmak",
+      "bitirmek",
+      "durdurmak",
+      "çözmek"
+    ]
+  },
+  {
+    "english": "central",
+    "turkish": "merkezi",
+    "options": [
+      "merkezi",
+      "kenarda",
+      "uzak",
+      "yabancı"
+    ]
+  },
+  {
+    "english": "centre",
+    "turkish": "merkez",
+    "options": [
+      "merkez",
+      "kenar",
+      "sınır",
+      "yol"
+    ]
+  },
+  {
+    "english": "century",
+    "turkish": "yüzyıl",
+    "options": [
+      "yüzyıl",
+      "yıl",
+      "ay",
+      "hafta"
+    ]
+  },
+  {
+    "english": "certain",
+    "turkish": "kesin",
+    "options": [
+      "kesin",
+      "belirsiz",
+      "belki",
+      "yanlış"
+    ]
+  },
+  {
+    "english": "certainly",
+    "turkish": "kesinlikle",
+    "options": [
+      "kesinlikle",
+      "asla",
+      "muhtemelen",
+      "bazen"
+    ]
+  },
+  {
+    "english": "chain",
+    "turkish": "zincir",
+    "options": [
+      "zincir",
+      "ip",
+      "kilit",
+      "demir"
+    ]
+  },
+  {
+    "english": "chair",
+    "turkish": "sandalye",
+    "options": [
+      "sandalye",
+      "masa",
+      "koltuk",
+      "yatak"
+    ]
+  },
+  {
+    "english": "chance",
+    "turkish": "şans",
+    "options": [
+      "şans",
+      "risk",
+      "kader",
+      "plan"
+    ]
+  },
+  {
+    "english": "change",
+    "turkish": "değiştirmek",
+    "options": [
+      "değiştirmek",
+      "korumak",
+      "tutmak",
+      "bakmak"
+    ]
+  },
+  {
+    "english": "character",
+    "turkish": "karakter",
+    "options": [
+      "karakter",
+      "insan",
+      "isim",
+      "yüz"
+    ]
+  },
+  {
+    "english": "charge",
+    "turkish": "ücret/şarj",
+    "options": [
+      "ücret/şarj",
+      "değişim",
+      "kontrol",
+      "seçim"
+    ]
+  },
+  {
+    "english": "cheap",
+    "turkish": "ucuz",
+    "options": [
+      "ucuz",
+      "pahalı",
+      "eski",
+      "yeni"
+    ]
+  },
+  {
+    "english": "check",
+    "turkish": "kontrol etmek",
+    "options": [
+      "kontrol etmek",
+      "yazmak",
+      "aramak",
+      "beklemek"
+    ]
+  },
+  {
+    "english": "cheese",
+    "turkish": "peynir",
+    "options": [
+      "peynir",
+      "süt",
+      "ekmek",
+      "yumurta"
+    ]
+  },
+  {
+    "english": "chicken",
+    "turkish": "tavuk",
+    "options": [
+      "tavuk",
+      "et",
+      "balık",
+      "kuş"
+    ]
+  },
+  {
+    "english": "chief",
+    "turkish": "şef/başkan",
+    "options": [
+      "şef/başkan",
+      "işçi",
+      "memur",
+      "öğrenci"
+    ]
+  },
+  {
+    "english": "child",
+    "turkish": "çocuk",
+    "options": [
+      "çocuk",
+      "bebek",
+      "yetişkin",
+      "yaşlı"
+    ]
+  },
+  {
+    "english": "chocolate",
+    "turkish": "çikolata",
+    "options": [
+      "çikolata",
+      "şeker",
+      "meyve",
+      "kek"
+    ]
+  },
+  {
+    "english": "choice",
+    "turkish": "seçim",
+    "options": [
+      "seçim",
+      "karar",
+      "şans",
+      "hak"
+    ]
+  },
+  {
+    "english": "choose",
+    "turkish": "seçmek",
+    "options": [
+      "seçmek",
+      "almak",
+      "vermek",
+      "bakmak"
+    ]
+  },
+  {
+    "english": "church",
+    "turkish": "kilise",
+    "options": [
+      "kilise",
+      "cami",
+      "okul",
+      "ev"
+    ]
+  },
+  {
+    "english": "cigarette",
+    "turkish": "sigara",
+    "options": [
+      "sigara",
+      "çakmak",
+      "tütün",
+      "duman"
+    ]
+  },
+  {
+    "english": "cinema",
+    "turkish": "sinema",
+    "options": [
+      "sinema",
+      "tiyatro",
+      "müze",
+      "park"
+    ]
+  },
+  {
+    "english": "circle",
+    "turkish": "daire/çember",
+    "options": [
+      "daire/çember",
+      "kare",
+      "üçgen",
+      "çizgi"
+    ]
+  },
+  {
+    "english": "city",
+    "turkish": "şehir",
+    "options": [
+      "şehir",
+      "köy",
+      "ülke",
+      "mahalle"
+    ]
+  },
+  {
+    "english": "class",
+    "turkish": "sınıf",
+    "options": [
+      "sınıf",
+      "okul",
+      "ders",
+      "öğrenci"
+    ]
+  },
+  {
+    "english": "clean",
+    "turkish": "temiz",
+    "options": [
+      "temiz",
+      "kirli",
+      "eski",
+      "yeni"
+    ]
+  },
+  {
+    "english": "clear",
+    "turkish": "açık/net",
+    "options": [
+      "açık/net",
+      "kapalı",
+      "koyu",
+      "zor"
+    ]
+  },
+  {
+    "english": "climb",
+    "turkish": "tırmanmak",
+    "options": [
+      "tırmanmak",
+      "atlamak",
+      "koşmak",
+      "yürümek"
+    ]
+  },
+  {
+    "english": "clock",
+    "turkish": "saat",
+    "options": [
+      "saat",
+      "zaman",
+      "takvim",
+      "dakika"
+    ]
+  },
+  {
+    "english": "close",
+    "turkish": "kapatmak/yakın",
+    "options": [
+      "kapatmak/yakın",
+      "açmak",
+      "uzak",
+      "gitmek"
+    ]
+  },
+  {
+    "english": "cloth",
+    "turkish": "kumaş",
+    "options": [
+      "kumaş",
+      "giysi",
+      "kağıt",
+      "deri"
+    ]
+  },
+  {
+    "english": "clothes",
+    "turkish": "giysi",
+    "options": [
+      "giysi",
+      "ayakkabı",
+      "çanta",
+      "şapka"
+    ]
+  },
+  {
+    "english": "cloud",
+    "turkish": "bulut",
+    "options": [
+      "bulut",
+      "yağmur",
+      "güneş",
+      "rüzgar"
+    ]
+  },
+  {
+    "english": "club",
+    "turkish": "kulüp",
+    "options": [
+      "kulüp",
+      "okul",
+      "grup",
+      "takım"
+    ]
+  },
+  {
+    "english": "coal",
+    "turkish": "kömür",
+    "options": [
+      "kömür",
+      "odun",
+      "ateş",
+      "gaz"
+    ]
+  },
+  {
+    "english": "coast",
+    "turkish": "sahil",
+    "options": [
+      "sahil",
+      "deniz",
+      "dağ",
+      "orman"
+    ]
+  },
+  {
+    "english": "coat",
+    "turkish": "palto/ceket",
+    "options": [
+      "palto/ceket",
+      "gömlek",
+      "pantolon",
+      "kazak"
+    ]
+  },
+  {
+    "english": "coffee",
+    "turkish": "kahve",
+    "options": [
+      "kahve",
+      "çay",
+      "su",
+      "süt"
+    ]
+  },
+  {
+    "english": "coin",
+    "turkish": "madeni para",
+    "options": [
+      "madeni para",
+      "kağıt para",
+      "borç",
+      "cüzdan"
+    ]
+  },
+  {
+    "english": "cold",
+    "turkish": "soğuk",
+    "options": [
+      "soğuk",
+      "sıcak",
+      "ılık",
+      "serin"
+    ]
+  },
+  {
+    "english": "collect",
+    "turkish": "toplamak",
+    "options": [
+      "toplamak",
+      "dağıtmak",
+      "atmak",
+      "satmak"
+    ]
+  },
+  {
+    "english": "college",
+    "turkish": "kolej/üniversite",
+    "options": [
+      "kolej/üniversite",
+      "lise",
+      "kurs",
+      "ofis"
+    ]
+  },
+  {
+    "english": "colour",
+    "turkish": "renk",
+    "options": [
+      "renk",
+      "şekil",
+      "boyut",
+      "resim"
+    ]
+  },
+  {
+    "english": "come",
+    "turkish": "gelmek",
+    "options": [
+      "gelmek",
+      "gitmek",
+      "kalmak",
+      "bakmak"
+    ]
+  },
+  {
+    "english": "comfort",
+    "turkish": "konfor/rahatlık",
+    "options": [
+      "konfor/rahatlık",
+      "acı",
+      "keder",
+      "telaş"
+    ]
+  },
+  {
+    "english": "comfortable",
+    "turkish": "rahat",
+    "options": [
+      "rahat",
+      "rahatsız",
+      "sert",
+      "dar"
+    ]
+  },
+  {
+    "english": "common",
+    "turkish": "yaygın/ortak",
+    "options": [
+      "yaygın/ortak",
+      "nadir",
+      "özel",
+      "farklı"
+    ]
+  },
+  {
+    "english": "company",
+    "turkish": "şirket",
+    "options": [
+      "şirket",
+      "ev",
+      "ofis",
+      "dükkan"
+    ]
+  },
+  {
+    "english": "complete",
+    "turkish": "tamamlamak",
+    "options": [
+      "tamamlamak",
+      "başlamak",
+      "bölmek",
+      "bozmak"
+    ]
+  },
+  {
+    "english": "computer",
+    "turkish": "bilgisayar",
+    "options": [
+      "bilgisayar",
+      "televizyon",
+      "telefon",
+      "ekran"
+    ]
+  },
+  {
+    "english": "condition",
+    "turkish": "durum/şart",
+    "options": [
+      "durum/şart",
+      "sonuç",
+      "karar",
+      "olasılık"
+    ]
+  },
+  {
+    "english": "confirm",
+    "turkish": "onaylamak",
+    "options": [
+      "onaylamak",
+      "reddetmek",
+      "sormak",
+      "beklemek"
+    ]
+  },
+  {
+    "english": "consider",
+    "turkish": "düşünmek/dikkate almak",
+    "options": [
+      "düşünmek/dikkate almak",
+      "unutmak",
+      "görmezden gelmek",
+      "anlamak"
+    ]
+  },
+  {
+    "english": "consist",
+    "turkish": "-den oluşmak",
+    "options": [
+      "-den oluşmak",
+      "ayrılmak",
+      "bozulmak",
+      "başlamak"
+    ]
+  },
+  {
+    "english": "contain",
+    "turkish": "içermek",
+    "options": [
+      "içermek",
+      "çıkarmak",
+      "atmak",
+      "saklamak"
+    ]
+  },
+  {
+    "english": "continue",
+    "turkish": "devam etmek",
+    "options": [
+      "devam etmek",
+      "durmak",
+      "bitirmek",
+      "başlamak"
+    ]
+  },
+  {
+    "english": "control",
+    "turkish": "kontrol etmek",
+    "options": [
+      "kontrol etmek",
+      "bırakmak",
+      "izlemek",
+      "kaçırmak"
+    ]
+  },
+  {
+    "english": "cook",
+    "turkish": "pişirmek",
+    "options": [
+      "pişirmek",
+      "yemek",
+      "yıkamak",
+      "kesmek"
+    ]
+  },
+  {
+    "english": "copy",
+    "turkish": "kopyalamak",
+    "options": [
+      "kopyalamak",
+      "silmek",
+      "yazmak",
+      "okumak"
+    ]
+  },
+  {
+    "english": "corner",
+    "turkish": "köşe",
+    "options": [
+      "köşe",
+      "kenar",
+      "orta",
+      "çizgi"
+    ]
+  },
+  {
+    "english": "correct",
+    "turkish": "doğru",
+    "options": [
+      "doğru",
+      "yanlış",
+      "eksik",
+      "farklı"
+    ]
+  },
+  {
+    "english": "cost",
+    "turkish": "maliyet",
+    "options": [
+      "maliyet",
+      "fiyat",
+      "borç",
+      "gelir"
+    ]
+  },
+  {
+    "english": "cottage",
+    "turkish": "kulübe",
+    "options": [
+      "kulübe",
+      "saray",
+      "apartman",
+      "ofis"
+    ]
+  },
+  {
+    "english": "could",
+    "turkish": "-ebilirdi",
+    "options": [
+      "-ebilirdi",
+      "yapmalı",
+      "istiyor",
+      "olacak"
+    ]
+  },
+  {
+    "english": "count",
+    "turkish": "saymak",
+    "options": [
+      "saymak",
+      "yazmak",
+      "okumak",
+      "bakmak"
+    ]
+  },
+  {
+    "english": "country",
+    "turkish": "ülke",
+    "options": [
+      "ülke",
+      "şehir",
+      "köy",
+      "dünya"
+    ]
+  },
+  {
+    "english": "course",
+    "turkish": "kurs/ders",
+    "options": [
+      "kurs/ders",
+      "sınav",
+      "kitap",
+      "okul"
+    ]
+  },
+  {
+    "english": "court",
+    "turkish": "mahkeme/kort",
+    "options": [
+      "mahkeme/kort",
+      "bahçe",
+      "alan",
+      "salon"
+    ]
+  },
+  {
+    "english": "cover",
+    "turkish": "örtmek/kapak",
+    "options": [
+      "örtmek/kapak",
+      "açmak",
+      "bulmak",
+      "atmak"
+    ]
+  },
+  {
+    "english": "crazy",
+    "turkish": "çılgın",
+    "options": [
+      "çılgın",
+      "akıllı",
+      "sakin",
+      "mutlu"
+    ]
+  },
+  {
+    "english": "cream",
+    "turkish": "krema/krem",
+    "options": [
+      "krema/krem",
+      "süt",
+      "su",
+      "yağ"
+    ]
+  },
+  {
+    "english": "crime",
+    "turkish": "suç",
+    "options": [
+      "suç",
+      "ceza",
+      "yasak",
+      "kural"
+    ]
+  },
+  {
+    "english": "cross",
+    "turkish": "çapraz/geçmek",
+    "options": [
+      "çapraz/geçmek",
+      "durmak",
+      "beklemek",
+      "yürümek"
+    ]
+  },
+  {
+    "english": "crowd",
+    "turkish": "kalabalık",
+    "options": [
+      "kalabalık",
+      "yalnız",
+      "grup",
+      "sessizlik"
+    ]
+  },
+  {
+    "english": "cry",
+    "turkish": "ağlamak",
+    "options": [
+      "ağlamak",
+      "gülmek",
+      "bağırmak",
+      "koşmak"
+    ]
+  },
+  {
+    "english": "culture",
+    "turkish": "kültür",
+    "options": [
+      "kültür",
+      "sanat",
+      "tarih",
+      "bilim"
+    ]
+  },
+  {
+    "english": "cup",
+    "turkish": "fincan/kupa",
+    "options": [
+      "fincan/kupa",
+      "tabak",
+      "kaşık",
+      "tencere"
+    ]
+  },
+  {
+    "english": "customer",
+    "turkish": "müşteri",
+    "options": [
+      "müşteri",
+      "satıcı",
+      "patron",
+      "işçi"
+    ]
+  },
+  {
+    "english": "cut",
+    "turkish": "kesmek",
+    "options": [
+      "kesmek",
+      "yapıştırmak",
+      "tutmak",
+      "atmak"
+    ]
+  },
+  {
+    "english": "damage",
+    "turkish": "zarar/hasar",
+    "options": [
+      "zarar/hasar",
+      "fayda",
+      "tamir",
+      "bakım"
+    ]
+  },
+  {
+    "english": "dance",
+    "turkish": "dans etmek",
+    "options": [
+      "dans etmek",
+      "şarkı söylemek",
+      "oynamak",
+      "yürümek"
+    ]
+  },
+  {
+    "english": "dangerous",
+    "turkish": "tehlikeli",
+    "options": [
+      "tehlikeli",
+      "güvenli",
+      "hızlı",
+      "korkunç"
+    ]
+  },
+  {
+    "english": "dark",
+    "turkish": "karanlık",
+    "options": [
+      "karanlık",
+      "aydınlık",
+      "renkli",
+      "soğuk"
+    ]
+  },
+  {
+    "english": "date",
+    "turkish": "tarih/randevu",
+    "options": [
+      "tarih/randevu",
+      "zaman",
+      "saat",
+      "gün"
+    ]
+  },
+  {
+    "english": "daughter",
+    "turkish": "kız evlat",
+    "options": [
+      "kız evlat",
+      "erkek evlat",
+      "anne",
+      "kız kardeş"
+    ]
+  },
+  {
+    "english": "day",
+    "turkish": "gün",
+    "options": [
+      "gün",
+      "gece",
+      "ay",
+      "yıl"
+    ]
+  },
+  {
+    "english": "dead",
+    "turkish": "ölü",
+    "options": [
+      "ölü",
+      "canlı",
+      "hasta",
+      "yaşlı"
+    ]
+  },
+  {
+    "english": "deal",
+    "turkish": "anlaşma",
+    "options": [
+      "anlaşma",
+      "kavga",
+      "karar",
+      "satış"
+    ]
+  },
+  {
+    "english": "dear",
+    "turkish": "sevgili/pahalı",
+    "options": [
+      "sevgili/pahalı",
+      "ucuz",
+      "kötü",
+      "uzak"
+    ]
+  },
+  {
+    "english": "death",
+    "turkish": "ölüm",
+    "options": [
+      "ölüm",
+      "doğum",
+      "hayat",
+      "uyku"
+    ]
+  },
+  {
+    "english": "decide",
+    "turkish": "karar vermek",
+    "options": [
+      "karar vermek",
+      "düşünmek",
+      "vazgeçmek",
+      "bakmak"
+    ]
+  },
+  {
+    "english": "decision",
+    "turkish": "karar",
+    "options": [
+      "karar",
+      "seçim",
+      "şans",
+      "fikir"
+    ]
+  },
+  {
+    "english": "declare",
+    "turkish": "ilan etmek",
+    "options": [
+      "ilan etmek",
+      "saklamak",
+      "sormak",
+      "yazmak"
+    ]
+  },
+  {
+    "english": "deep",
+    "turkish": "derin",
+    "options": [
+      "derin",
+      "sığ",
+      "uzun",
+      "geniş"
+    ]
+  },
+  {
+    "english": "defend",
+    "turkish": "savunmak",
+    "options": [
+      "savunmak",
+      "saldırmak",
+      "kaçmak",
+      "durmak"
+    ]
+  },
+  {
+    "english": "degree",
+    "turkish": "derece",
+    "options": [
+      "derece",
+      "miktar",
+      "ölçü",
+      "puan"
+    ]
+  },
+  {
+    "english": "delay",
+    "turkish": "gecikme",
+    "options": [
+      "gecikme",
+      "hız",
+      "zaman",
+      "erken"
+    ]
+  },
+  {
+    "english": "demand",
+    "turkish": "talep etmek",
+    "options": [
+      "talep etmek",
+      "vermek",
+      "reddetmek",
+      "beklemek"
+    ]
+  },
+  {
+    "english": "department",
+    "turkish": "departman/bölüm",
+    "options": [
+      "departman/bölüm",
+      "şirket",
+      "ofis",
+      "kat"
+    ]
+  },
+  {
+    "english": "depend",
+    "turkish": "bağlı olmak",
+    "options": [
+      "bağlı olmak",
+      "ayrılmak",
+      "tek başına",
+      "gitmek"
+    ]
+  },
+  {
+    "english": "describe",
+    "turkish": "tanımlamak",
+    "options": [
+      "tanımlamak",
+      "çizmek",
+      "görmek",
+      "anlatmak"
+    ]
+  },
+  {
+    "english": "desert",
+    "turkish": "çöl",
+    "options": [
+      "çöl",
+      "orman",
+      "deniz",
+      "dağ"
+    ]
+  },
+  {
+    "english": "design",
+    "turkish": "tasarım",
+    "options": [
+      "tasarım",
+      "resim",
+      "plan",
+      "yapı"
+    ]
+  },
+  {
+    "english": "desk",
+    "turkish": "sıra/masa",
+    "options": [
+      "sıra/masa",
+      "sandalye",
+      "dolap",
+      "tahta"
+    ]
+  },
+  {
+    "english": "destroy",
+    "turkish": "yok etmek",
+    "options": [
+      "yok etmek",
+      "yapmak",
+      "kurmak",
+      "korumak"
+    ]
+  },
+  {
+    "english": "detail",
+    "turkish": "detay",
+    "options": [
+      "detay",
+      "genel",
+      "bütün",
+      "parça"
+    ]
+  },
+  {
+    "english": "die",
+    "turkish": "ölmek",
+    "options": [
+      "ölmek",
+      "yaşamak",
+      "doğmak",
+      "uyumak"
+    ]
+  },
+  {
+    "english": "different",
+    "turkish": "farklı",
+    "options": [
+      "farklı",
+      "aynı",
+      "benzer",
+      "sıradan"
+    ]
+  },
+  {
+    "english": "difficult",
+    "turkish": "zor",
+    "options": [
+      "zor",
+      "kolay",
+      "basit",
+      "hızlı"
+    ]
+  },
+  {
+    "english": "dinner",
+    "turkish": "akşam yemeği",
+    "options": [
+      "akşam yemeği",
+      "kahvaltı",
+      "öğle yemeği",
+      "atıştırmalık"
+    ]
+  },
+  {
+    "english": "direct",
+    "turkish": "doğrudan",
+    "options": [
+      "doğrudan",
+      "dolaylı",
+      "ters",
+      "yanlış"
+    ]
+  },
+  {
+    "english": "direction",
+    "turkish": "yön",
+    "options": [
+      "yön",
+      "yol",
+      "hız",
+      "amaç"
+    ]
+  },
+  {
+    "english": "dirty",
+    "turkish": "kirli",
+    "options": [
+      "kirli",
+      "temiz",
+      "eski",
+      "yeni"
+    ]
+  },
+  {
+    "english": "discover",
+    "turkish": "keşfetmek",
+    "options": [
+      "keşfetmek",
+      "icat etmek",
+      "bulmak",
+      "saklamak"
+    ]
+  },
+  {
+    "english": "discuss",
+    "turkish": "tartışmak",
+    "options": [
+      "tartışmak",
+      "konuşmak",
+      "susmak",
+      "dinlemek"
+    ]
+  },
+  {
+    "english": "dish",
+    "turkish": "tabak/yemek",
+    "options": [
+      "tabak/yemek",
+      "bardak",
+      "çatal",
+      "bıçak"
+    ]
+  },
+  {
+    "english": "distance",
+    "turkish": "mesafe",
+    "options": [
+      "mesafe",
+      "hız",
+      "zaman",
+      "ağırlık"
+    ]
+  },
+  {
+    "english": "divide",
+    "turkish": "bölmek",
+    "options": [
+      "bölmek",
+      "çarpmak",
+      "toplamak",
+      "çıkarmak"
+    ]
+  },
+  {
+    "english": "do",
+    "turkish": "yapmak",
+    "options": [
+      "yapmak",
+      "gitmek",
+      "gelmek",
+      "bakmak"
+    ]
+  },
+  {
+    "english": "doctor",
+    "turkish": "doktor",
+    "options": [
+      "doktor",
+      "hemşire",
+      "hasta",
+      "öğretmen"
+    ]
+  },
+  {
+    "english": "document",
+    "turkish": "belge",
+    "options": [
+      "belge",
+      "kitap",
+      "dergi",
+      "mektup"
+    ]
+  },
+  {
+    "english": "dog",
+    "turkish": "köpek",
+    "options": [
+      "köpek",
+      "kedi",
+      "kuş",
+      "fare"
+    ]
+  },
+  {
+    "english": "dollar",
+    "turkish": "dolar",
+    "options": [
+      "dolar",
+      "para",
+      "altın",
+      "borç"
+    ]
+  },
+  {
+    "english": "door",
+    "turkish": "kapı",
+    "options": [
+      "kapı",
+      "pencere",
+      "duvar",
+      "çatı"
+    ]
+  },
+  {
+    "english": "double",
+    "turkish": "çift/iki kat",
+    "options": [
+      "çift/iki kat",
+      "tek",
+      "yarım",
+      "üçlü"
+    ]
+  },
+  {
+    "english": "doubt",
+    "turkish": "şüphe",
+    "options": [
+      "şüphe",
+      "inanç",
+      "bilgi",
+      "güven"
+    ]
+  },
+  {
+    "english": "down",
+    "turkish": "aşağı",
+    "options": [
+      "aşağı",
+      "yukarı",
+      "sağ",
+      "sol"
+    ]
+  },
+  {
+    "english": "draw",
+    "turkish": "çizmek",
+    "options": [
+      "çizmek",
+      "yazmak",
+      "okumak",
+      "boyamak"
+    ]
+  },
+  {
+    "english": "dream",
+    "turkish": "rüya",
+    "options": [
+      "rüya",
+      "hayal",
+      "gerçek",
+      "uyku"
+    ]
+  },
+  {
+    "english": "dress",
+    "turkish": "elbise",
+    "options": [
+      "elbise",
+      "pantolon",
+      "gömlek",
+      "ceket"
+    ]
+  },
+  {
+    "english": "drink",
+    "turkish": "içmek",
+    "options": [
+      "içmek",
+      "yemek",
+      "uyumak",
+      "koşmak"
+    ]
+  },
+  {
+    "english": "drive",
+    "turkish": "sürmek",
+    "options": [
+      "sürmek",
+      "yürümek",
+      "uçmak",
+      "yüzmek"
+    ]
+  },
+  {
+    "english": "drop",
+    "turkish": "düşürmek/damla",
+    "options": [
+      "düşürmek/damla",
+      "tutmak",
+      "atmak",
+      "çekmek"
+    ]
+  },
+  {
+    "english": "dry",
+    "turkish": "kuru",
+    "options": [
+      "kuru",
+      "ıslak",
+      "nemli",
+      "sıcak"
+    ]
+  },
+  {
+    "english": "during",
+    "turkish": "sırasında",
+    "options": [
+      "sırasında",
+      "önce",
+      "sonra",
+      "boyunca"
+    ]
+  },
+  {
+    "english": "dust",
+    "turkish": "toz",
+    "options": [
+      "toz",
+      "toprak",
+      "çamur",
+      "hava"
+    ]
+  },
+  {
+    "english": "duty",
+    "turkish": "görev",
+    "options": [
+      "görev",
+      "hak",
+      "izin",
+      "iş"
+    ]
+  },
+  {
+    "english": "each",
+    "turkish": "her biri",
+    "options": [
+      "her biri",
+      "hepsi",
+      "hiçbiri",
+      "bazıları"
+    ]
+  },
+  {
+    "english": "ear",
+    "turkish": "kulak",
+    "options": [
+      "kulak",
+      "göz",
+      "burun",
+      "ağız"
+    ]
+  },
+  {
+    "english": "early",
+    "turkish": "erken",
+    "options": [
+      "erken",
+      "geç",
+      "şimdi",
+      "sonra"
+    ]
+  },
+  {
+    "english": "earn",
+    "turkish": "kazanmak",
+    "options": [
+      "kazanmak",
+      "kaybetmek",
+      "harcamak",
+      "bulmak"
+    ]
+  },
+  {
+    "english": "earth",
+    "turkish": "dünya/yer",
+    "options": [
+      "dünya/yer",
+      "ay",
+      "güneş",
+      "yıldız"
+    ]
+  },
+  {
+    "english": "east",
+    "turkish": "doğu",
+    "options": [
+      "doğu",
+      "batı",
+      "kuzey",
+      "güney"
+    ]
+  },
+  {
+    "english": "easy",
+    "turkish": "kolay",
+    "options": [
+      "kolay",
+      "zor",
+      "hızlı",
+      "ağır"
+    ]
+  },
+  {
+    "english": "eat",
+    "turkish": "yemek",
+    "options": [
+      "yemek",
+      "içmek",
+      "uyumak",
+      "konuşmak"
+    ]
+  },
+  {
+    "english": "edge",
+    "turkish": "kenar",
+    "options": [
+      "kenar",
+      "orta",
+      "köşe",
+      "merkez"
+    ]
+  },
+  {
+    "english": "education",
+    "turkish": "eğitim",
+    "options": [
+      "eğitim",
+      "okul",
+      "ders",
+      "sınav"
+    ]
+  },
+  {
+    "english": "effect",
+    "turkish": "etki",
+    "options": [
+      "etki",
+      "sonuç",
+      "neden",
+      "tepki"
+    ]
+  },
+  {
+    "english": "effort",
+    "turkish": "çaba",
+    "options": [
+      "çaba",
+      "başarı",
+      "şans",
+      "hata"
+    ]
+  },
+  {
+    "english": "egg",
+    "turkish": "yumurta",
+    "options": [
+      "yumurta",
+      "süt",
+      "ekmek",
+      "peynir"
+    ]
+  },
+  {
+    "english": "eight",
+    "turkish": "sekiz",
+    "options": [
+      "sekiz",
+      "yedi",
+      "dokuz",
+      "altı"
+    ]
+  },
+  {
+    "english": "either",
+    "turkish": "ya da/ikisinden biri",
+    "options": [
+      "ya da/ikisinden biri",
+      "her ikisi",
+      "hiçbiri",
+      "sadece"
+    ]
+  },
+  {
+    "english": "end",
+    "turkish": "son",
+    "options": [
+      "son",
+      "başlangıç",
+      "orta",
+      "kenar"
+    ]
+  },
+  {
+    "english": "enemy",
+    "turkish": "düşman",
+    "options": [
+      "düşman",
+      "dost",
+      "arkadaş",
+      "rakip"
+    ]
+  },
+  {
+    "english": "engine",
+    "turkish": "motor",
+    "options": [
+      "motor",
+      "tekerlek",
+      "kapı",
+      "pencere"
+    ]
+  },
+  {
+    "english": "English",
+    "turkish": "İngilizce",
+    "options": [
+      "İngilizce",
+      "Türkçe",
+      "Almanca",
+      "Fransızca"
+    ]
+  },
+  {
+    "english": "enjoy",
+    "turkish": "zevk almak",
+    "options": [
+      "zevk almak",
+      "nefret etmek",
+      "üzülmek",
+      "sıkılmak"
+    ]
+  },
+  {
+    "english": "enough",
+    "turkish": "yeterli",
+    "options": [
+      "yeterli",
+      "eksik",
+      "fazla",
+      "az"
+    ]
+  },
+  {
+    "english": "enter",
+    "turkish": "girmek",
+    "options": [
+      "girmek",
+      "çıkmak",
+      "durmak",
+      "beklemek"
+    ]
+  },
+  {
+    "english": "equal",
+    "turkish": "eşit",
+    "options": [
+      "eşit",
+      "farklı",
+      "benzer",
+      "fazla"
+    ]
+  },
+  {
+    "english": "escape",
+    "turkish": "kaçmak",
+    "options": [
+      "kaçmak",
+      "kovalamak",
+      "yakalamak",
+      "durmak"
+    ]
+  },
+  {
+    "english": "especially",
+    "turkish": "özellikle",
+    "options": [
+      "özellikle",
+      "genellikle",
+      "asla",
+      "bazen"
+    ]
+  },
+  {
+    "english": "even",
+    "turkish": "bile/hatta",
+    "options": [
+      "bile/hatta",
+      "asla",
+      "çünkü",
+      "rağmen"
+    ]
+  },
+  {
+    "english": "evening",
+    "turkish": "akşam",
+    "options": [
+      "akşam",
+      "sabah",
+      "öğle",
+      "gece"
+    ]
+  },
+  {
+    "english": "event",
+    "turkish": "olay",
+    "options": [
+      "olay",
+      "plan",
+      "sonuç",
+      "haber"
+    ]
+  },
+  {
+    "english": "ever",
+    "turkish": "hiç/herhangi bir zaman",
+    "options": [
+      "hiç/herhangi bir zaman",
+      "şimdi",
+      "asla",
+      "sonra"
+    ]
+  },
+  {
+    "english": "every",
+    "turkish": "her",
+    "options": [
+      "her",
+      "hiç",
+      "biraz",
+      "bazı"
+    ]
+  },
+  {
+    "english": "everything",
+    "turkish": "her şey",
+    "options": [
+      "her şey",
+      "bir şey",
+      "hiçbir şey",
+      "bazı şeyler"
+    ]
+  },
+  {
+    "english": "everywhere",
+    "turkish": "her yer",
+    "options": [
+      "her yer",
+      "hiçbir yer",
+      "burası",
+      "şurası"
+    ]
+  },
+  {
+    "english": "exact",
+    "turkish": "kesin/tam",
+    "options": [
+      "kesin/tam",
+      "yaklaşık",
+      "yanlış",
+      "belirsiz"
+    ]
+  },
+  {
+    "english": "examine",
+    "turkish": "incelemek",
+    "options": [
+      "incelemek",
+      "bakmak",
+      "yazmak",
+      "okumak"
+    ]
+  },
+  {
+    "english": "example",
+    "turkish": "örnek",
+    "options": [
+      "örnek",
+      "ders",
+      "sınav",
+      "soru"
+    ]
+  },
+  {
+    "english": "except",
+    "turkish": "hariç/dışında",
+    "options": [
+      "hariç/dışında",
+      "dahil",
+      "içinde",
+      "yanında"
+    ]
+  },
+  {
+    "english": "exercise",
+    "turkish": "egzersiz",
+    "options": [
+      "egzersiz",
+      "dinlenme",
+      "uyku",
+      "yemek"
+    ]
+  },
+  {
+    "english": "exchange",
+    "turkish": "takas/değiş tokuş",
+    "options": [
+      "takas/değiş tokuş",
+      "satış",
+      "hediye",
+      "borç"
+    ]
+  },
+  {
+    "english": "expect",
+    "turkish": "beklemek/ummak",
+    "options": [
+      "beklemek/ummak",
+      "unutmak",
+      "hatırlamak",
+      "bulmak"
+    ]
+  },
+  {
+    "english": "expensive",
+    "turkish": "pahalı",
+    "options": [
+      "pahalı",
+      "ucuz",
+      "eski",
+      "yeni"
+    ]
+  },
+  {
+    "english": "experience",
+    "turkish": "deneyim",
+    "options": [
+      "deneyim",
+      "hayal",
+      "bilgi",
+      "ders"
+    ]
+  },
+  {
+    "english": "explain",
+    "turkish": "açıklamak",
+    "options": [
+      "açıklamak",
+      "dinlemek",
+      "sormak",
+      "gizlemek"
+    ]
+  },
+  {
+    "english": "express",
+    "turkish": "ifade etmek",
+    "options": [
+      "ifade etmek",
+      "susmak",
+      "dinlemek",
+      "bakmak"
+    ]
+  },
+  {
+    "english": "expression",
+    "turkish": "ifade",
+    "options": [
+      "ifade",
+      "kelime",
+      "yüz",
+      "ses"
+    ]
+  },
+  {
+    "english": "eye",
+    "turkish": "göz",
+    "options": [
+      "göz",
+      "kulak",
+      "burun",
+      "ağız"
+    ]
+  },
+  {
+    "english": "face",
+    "turkish": "yüz",
+    "options": [
+      "yüz",
+      "kafa",
+      "el",
+      "vücut"
+    ]
+  },
+  {
+    "english": "fact",
+    "turkish": "gerçek",
+    "options": [
+      "gerçek",
+      "yalan",
+      "hayal",
+      "rüya"
+    ]
+  },
+  {
+    "english": "factory",
+    "turkish": "fabrika",
+    "options": [
+      "fabrika",
+      "ofis",
+      "okul",
+      "ev"
+    ]
+  },
+  {
+    "english": "fail",
+    "turkish": "başarısız olmak",
+    "options": [
+      "başarısız olmak",
+      "kazanmak",
+      "başarmak",
+      "bitirmek"
+    ]
+  },
+  {
+    "english": "fall",
+    "turkish": "düşmek",
+    "options": [
+      "düşmek",
+      "kalkmak"
+    ]
+  },
+  {
+    "english": "famous",
+    "turkish": "ünlü",
+    "options": [
+      "ünlü",
+      "zengin",
+      "başarılı",
+      "eski"
+    ]
+  },
+  {
+    "english": "farm",
+    "turkish": "çiftlik",
+    "options": [
+      "çiftlik",
+      "bahçe",
+      "tarla",
+      "orman"
+    ]
+  },
+  {
+    "english": "farmer",
+    "turkish": "çiftçi",
+    "options": [
+      "çiftçi",
+      "işçi",
+      "bahçıvan",
+      "köylü"
+    ]
+  },
+  {
+    "english": "fast",
+    "turkish": "hızlı",
+    "options": [
+      "hızlı",
+      "yavaş",
+      "sakin",
+      "ani"
+    ]
+  },
+  {
+    "english": "fat",
+    "turkish": "şişman/yağ",
+    "options": [
+      "şişman/yağ",
+      "zayıf",
+      "uzun",
+      "kaslı"
+    ]
+  },
+  {
+    "english": "father",
+    "turkish": "baba",
+    "options": [
+      "baba",
+      "anne",
+      "dede",
+      "amca"
+    ]
+  },
+  {
+    "english": "favourite",
+    "turkish": "en sevilen",
+    "options": [
+      "en sevilen",
+      "farklı",
+      "güzel",
+      "popüler"
+    ]
+  },
+  {
+    "english": "feel",
+    "turkish": "hissetmek",
+    "options": [
+      "hissetmek",
+      "düşünmek",
+      "bakmak",
+      "duymak"
+    ]
+  },
+  {
+    "english": "few",
+    "turkish": "birkaç/az",
+    "options": [
+      "birkaç/az",
+      "çok",
+      "hepsi",
+      "hiç"
+    ]
+  },
+  {
+    "english": "field",
+    "turkish": "alan/tarla",
+    "options": [
+      "alan/tarla",
+      "yol",
+      "şehir",
+      "oda"
+    ]
+  },
+  {
+    "english": "fight",
+    "turkish": "dövüşmek/kavga",
+    "options": [
+      "dövüşmek/kavga",
+      "barışmak",
+      "oynamak",
+      "koşmak"
+    ]
+  },
+  {
+    "english": "film",
+    "turkish": "film",
+    "options": [
+      "film",
+      "kitap",
+      "resim",
+      "müzik"
+    ]
+  },
+  {
+    "english": "find",
+    "turkish": "bulmak",
+    "options": [
+      "bulmak",
+      "kaybetmek",
+      "aramak",
+      "saklamak"
+    ]
+  },
+  {
+    "english": "fine",
+    "turkish": "iyi/ince",
+    "options": [
+      "iyi/ince",
+      "kötü",
+      "kalın",
+      "zor"
+    ]
+  },
+  {
+    "english": "finger",
+    "turkish": "parmak",
+    "options": [
+      "parmak",
+      "el",
+      "ayak",
+      "kol"
+    ]
+  },
+  {
+    "english": "finish",
+    "turkish": "bitirmek",
+    "options": [
+      "bitirmek",
+      "başlamak",
+      "durmak",
+      "izlemek"
+    ]
+  },
+  {
+    "english": "fire",
+    "turkish": "ateş/yangın",
+    "options": [
+      "ateş/yangın",
+      "su",
+      "toprak",
+      "hava"
+    ]
+  },
+  {
+    "english": "first",
+    "turkish": "birinci/ilk",
+    "options": [
+      "birinci/ilk",
+      "sonuncu",
+      "ikinci",
+      "orta"
+    ]
+  },
+  {
+    "english": "fish",
+    "turkish": "balık",
+    "options": [
+      "balık",
+      "et",
+      "tavuk",
+      "böcek"
+    ]
+  },
+  {
+    "english": "flat",
+    "turkish": "düz/daire",
+    "options": [
+      "düz/daire",
+      "eğri",
+      "ev",
+      "oda"
+    ]
+  },
+  {
+    "english": "floor",
+    "turkish": "yer/kat",
+    "options": [
+      "yer/kat",
+      "tavan",
+      "duvar",
+      "kapı"
+    ]
+  },
+  {
+    "english": "flower",
+    "turkish": "çiçek",
+    "options": [
+      "çiçek",
+      "ağaç",
+      "bitki",
+      "yaprak"
+    ]
+  },
+  {
+    "english": "fly",
+    "turkish": "uçmak/sinek",
+    "options": [
+      "uçmak/sinek",
+      "yüzmek",
+      "koşmak",
+      "yürümek"
+    ]
+  },
+  {
+    "english": "follow",
+    "turkish": "takip etmek",
+    "options": [
+      "takip etmek",
+      "öncü olmak",
+      "kaçmak",
+      "durmak"
+    ]
+  },
+  {
+    "english": "food",
+    "turkish": "yemek",
+    "options": [
+      "yemek",
+      "içecek",
+      "su",
+      "meyve"
+    ]
+  },
+  {
+    "english": "foot",
+    "turkish": "ayak",
+    "options": [
+      "ayak",
+      "el",
+      "bacak",
+      "baş"
+    ]
+  },
+  {
+    "english": "for",
+    "turkish": "için",
+    "options": [
+      "için",
+      "çünkü",
+      "veya",
+      "ile"
+    ]
+  },
+  {
+    "english": "foreign",
+    "turkish": "yabancı",
+    "options": [
+      "yabancı",
+      "yerli",
+      "tanıdık",
+      "uzak"
+    ]
+  },
+  {
+    "english": "forget",
+    "turkish": "unutmak",
+    "options": [
+      "unutmak",
+      "hatırlamak",
+      "bilmek",
+      "anlamak"
+    ]
+  },
+  {
+    "english": "form",
+    "turkish": "form/şekil",
+    "options": [
+      "form/şekil",
+      "renk",
+      "boyut",
+      "isim"
+    ]
+  },
+  {
+    "english": "free",
+    "turkish": "özgür/bedava",
+    "options": [
+      "özgür/bedava",
+      "pahalı",
+      "yasak",
+      "kapalı"
+    ]
+  },
+  {
+    "english": "fresh",
+    "turkish": "taze",
+    "options": [
+      "taze",
+      "bayat",
+      "eski",
+      "yeni"
+    ]
+  },
+  {
+    "english": "friend",
+    "turkish": "arkadaş",
+    "options": [
+      "arkadaş",
+      "düşman",
+      "yabancı",
+      "akraba"
+    ]
+  },
+  {
+    "english": "from",
+    "turkish": "-den/-dan",
+    "options": [
+      "-den/-dan",
+      "-e/-a",
+      "için",
+      "ile"
+    ]
+  },
+  {
+    "english": "front",
+    "turkish": "ön",
+    "options": [
+      "ön",
+      "arka",
+      "yan",
+      "üst"
+    ]
+  },
+  {
+    "english": "fruit",
+    "turkish": "meyve",
+    "options": [
+      "meyve",
+      "sebze",
+      "yemek",
+      "tatlı"
+    ]
+  },
+  {
+    "english": "full",
+    "turkish": "dolu/tok",
+    "options": [
+      "dolu/tok",
+      "boş",
+      "aç",
+      "yarım"
+    ]
+  },
+  {
+    "english": "funny",
+    "turkish": "komik",
+    "options": [
+      "komik",
+      "ciddi",
+      "üzgün",
+      "sıkıcı"
+    ]
+  },
+  {
+    "english": "future",
+    "turkish": "gelecek",
+    "options": [
+      "gelecek",
+      "geçmiş",
+      "şimdi",
+      "yarın"
+    ]
+  },
+  {
+    "english": "game",
+    "turkish": "oyun",
+    "options": [
+      "oyun",
+      "spor",
+      "eğlence",
+      "ders"
+    ]
+  },
+  {
+    "english": "garage",
+    "turkish": "garaj",
+    "options": [
+      "garaj",
+      "bahçe",
+      "mutfak",
+      "oda"
+    ]
+  },
+  {
+    "english": "garden",
+    "turkish": "bahçe",
+    "options": [
+      "bahçe",
+      "park",
+      "orman",
+      "tarla"
+    ]
+  },
+  {
+    "english": "gas",
+    "turkish": "gaz/benzin",
+    "options": [
+      "gaz/benzin",
+      "su",
+      "hava",
+      "yağ"
+    ]
+  },
+  {
+    "english": "gate",
+    "turkish": "kapı/geçit",
+    "options": [
+      "kapı/geçit",
+      "duvar",
+      "pencere",
+      "çatı"
+    ]
+  },
+  {
+    "english": "general",
+    "turkish": "genel",
+    "options": [
+      "genel",
+      "özel",
+      "farklı",
+      "yerel"
+    ]
+  },
+  {
+    "english": "gentle",
+    "turkish": "nazik",
+    "options": [
+      "nazik",
+      "kaba",
+      "sert",
+      "hızlı"
+    ]
+  },
+  {
+    "english": "gentleman",
+    "turkish": "beyefendi",
+    "options": [
+      "beyefendi",
+      "adam",
+      "kadın",
+      "çocuk"
+    ]
+  },
+  {
+    "english": "get",
+    "turkish": "almak",
+    "options": [
+      "almak",
+      "vermek",
+      "bulmak",
+      "götürmek"
+    ]
+  },
+  {
+    "english": "gift",
+    "turkish": "hediye",
+    "options": [
+      "hediye",
+      "borç",
+      "ödül",
+      "eşya"
+    ]
+  },
+  {
+    "english": "girl",
+    "turkish": "kız çocuk",
+    "options": [
+      "kız çocuk",
+      "erkek çocuk",
+      "kadın",
+      "bebek"
+    ]
+  },
+  {
+    "english": "give",
+    "turkish": "vermek",
+    "options": [
+      "vermek",
+      "almak",
+      "tutmak",
+      "atmak"
+    ]
+  },
+  {
+    "english": "glad",
+    "turkish": "memnun",
+    "options": [
+      "memnun",
+      "üzgün",
+      "kızgın",
+      "yorgun"
+    ]
+  },
+  {
+    "english": "glass",
+    "turkish": "bardak/cam",
+    "options": [
+      "bardak/cam",
+      "tabak",
+      "kaşık",
+      "ayna"
+    ]
+  },
+  {
+    "english": "go",
+    "turkish": "gitmek",
+    "options": [
+      "gitmek",
+      "gelmek",
+      "kalmak",
+      "durmak"
+    ]
+  },
+  {
+    "english": "goal",
+    "turkish": "hedef/kale",
+    "options": [
+      "hedef/kale",
+      "yol",
+      "başarı",
+      "puan"
+    ]
+  },
+  {
+    "english": "gold",
+    "turkish": "altın",
+    "options": [
+      "altın",
+      "gümüş",
+      "demir",
+      "bakır"
+    ]
+  },
+  {
+    "english": "good",
+    "turkish": "iyi",
+    "options": [
+      "iyi",
+      "kötü",
+      "çirkin",
+      "eski"
+    ]
+  },
+  {
+    "english": "government",
+    "turkish": "hükümet",
+    "options": [
+      "hükümet",
+      "halk",
+      "ordu",
+      "şehir"
+    ]
+  },
+  {
+    "english": "great",
+    "turkish": "harika/büyük",
+    "options": [
+      "harika/büyük",
+      "küçük",
+      "kötü",
+      "normal"
+    ]
+  },
+  {
+    "english": "green",
+    "turkish": "yeşil",
+    "options": [
+      "yeşil",
+      "mavi",
+      "sarı",
+      "kırmızı"
+    ]
+  },
+  {
+    "english": "grey",
+    "turkish": "gri",
+    "options": [
+      "gri",
+      "siyah",
+      "beyaz",
+      "kahverengi"
+    ]
+  },
+  {
+    "english": "ground",
+    "turkish": "yer/zemin",
+    "options": [
+      "yer/zemin",
+      "tavan",
+      "duvar",
+      "gökyüzü"
+    ]
+  },
+  {
+    "english": "group",
+    "turkish": "grup",
+    "options": [
+      "grup",
+      "tek",
+      "kalabalık",
+      "takım"
+    ]
+  },
+  {
+    "english": "grow",
+    "turkish": "büyümek/yetişmek",
+    "options": [
+      "büyümek/yetişmek",
+      "küçülmek",
+      "durmak",
+      "ölmek"
+    ]
+  },
+  {
+    "english": "guard",
+    "turkish": "korumak/gardiyan",
+    "options": [
+      "korumak/gardiyan",
+      "saldırmak",
+      "izlemek",
+      "kaçmak"
+    ]
+  },
+  {
+    "english": "guess",
+    "turkish": "tahmin etmek",
+    "options": [
+      "tahmin etmek",
+      "bilmek",
+      "inanmak",
+      "sormak"
+    ]
+  },
+  {
+    "english": "guest",
+    "turkish": "misafir",
+    "options": [
+      "misafir",
+      "ev sahibi",
+      "yabancı",
+      "arkadaş"
+    ]
+  },
+  {
+    "english": "guide",
+    "turkish": "rehberlik etmek",
+    "options": [
+      "rehberlik etmek",
+      "takip",
+      "izlemek",
+      "yönetmek"
+    ]
+  },
+  {
+    "english": "gun",
+    "turkish": "tabanca/silah",
+    "options": [
+      "tabanca/silah",
+      "bıçak",
+      "kılıç",
+      "tüfek"
+    ]
+  },
+  {
+    "english": "hair",
+    "turkish": "saç",
+    "options": [
+      "saç",
+      "baş",
+      "yüz",
+      "göz"
+    ]
+  },
+  {
+    "english": "half",
+    "turkish": "yarım",
+    "options": [
+      "yarım",
+      "tam",
+      "çeyrek",
+      "bütün"
+    ]
+  },
+  {
+    "english": "hand",
+    "turkish": "el",
+    "options": [
+      "el",
+      "ayak",
+      "kol",
+      "parmak"
+    ]
+  },
+  {
+    "english": "happen",
+    "turkish": "olmak/meydana gelmek",
+    "options": [
+      "olmak/meydana gelmek",
+      "bitmek",
+      "başlamak",
+      "durmak"
+    ]
+  },
+  {
+    "english": "happy",
+    "turkish": "mutlu",
+    "options": [
+      "mutlu",
+      "üzgün",
+      "kızgın",
+      "korkmuş"
+    ]
+  },
+  {
+    "english": "hard",
+    "turkish": "sert/zor",
+    "options": [
+      "sert/zor",
+      "yumuşak",
+      "kolay",
+      "hafif"
+    ]
+  },
+  {
+    "english": "hat",
+    "turkish": "şapka",
+    "options": [
+      "şapka",
+      "elbise",
+      "ayakkabı",
+      "çanta"
+    ]
+  },
+  {
+    "english": "hate",
+    "turkish": "nefret etmek",
+    "options": [
+      "nefret etmek",
+      "sevmek",
+      "özlemek",
+      "beklemek"
+    ]
+  },
+  {
+    "english": "have",
+    "turkish": "sahip olmak",
+    "options": [
+      "sahip olmak",
+      "vermek",
+      "almak",
+      "kaybetmek"
+    ]
+  },
+  {
+    "english": "he",
+    "turkish": "o (erkek)",
+    "options": [
+      "o (erkek)",
+      "o (kadın)",
+      "biz",
+      "onlar"
+    ]
+  },
+  {
+    "english": "head",
+    "turkish": "baş/kafa",
+    "options": [
+      "baş/kafa",
+      "vücut",
+      "el",
+      "ayak"
+    ]
+  },
+  {
+    "english": "health",
+    "turkish": "sağlık",
+    "options": [
+      "sağlık",
+      "hastalık",
+      "spor",
+      "yaşam"
+    ]
+  },
+  {
+    "english": "hear",
+    "turkish": "duymak",
+    "options": [
+      "duymak",
+      "dinlemek",
+      "bakmak",
+      "görmek"
+    ]
+  },
+  {
+    "english": "heart",
+    "turkish": "kalp",
+    "options": [
+      "kalp",
+      "akıl",
+      "ruh",
+      "kan"
+    ]
+  },
+  {
+    "english": "heavy",
+    "turkish": "ağır",
+    "options": [
+      "ağır",
+      "hafif",
+      "büyük",
+      "küçük"
+    ]
+  },
+  {
+    "english": "help",
+    "turkish": "yardım etmek",
+    "options": [
+      "yardım etmek",
+      "zarar vermek",
+      "durmak",
+      "izlemek"
+    ]
+  },
+  {
+    "english": "her",
+    "turkish": "ona/onun (kadın)",
+    "options": [
+      "ona/onun (kadın)",
+      "onun (erkek)",
+      "senin",
+      "benim"
+    ]
+  },
+  {
+    "english": "here",
+    "turkish": "burada",
+    "options": [
+      "burada",
+      "orada",
+      "şurada",
+      "uzakta"
+    ]
+  },
+  {
+    "english": "hide",
+    "turkish": "saklamak",
+    "options": [
+      "saklamak",
+      "bulmak",
+      "atmak",
+      "göstermek"
+    ]
+  },
+  {
+    "english": "high",
+    "turkish": "yüksek",
+    "options": [
+      "yüksek",
+      "alçak",
+      "geniş",
+      "dar"
+    ]
+  },
+  {
+    "english": "his",
+    "turkish": "onun (erkek)",
+    "options": [
+      "onun (erkek)",
+      "onun (kadın)",
+      "bizim",
+      "sizin"
+    ]
+  },
+  {
+    "english": "history",
+    "turkish": "tarih",
+    "options": [
+      "tarih",
+      "bilim",
+      "coğrafya",
+      "sanat"
+    ]
+  },
+  {
+    "english": "hold",
+    "turkish": "tutmak",
+    "options": [
+      "tutmak",
+      "bırakmak",
+      "atmak",
+      "itmek"
+    ]
+  },
+  {
+    "english": "hole",
+    "turkish": "delik/çukur",
+    "options": [
+      "delik/çukur",
+      "tepe",
+      "yol",
+      "duvar"
+    ]
+  },
+  {
+    "english": "holiday",
+    "turkish": "tatil",
+    "options": [
+      "tatil",
+      "iş",
+      "okul",
+      "ders"
+    ]
+  },
+  {
+    "english": "home",
+    "turkish": "ev",
+    "options": [
+      "ev",
+      "bahçe",
+      "sokak",
+      "şehir"
+    ]
+  },
+  {
+    "english": "hope",
+    "turkish": "umut etmek",
+    "options": [
+      "umut etmek",
+      "korkmak",
+      "unutmak",
+      "beklemek"
+    ]
+  },
+  {
+    "english": "horse",
+    "turkish": "at",
+    "options": [
+      "at",
+      "eşek",
+      "inek",
+      "köpek"
+    ]
+  },
+  {
+    "english": "hospital",
+    "turkish": "hastane",
+    "options": [
+      "hastane",
+      "okul",
+      "postane",
+      "banka"
+    ]
+  },
+  {
+    "english": "hot",
+    "turkish": "sıcak",
+    "options": [
+      "sıcak",
+      "soğuk",
+      "ılık",
+      "serin"
+    ]
+  },
+  {
+    "english": "hotel",
+    "turkish": "otel",
+    "options": [
+      "otel",
+      "ev",
+      "pansiyon",
+      "lokanta"
+    ]
+  },
+  {
+    "english": "hour",
+    "turkish": "saat (süre)",
+    "options": [
+      "saat (süre)",
+      "dakika",
+      "saniye",
+      "gün"
+    ]
+  },
+  {
+    "english": "house",
+    "turkish": "ev",
+    "options": [
+      "ev",
+      "bahçe",
+      "bina",
+      "daire"
+    ]
+  },
+  {
+    "english": "how",
+    "turkish": "nasıl",
+    "options": [
+      "nasıl",
+      "neden",
+      "ne zaman",
+      "kim"
+    ]
+  },
+  {
+    "english": "hungry",
+    "turkish": "aç",
+    "options": [
+      "aç",
+      "tok",
+      "susuz",
+      "yorgun"
+    ]
+  },
+  {
+    "english": "husband",
+    "turkish": "koca/eş",
+    "options": [
+      "koca/eş",
+      "karı/eş",
+      "erkek kardeş",
+      "baba"
+    ]
+  },
+  {
+    "english": "ice",
+    "turkish": "buz",
+    "options": [
+      "buz",
+      "su",
+      "kar",
+      "yağmur"
+    ]
+  },
+  {
+    "english": "idea",
+    "turkish": "fikir",
+    "options": [
+      "fikir",
+      "hayal",
+      "gerçek",
+      "soru"
+    ]
+  },
+  {
+    "english": "if",
+    "turkish": "eğer",
+    "options": [
+      "eğer",
+      "çünkü",
+      "ama",
+      "veya"
+    ]
+  },
+  {
+    "english": "ill",
+    "turkish": "hasta",
+    "options": [
+      "hasta",
+      "sağlıklı",
+      "yorgun",
+      "üzgün"
+    ]
+  },
+  {
+    "english": "illegal",
+    "turkish": "yasa dışı",
+    "options": [
+      "yasa dışı",
+      "yasal",
+      "doğru",
+      "gizli"
+    ]
+  },
+  {
+    "english": "illness",
+    "turkish": "hastalık",
+    "options": [
+      "hastalık",
+      "sağlık",
+      "tedavi",
+      "ilaç"
+    ]
+  },
+  {
+    "english": "image",
+    "turkish": "görüntü/imaj",
+    "options": [
+      "görüntü/imaj",
+      "ses",
+      "hayal",
+      "yazı"
+    ]
+  },
+  {
+    "english": "imagine",
+    "turkish": "hayal etmek",
+    "options": [
+      "hayal etmek",
+      "düşünmek",
+      "görmek",
+      "hatırlamak"
+    ]
+  },
+  {
+    "english": "immediately",
+    "turkish": "hemen",
+    "options": [
+      "hemen",
+      "sonra",
+      "asla",
+      "bazen"
+    ]
+  },
+  {
+    "english": "import",
+    "turkish": "ithal etmek",
+    "options": [
+      "ithal etmek",
+      "ihraç etmek",
+      "satmak",
+      "almak"
+    ]
+  },
+  {
+    "english": "important",
+    "turkish": "önemli",
+    "options": [
+      "önemli",
+      "önemsiz",
+      "küçük",
+      "sıradan"
+    ]
+  },
+  {
+    "english": "impossible",
+    "turkish": "imkansız",
+    "options": [
+      "imkansız",
+      "mümkün",
+      "zor",
+      "kolay"
+    ]
+  },
+  {
+    "english": "improve",
+    "turkish": "geliştirmek",
+    "options": [
+      "geliştirmek",
+      "bozmak",
+      "durmak",
+      "bitirmek"
+    ]
+  },
+  {
+    "english": "in",
+    "turkish": "içinde",
+    "options": [
+      "içinde",
+      "dışında",
+      "üstünde",
+      "altında"
+    ]
+  },
+  {
+    "english": "include",
+    "turkish": "dahil etmek",
+    "options": [
+      "dahil etmek",
+      "çıkarmak",
+      "bölmek",
+      "eklemek"
+    ]
+  },
+  {
+    "english": "increase",
+    "turkish": "artırmak",
+    "options": [
+      "artırmak",
+      "azaltmak",
+      "durmak",
+      "bitirmek"
+    ]
+  },
+  {
+    "english": "indeed",
+    "turkish": "aslında/gerçekten",
+    "options": [
+      "aslında/gerçekten",
+      "belki",
+      "asla",
+      "henüz"
+    ]
+  },
+  {
+    "english": "independent",
+    "turkish": "bağımsız",
+    "options": [
+      "bağımsız",
+      "bağımlı",
+      "özgür",
+      "yalnız"
+    ]
+  },
+  {
+    "english": "individual",
+    "turkish": "bireysel",
+    "options": [
+      "bireysel",
+      "toplumsal",
+      "ortak",
+      "genel"
+    ]
+  },
+  {
+    "english": "industry",
+    "turkish": "sanayi/endüstri",
+    "options": [
+      "sanayi/endüstri",
+      "tarım",
+      "ticaret",
+      "sanat"
+    ]
+  },
+  {
+    "english": "influence",
+    "turkish": "etkilemek",
+    "options": [
+      "etkilemek",
+      "izlemek",
+      "dinlemek",
+      "durmak"
+    ]
+  },
+  {
+    "english": "inform",
+    "turkish": "bilgilendirmek",
+    "options": [
+      "bilgilendirmek",
+      "saklamak",
+      "sormak",
+      "yazmak"
+    ]
+  },
+  {
+    "english": "information",
+    "turkish": "bilgi",
+    "options": [
+      "bilgi",
+      "haber",
+      "fikir",
+      "ders"
+    ]
+  },
+  {
+    "english": "injure",
+    "turkish": "incitmek/yaralamak",
+    "options": [
+      "incitmek/yaralamak",
+      "iyileştirmek",
+      "bakmak",
+      "sevmek"
+    ]
+  },
+  {
+    "english": "insect",
+    "turkish": "böcek",
+    "options": [
+      "böcek",
+      "hayvan",
+      "kuş",
+      "balık"
+    ]
+  },
+  {
+    "english": "inside",
+    "turkish": "içerisi",
+    "options": [
+      "içerisi",
+      "dışarısı",
+      "yukarısı",
+      "aşağısı"
+    ]
+  },
+  {
+    "english": "instead",
+    "turkish": "yerine",
+    "options": [
+      "yerine",
+      "yanında",
+      "birlikte",
+      "karşı"
+    ]
+  },
+  {
+    "english": "instrument",
+    "turkish": "enstrüman/alet",
+    "options": [
+      "enstrüman/alet",
+      "makine",
+      "oyuncak",
+      "araç"
+    ]
+  },
+  {
+    "english": "intelligent",
+    "turkish": "zeki",
+    "options": [
+      "zeki",
+      "aptal",
+      "çalışkan",
+      "yavaş"
+    ]
+  },
+  {
+    "english": "interest",
+    "turkish": "ilgi",
+    "options": [
+      "ilgi",
+      "nefret",
+      "korku",
+      "bilgi"
+    ]
+  },
+  {
+    "english": "interesting",
+    "turkish": "ilginç",
+    "options": [
+      "ilginç",
+      "sıkıcı",
+      "normal",
+      "kötü"
+    ]
+  },
+  {
+    "english": "international",
+    "turkish": "uluslararası",
+    "options": [
+      "uluslararası",
+      "yerel",
+      "ulusal",
+      "yabancı"
+    ]
+  },
+  {
+    "english": "interview",
+    "turkish": "röportaj/mülakat",
+    "options": [
+      "röportaj/mülakat",
+      "sohbet",
+      "toplantı",
+      "ders"
+    ]
+  },
+  {
+    "english": "into",
+    "turkish": "içine doğru",
+    "options": [
+      "içine doğru",
+      "dışına doğru",
+      "üstünde",
+      "altında"
+    ]
+  },
+  {
+    "english": "introduce",
+    "turkish": "tanıştırmak",
+    "options": [
+      "tanıştırmak",
+      "ayrılmak",
+      "görmek",
+      "aramak"
+    ]
+  },
+  {
+    "english": "invite",
+    "turkish": "davet etmek",
+    "options": [
+      "davet etmek",
+      "kovmak",
+      "beklemek",
+      "gitmek"
+    ]
+  },
+  {
+    "english": "iron",
+    "turkish": "demir/ütü",
+    "options": [
+      "demir/ütü",
+      "altın",
+      "gümüş",
+      "bakır"
+    ]
+  },
+  {
+    "english": "island",
+    "turkish": "ada",
+    "options": [
+      "ada",
+      "dağ",
+      "deniz",
+      "orman"
+    ]
+  },
+  {
+    "english": "it",
+    "turkish": "o (cansız/hayvan)",
+    "options": [
+      "o (cansız/hayvan)",
+      "biz",
+      "sen",
+      "onlar"
+    ]
+  },
+  {
+    "english": "jacket",
+    "turkish": "ceket",
+    "options": [
+      "ceket",
+      "pantolon",
+      "gömlek",
+      "kazak"
+    ]
+  },
+  {
+    "english": "job",
+    "turkish": "iş",
+    "options": [
+      "iş",
+      "eğlence",
+      "oyun",
+      "tatil"
+    ]
+  },
+  {
+    "english": "join",
+    "turkish": "katılmak",
+    "options": [
+      "katılmak",
+      "ayrılmak",
+      "izlemek",
+      "bakmak"
+    ]
+  },
+  {
+    "english": "joke",
+    "turkish": "şaka",
+    "options": [
+      "şaka",
+      "gerçek",
+      "hikaye",
+      "yalan"
+    ]
+  },
+  {
+    "english": "journey",
+    "turkish": "yolculuk",
+    "options": [
+      "yolculuk",
+      "tatil",
+      "durak",
+      "varış"
+    ]
+  },
+  {
+    "english": "juice",
+    "turkish": "meyve suyu",
+    "options": [
+      "meyve suyu",
+      "su",
+      "süt",
+      "çay"
+    ]
+  },
+  {
+    "english": "jump",
+    "turkish": "zıplamak",
+    "options": [
+      "zıplamak",
+      "koşmak",
+      "yürümek",
+      "oturmak"
+    ]
+  },
+  {
+    "english": "just",
+    "turkish": "sadece/henüz",
+    "options": [
+      "sadece/henüz",
+      "sonra",
+      "asla",
+      "her zaman"
+    ]
+  },
+  {
+    "english": "keep",
+    "turkish": "tutmak/saklamak",
+    "options": [
+      "tutmak/saklamak",
+      "atmak",
+      "kaybetmek",
+      "bulmak"
+    ]
+  },
+  {
+    "english": "key",
+    "turkish": "anahtar",
+    "options": [
+      "anahtar",
+      "kilit",
+      "kapı",
+      "şifre"
+    ]
+  },
+  {
+    "english": "kill",
+    "turkish": "öldürmek",
+    "options": [
+      "öldürmek",
+      "yaşatmak",
+      "vurmak",
+      "korkutmak"
+    ]
+  },
+  {
+    "english": "kind",
+    "turkish": "tür/nazik",
+    "options": [
+      "tür/nazik",
+      "kaba",
+      "farklı",
+      "sert"
+    ]
+  },
+  {
+    "english": "kitchen",
+    "turkish": "mutfak",
+    "options": [
+      "mutfak",
+      "banyo",
+      "oda",
+      "bahçe"
+    ]
+  },
+  {
+    "english": "knife",
+    "turkish": "bıçak",
+    "options": [
+      "bıçak",
+      "çatal",
+      "kaşık",
+      "balta"
+    ]
+  },
+  {
+    "english": "know",
+    "turkish": "bilmek",
+    "options": [
+      "bilmek",
+      "anlamak",
+      "sormak",
+      "unutmak"
+    ]
+  },
+  {
+    "english": "lake",
+    "turkish": "göl",
+    "options": [
+      "göl",
+      "deniz",
+      "nehir",
+      "havuz"
+    ]
+  },
+  {
+    "english": "land",
+    "turkish": "kara/toprak",
+    "options": [
+      "kara/toprak",
+      "deniz",
+      "hava",
+      "su"
+    ]
+  },
+  {
+    "english": "language",
+    "turkish": "dil",
+    "options": [
+      "dil",
+      "söz",
+      "yazı",
+      "ses"
+    ]
+  },
+  {
+    "english": "large",
+    "turkish": "geniş/büyük",
+    "options": [
+      "geniş/büyük",
+      "dar",
+      "küçük",
+      "kısa"
+    ]
+  },
+  {
+    "english": "last",
+    "turkish": "son/geçen",
+    "options": [
+      "son/geçen",
+      "ilk",
+      "şimdi",
+      "sonra"
+    ]
+  },
+  {
+    "english": "late",
+    "turkish": "geç",
+    "options": [
+      "geç",
+      "erken",
+      "şimdi",
+      "yeni"
+    ]
+  },
+  {
+    "english": "laugh",
+    "turkish": "gülmek",
+    "options": [
+      "gülmek",
+      "ağlamak",
+      "bağırmak",
+      "koşmak"
+    ]
+  },
+  {
+    "english": "law",
+    "turkish": "kanun/yasa",
+    "options": [
+      "kanun/yasa",
+      "kural",
+      "hak",
+      "ceza"
+    ]
+  },
+  {
+    "english": "leader",
+    "turkish": "lider",
+    "options": [
+      "lider",
+      "işçi",
+      "asker",
+      "takipçi"
+    ]
+  },
+  {
+    "english": "learn",
+    "turkish": "öğrenmek",
+    "options": [
+      "öğrenmek",
+      "öğretmek",
+      "bilmek",
+      "unutmak"
+    ]
+  },
+  {
+    "english": "leave",
+    "turkish": "ayrılmak/bırakmak",
+    "options": [
+      "ayrılmak/bırakmak",
+      "gelmek",
+      "kalmak",
+      "durmak"
+    ]
+  },
+  {
+    "english": "left",
+    "turkish": "sol/ayrılmış",
+    "options": [
+      "sol/ayrılmış",
+      "sağ",
+      "arka",
+      "ön"
+    ]
+  },
+  {
+    "english": "leg",
+    "turkish": "bacak",
+    "options": [
+      "bacak",
+      "kol",
+      "ayak",
+      "el"
+    ]
+  },
+  {
+    "english": "less",
+    "turkish": "daha az",
+    "options": [
+      "daha az",
+      "daha çok",
+      "hepsi",
+      "hiç"
+    ]
+  },
+  {
+    "english": "lesson",
+    "turkish": "ders",
+    "options": [
+      "ders",
+      "sınav",
+      "okul",
+      "kitap"
+    ]
+  },
+  {
+    "english": "let",
+    "turkish": "izin vermek",
+    "options": [
+      "izin vermek",
+      "yasaklamak",
+      "durdurmak",
+      "istemek"
+    ]
+  },
+  {
+    "english": "letter",
+    "turkish": "mektup/harf",
+    "options": [
+      "mektup/harf",
+      "kelime",
+      "kitap",
+      "kağıt"
+    ]
+  },
+  {
+    "english": "lie",
+    "turkish": "yalan söylemek/uzanmak",
+    "options": [
+      "yalan söylemek/uzanmak",
+      "doğru",
+      "oturmak",
+      "koşmak"
+    ]
+  },
+  {
+    "english": "life",
+    "turkish": "hayat",
+    "options": [
+      "hayat",
+      "ölüm",
+      "rüya",
+      "dünya"
+    ]
+  },
+  {
+    "english": "light",
+    "turkish": "ışık/hafif",
+    "options": [
+      "ışık/hafif",
+      "karanlık",
+      "ağır",
+      "sert"
+    ]
+  },
+  {
+    "english": "like",
+    "turkish": "beğenmek/gibi",
+    "options": [
+      "beğenmek/gibi",
+      "nefret",
+      "farklı",
+      "aynı"
+    ]
+  },
+  {
+    "english": "line",
+    "turkish": "çizgi/sıra",
+    "options": [
+      "çizgi/sıra",
+      "nokta",
+      "alan",
+      "daire"
+    ]
+  },
+  {
+    "english": "listen",
+    "turkish": "dinlemek",
+    "options": [
+      "dinlemek",
+      "duymak",
+      "bakmak",
+      "konuşmak"
+    ]
+  },
+  {
+    "english": "little",
+    "turkish": "küçük/az",
+    "options": [
+      "küçük/az",
+      "büyük",
+      "çok",
+      "geniş"
+    ]
+  },
+  {
+    "english": "live",
+    "turkish": "yaşamak",
+    "options": [
+      "yaşamak",
+      "ölmek",
+      "kalmak",
+      "gitmek"
+    ]
+  },
+  {
+    "english": "long",
+    "turkish": "uzun",
+    "options": [
+      "uzun",
+      "kısa",
+      "geniş",
+      "dar"
+    ]
+  },
+  {
+    "english": "look",
+    "turkish": "bakmak",
+    "options": [
+      "bakmak",
+      "görmek",
+      "duymak",
+      "dokunmak"
+    ]
+  },
+  {
+    "english": "lose",
+    "turkish": "kaybetmek",
+    "options": [
+      "kaybetmek",
+      "kazanmak",
+      "bulmak",
+      "almak"
+    ]
+  },
+  {
+    "english": "love",
+    "turkish": "sevmek",
+    "options": [
+      "sevmek",
+      "nefret",
+      "korku",
+      "üzüntü"
+    ]
+  },
+  {
+    "english": "low",
+    "turkish": "alçak/düşük",
+    "options": [
+      "alçak/düşük",
+      "yüksek",
+      "uzun",
+      "geniş"
+    ]
+  },
+  {
+    "english": "magazine",
+    "turkish": "dergi",
+    "options": [
+      "dergi",
+      "kitap",
+      "gazete",
+      "broşür"
+    ]
+  },
+  {
+    "english": "machine",
+    "turkish": "makine",
+    "options": [
+      "makine",
+      "alet",
+      "motor",
+      "araç"
+    ]
+  },
+  {
+    "english": "main",
+    "turkish": "ana/temel",
+    "options": [
+      "ana/temel",
+      "yan",
+      "küçük",
+      "son"
+    ]
+  },
+  {
+    "english": "make",
+    "turkish": "yapmak",
+    "options": [
+      "yapmak",
+      "bakmak",
+      "almak",
+      "durmak"
+    ]
+  },
+  {
+    "english": "man",
+    "turkish": "adam",
+    "options": [
+      "adam",
+      "kadın",
+      "çocuk",
+      "bebek"
+    ]
+  },
+  {
+    "english": "many",
+    "turkish": "birçok",
+    "options": [
+      "birçok",
+      "biraz",
+      "hiç",
+      "tek"
+    ]
+  },
+  {
+    "english": "map",
+    "turkish": "harita",
+    "options": [
+      "harita",
+      "resim",
+      "plan",
+      "yol"
+    ]
+  },
+  {
+    "english": "mark",
+    "turkish": "işaret/iz",
+    "options": [
+      "işaret/iz",
+      "yazı",
+      "renk",
+      "şekil"
+    ]
+  },
+  {
+    "english": "market",
+    "turkish": "market/pazar",
+    "options": [
+      "market/pazar",
+      "okul",
+      "ev",
+      "ofis"
+    ]
+  },
+  {
+    "english": "marriage",
+    "turkish": "evlilik",
+    "options": [
+      "evlilik",
+      "boşanma",
+      "düğün",
+      "arkadaşlık"
+    ]
+  },
+  {
+    "english": "marry",
+    "turkish": "evlenmek",
+    "options": [
+      "evlenmek",
+      "ayrılmak",
+      "sevmek",
+      "buluşmak"
+    ]
+  },
+  {
+    "english": "material",
+    "turkish": "malzeme",
+    "options": [
+      "malzeme",
+      "eşya",
+      "araç",
+      "sonuç"
+    ]
+  },
+  {
+    "english": "match",
+    "turkish": "maç/eşleşme",
+    "options": [
+      "maç/eşleşme",
+      "oyun",
+      "kavga",
+      "yarış"
+    ]
+  },
+  {
+    "english": "may",
+    "turkish": "belki/mayıs",
+    "options": [
+      "belki/mayıs",
+      "asla",
+      "her zaman",
+      "şimdi"
+    ]
+  },
+  {
+    "english": "meal",
+    "turkish": "öğün/yemek",
+    "options": [
+      "öğün/yemek",
+      "kahvaltı",
+      "atıştırmalık",
+      "içecek"
+    ]
+  },
+  {
+    "english": "mean",
+    "turkish": "anlamına gelmek",
+    "options": [
+      "anlamına gelmek",
+      "söylemek",
+      "anlamak",
+      "yazmak"
+    ]
+  },
+  {
+    "english": "measure",
+    "turkish": "ölçmek",
+    "options": [
+      "ölçmek",
+      "tartmak",
+      "saymak",
+      "bakmak"
+    ]
+  },
+  {
+    "english": "meat",
+    "turkish": "et",
+    "options": [
+      "et",
+      "tavuk",
+      "balık",
+      "sebze"
+    ]
+  },
+  {
+    "english": "medicine",
+    "turkish": "ilaç/tıp",
+    "options": [
+      "ilaç/tıp",
+      "hastalık",
+      "doktor",
+      "hastane"
+    ]
+  },
+  {
+    "english": "meet",
+    "turkish": "buluşmak/tanışmak",
+    "options": [
+      "buluşmak/tanışmak",
+      "ayrılmak",
+      "gitmek",
+      "konuşmak"
+    ]
+  },
+  {
+    "english": "meeting",
+    "turkish": "toplantı",
+    "options": [
+      "toplantı",
+      "ders",
+      "sınav",
+      "eğlence"
+    ]
+  },
+  {
+    "english": "member",
+    "turkish": "üye",
+    "options": [
+      "üye",
+      "başkan",
+      "misafir",
+      "yabancı"
+    ]
+  },
+  {
+    "english": "message",
+    "turkish": "mesaj",
+    "options": [
+      "mesaj",
+      "mektup",
+      "haber",
+      "arama"
+    ]
+  },
+  {
+    "english": "metal",
+    "turkish": "metal",
+    "options": [
+      "metal",
+      "tahta",
+      "plastik",
+      "cam"
+    ]
+  },
+  {
+    "english": "middle",
+    "turkish": "orta",
+    "options": [
+      "orta",
+      "kenar",
+      "baş",
+      "son"
+    ]
+  },
+  {
+    "english": "milk",
+    "turkish": "süt",
+    "options": [
+      "süt",
+      "su",
+      "çay",
+      "kahve"
+    ]
+  },
+  {
+    "english": "mind",
+    "turkish": "zihin/akıl",
+    "options": [
+      "zihin/akıl",
+      "vücut",
+      "kalp",
+      "ruh"
+    ]
+  },
+  {
+    "english": "mine",
+    "turkish": "benimki/maden",
+    "options": [
+      "benimki/maden",
+      "seninki",
+      "onunki",
+      "bizimki"
+    ]
+  },
+  {
+    "english": "minute",
+    "turkish": "dakika",
+    "options": [
+      "dakika",
+      "saniye",
+      "saat",
+      "gün"
+    ]
+  },
+  {
+    "english": "miss",
+    "turkish": "özlemek/kaçırmak",
+    "options": [
+      "özlemek/kaçırmak",
+      "bulmak",
+      "yakalamak",
+      "sevmek"
+    ]
+  },
+  {
+    "english": "mistake",
+    "turkish": "hata",
+    "options": [
+      "hata",
+      "doğru",
+      "karar",
+      "şans"
+    ]
+  },
+  {
+    "english": "modern",
+    "turkish": "modern/çağdaş",
+    "options": [
+      "modern/çağdaş",
+      "eski",
+      "tarihi",
+      "klasik"
+    ]
+  },
+  {
+    "english": "moment",
+    "turkish": "an/moment",
+    "options": [
+      "an/moment",
+      "zaman",
+      "saat",
+      "yıl"
+    ]
+  },
+  {
+    "english": "money",
+    "turkish": "para",
+    "options": [
+      "para",
+      "altın",
+      "borç",
+      "cüzdan"
+    ]
+  },
+  {
+    "english": "month",
+    "turkish": "ay (zaman)",
+    "options": [
+      "ay (zaman)",
+      "yıl",
+      "hafta",
+      "gün"
+    ]
+  },
+  {
+    "english": "moon",
+    "turkish": "ay (gökcismi)",
+    "options": [
+      "ay (gökcismi)",
+      "güneş",
+      "yıldız",
+      "dünya"
+    ]
+  },
+  {
+    "english": "more",
+    "turkish": "daha fazla",
+    "options": [
+      "daha fazla",
+      "daha az",
+      "aynı",
+      "hiç"
+    ]
+  },
+  {
+    "english": "morning",
+    "turkish": "sabah",
+    "options": [
+      "sabah",
+      "akşam",
+      "öğle",
+      "gece"
+    ]
+  },
+  {
+    "english": "most",
+    "turkish": "en çok/çoğu",
+    "options": [
+      "en çok/çoğu",
+      "en az",
+      "biraz",
+      "hepsi"
+    ]
+  },
+  {
+    "english": "mother",
+    "turkish": "anne",
+    "options": [
+      "anne",
+      "baba",
+      "teyze",
+      "kız kardeş"
+    ]
+  },
+  {
+    "english": "mountain",
+    "turkish": "dağ",
+    "options": [
+      "dağ",
+      "tepe",
+      "deniz",
+      "ova"
+    ]
+  },
+  {
+    "english": "move",
+    "turkish": "hareket etmek",
+    "options": [
+      "hareket etmek",
+      "durmak",
+      "beklemek",
+      "oturmak"
+    ]
+  },
+  {
+    "english": "much",
+    "turkish": "çok",
+    "options": [
+      "çok",
+      "az",
+      "hiç",
+      "biraz"
+    ]
+  },
+  {
+    "english": "music",
+    "turkish": "müzik",
+    "options": [
+      "müzik",
+      "şarkı",
+      "ses",
+      "sanat"
+    ]
+  },
+  {
+    "english": "must",
+    "turkish": "zorunluluk/-malı",
+    "options": [
+      "zorunluluk/-malı",
+      "istek",
+      "ihtimal",
+      "yasak"
+    ]
+  },
+  {
+    "english": "my",
+    "turkish": "benim",
+    "options": [
+      "benim",
+      "senin",
+      "onun",
+      "bizim"
+    ]
+  },
+  {
+    "english": "name",
+    "turkish": "isim",
+    "options": [
+      "isim",
+      "soyisim",
+      "lakap",
+      "adres"
+    ]
+  },
+  {
+    "english": "nature",
+    "turkish": "doğa",
+    "options": [
+      "doğa",
+      "şehir",
+      "insan",
+      "hayvan"
+    ]
+  },
+  {
+    "english": "near",
+    "turkish": "yakın",
+    "options": [
+      "yakın",
+      "uzak",
+      "kenar",
+      "bitişik"
+    ]
+  },
+  {
+    "english": "necessary",
+    "turkish": "gerekli",
+    "options": [
+      "gerekli",
+      "gereksiz",
+      "önemli",
+      "faydalı"
+    ]
+  },
+  {
+    "english": "need",
+    "turkish": "ihtiyaç duymak",
+    "options": [
+      "ihtiyaç duymak",
+      "istemek",
+      "almak",
+      "vermek"
+    ]
+  },
+  {
+    "english": "nervous",
+    "turkish": "gergin/sinirli",
+    "options": [
+      "gergin/sinirli",
+      "sakin",
+      "mutlu",
+      "yorgun"
+    ]
+  },
+  {
+    "english": "never",
+    "turkish": "asla",
+    "options": [
+      "asla",
+      "her zaman",
+      "bazen",
+      "sık sık"
+    ]
+  },
+  {
+    "english": "new",
+    "turkish": "yeni",
+    "options": [
+      "yeni",
+      "eski",
+      "temiz",
+      "kirli"
+    ]
+  },
+  {
+    "english": "newspaper",
+    "turkish": "gazete",
+    "options": [
+      "gazete",
+      "dergi",
+      "kitap",
+      "haber"
+    ]
+  },
+  {
+    "english": "next",
+    "turkish": "sonraki",
+    "options": [
+      "sonraki",
+      "önceki",
+      "şimdi",
+      "son"
+    ]
+  },
+  {
+    "english": "nice",
+    "turkish": "hoş/iyi",
+    "options": [
+      "hoş/iyi",
+      "kötü",
+      "çirkin",
+      "eski"
+    ]
+  },
+  {
+    "english": "night",
+    "turkish": "gece",
+    "options": [
+      "gece",
+      "gündüz",
+      "sabah",
+      "akşam"
+    ]
+  },
+  {
+    "english": "no",
+    "turkish": "hayır",
+    "options": [
+      "hayır",
+      "evet",
+      "belki",
+      "tamam"
+    ]
+  },
+  {
+    "english": "noise",
+    "turkish": "gürültü/ses",
+    "options": [
+      "gürültü/ses",
+      "sessizlik",
+      "müzik",
+      "konuşma"
+    ]
+  },
+  {
+    "english": "nose",
+    "turkish": "burun",
+    "options": [
+      "burun",
+      "göz",
+      "kulak",
+      "ağız"
+    ]
+  },
+  {
+    "english": "not",
+    "turkish": "değil/-me/-ma",
+    "options": [
+      "değil/-me/-ma",
+      "evet",
+      "ancak",
+      "çünkü"
+    ]
+  },
+  {
+    "english": "nothing",
+    "turkish": "hiçbir şey",
+    "options": [
+      "hiçbir şey",
+      "her şey",
+      "bir şey",
+      "az şey"
+    ]
+  },
+  {
+    "english": "now",
+    "turkish": "şimdi",
+    "options": [
+      "şimdi",
+      "sonra",
+      "önce",
+      "asla"
+    ]
+  },
+  {
+    "english": "number",
+    "turkish": "sayı/numara",
+    "options": [
+      "sayı/numara",
+      "harf",
+      "kelime",
+      "cümle"
+    ]
+  },
+  {
+    "english": "object",
+    "turkish": "nesne",
+    "options": [
+      "nesne",
+      "insan",
+      "fikir",
+      "hayal"
+    ]
+  },
+  {
+    "english": "obtain",
+    "turkish": "elde etmek",
+    "options": [
+      "elde etmek",
+      "kaybetmek",
+      "vermek",
+      "aramak"
+    ]
+  },
+  {
+    "english": "ocean",
+    "turkish": "okyanus",
+    "options": [
+      "okyanus",
+      "deniz",
+      "göl",
+      "nehir"
+    ]
+  },
+  {
+    "english": "off",
+    "turkish": "kapalı/uzak",
+    "options": [
+      "kapalı/uzak",
+      "açık",
+      "yakın",
+      "içinde"
+    ]
+  },
+  {
+    "english": "offer",
+    "turkish": "teklif etmek",
+    "options": [
+      "teklif etmek",
+      "reddetmek",
+      "kabul etmek",
+      "sormak"
+    ]
+  },
+  {
+    "english": "office",
+    "turkish": "ofis",
+    "options": [
+      "ofis",
+      "ev",
+      "okul",
+      "park"
+    ]
+  },
+  {
+    "english": "often",
+    "turkish": "sık sık",
+    "options": [
+      "sık sık",
+      "asla",
+      "bazen",
+      "nadiren"
+    ]
+  },
+  {
+    "english": "oil",
+    "turkish": "yağ/petrol",
+    "options": [
+      "yağ/petrol",
+      "su",
+      "süt",
+      "gaz"
+    ]
+  },
+  {
+    "english": "old",
+    "turkish": "eski/yaşlı",
+    "options": [
+      "eski/yaşlı",
+      "yeni",
+      "genç",
+      "temiz"
+    ]
+  },
+  {
+    "english": "on",
+    "turkish": "üzerinde",
+    "options": [
+      "üzerinde",
+      "altında",
+      "içinde",
+      "yanında"
+    ]
+  },
+  {
+    "english": "once",
+    "turkish": "bir kez",
+    "options": [
+      "bir kez",
+      "asla",
+      "daima",
+      "sonra"
+    ]
+  },
+  {
+    "english": "one",
+    "turkish": "bir",
+    "options": [
+      "bir",
+      "iki",
+      "üç",
+      "sıfır"
+    ]
+  },
+  {
+    "english": "only",
+    "turkish": "sadece",
+    "options": [
+      "sadece",
+      "hepsi",
+      "biraz",
+      "çok"
+    ]
+  },
+  {
+    "english": "open",
+    "turkish": "açmak/açık",
+    "options": [
+      "açmak/açık",
+      "kapatmak",
+      "kırmak",
+      "bakmak"
+    ]
+  },
+  {
+    "english": "operation",
+    "turkish": "operasyon/işlem",
+    "options": [
+      "operasyon/işlem",
+      "karar",
+      "sonuç",
+      "başlangıç"
+    ]
+  },
+  {
+    "english": "opinion",
+    "turkish": "fikir/görüş",
+    "options": [
+      "fikir/görüş",
+      "gerçek",
+      "yalan",
+      "haber"
+    ]
+  },
+  {
+    "english": "opposite",
+    "turkish": "karşıt/zıt",
+    "options": [
+      "karşıt/zıt",
+      "aynı",
+      "benzer",
+      "yakın"
+    ]
+  },
+  {
+    "english": "or",
+    "turkish": "veya",
+    "options": [
+      "veya",
+      "ve",
+      "ama",
+      "çünkü"
+    ]
+  },
+  {
+    "english": "orange",
+    "turkish": "portakal/turuncu",
+    "options": [
+      "portakal/turuncu",
+      "elma",
+      "kırmızı",
+      "sarı"
+    ]
+  },
+  {
+    "english": "order",
+    "turkish": "sipariş/emir",
+    "options": [
+      "sipariş/emir",
+      "karışıklık",
+      "istek",
+      "sonuç"
+    ]
+  },
+  {
+    "english": "other",
+    "turkish": "diğer",
+    "options": [
+      "diğer",
+      "aynı",
+      "tek",
+      "benzer"
+    ]
+  },
+  {
+    "english": "out",
+    "turkish": "dışarı",
+    "options": [
+      "dışarı",
+      "içeri",
+      "yukarı",
+      "aşağı"
+    ]
+  },
+  {
+    "english": "outside",
+    "turkish": "dışarısı",
+    "options": [
+      "dışarısı",
+      "içerisi",
+      "yukarısı",
+      "aşağısı"
+    ]
+  },
+  {
+    "english": "over",
+    "turkish": "üzerinde/bitmiş",
+    "options": [
+      "üzerinde/bitmiş",
+      "altında",
+      "yanında",
+      "başlamış"
+    ]
+  },
+  {
+    "english": "own",
+    "turkish": "sahip olmak/kendi",
+    "options": [
+      "sahip olmak/kendi",
+      "vermek",
+      "almak",
+      "başkasının"
+    ]
+  },
+  {
+    "english": "page",
+    "turkish": "sayfa",
+    "options": [
+      "sayfa",
+      "kitap",
+      "kapak",
+      "yazı"
+    ]
+  },
+  {
+    "english": "pain",
+    "turkish": "acı",
+    "options": [
+      "acı",
+      "mutluluk",
+      "sevinç",
+      "rahatlık"
+    ]
+  },
+  {
+    "english": "paint",
+    "turkish": "boyamak",
+    "options": [
+      "boyamak",
+      "çizmek",
+      "yazmak",
+      "silmek"
+    ]
+  },
+  {
+    "english": "pair",
+    "turkish": "çift",
+    "options": [
+      "çift",
+      "tek",
+      "üçlü",
+      "grup"
+    ]
+  },
+  {
+    "english": "paper",
+    "turkish": "kağıt",
+    "options": [
+      "kağıt",
+      "kalem",
+      "defter",
+      "kitap"
+    ]
+  },
+  {
+    "english": "parcel",
+    "turkish": "paket/koli",
+    "options": [
+      "paket/koli",
+      "mektup",
+      "kutusu",
+      "çanta"
+    ]
+  },
+  {
+    "english": "parent",
+    "turkish": "ebeveyn",
+    "options": [
+      "ebeveyn",
+      "çocuk",
+      "kardeş",
+      "arkadaş"
+    ]
+  },
+  {
+    "english": "park",
+    "turkish": "park",
+    "options": [
+      "park",
+      "ev",
+      "yol",
+      "orman"
+    ]
+  },
+  {
+    "english": "part",
+    "turkish": "parça",
+    "options": [
+      "parça",
+      "bütün",
+      "grup",
+      "tane"
+    ]
+  },
+  {
+    "english": "party",
+    "turkish": "parti",
+    "options": [
+      "parti",
+      "toplantı",
+      "ders",
+      "iş"
+    ]
+  },
+  {
+    "english": "pass",
+    "turkish": "geçmek",
+    "options": [
+      "geçmek",
+      "kalmak",
+      "durmak",
+      "beklemek"
+    ]
+  },
+  {
+    "english": "passenger",
+    "turkish": "yolcu",
+    "options": [
+      "yolcu",
+      "şoför",
+      "pilot",
+      "yaya"
+    ]
+  },
+  {
+    "english": "past",
+    "turkish": "geçmiş",
+    "options": [
+      "geçmiş",
+      "gelecek",
+      "şimdi",
+      "yarın"
+    ]
+  },
+  {
+    "english": "path",
+    "turkish": "yol/patika",
+    "options": [
+      "yol/patika",
+      "cadde",
+      "deniz",
+      "gökyüzü"
+    ]
+  },
+  {
+    "english": "patient",
+    "turkish": "hasta/sabırlı",
+    "options": [
+      "hasta/sabırlı",
+      "doktor",
+      "sabırsız",
+      "sağlıklı"
+    ]
+  },
+  {
+    "english": "pay",
+    "turkish": "ödemek",
+    "options": [
+      "ödemek",
+      "almak",
+      "çalmak",
+      "harcamak"
+    ]
+  },
+  {
+    "english": "peace",
+    "turkish": "barış",
+    "options": [
+      "barış",
+      "savaş",
+      "kavga",
+      "gürültü"
+    ]
+  },
+  {
+    "english": "peaceful",
+    "turkish": "huzurlu",
+    "options": [
+      "huzurlu",
+      "gürültülü",
+      "kızgın",
+      "yorgun"
+    ]
+  },
+  {
+    "english": "pen",
+    "turkish": "kalem",
+    "options": [
+      "kalem",
+      "silgi",
+      "kağıt",
+      "defter"
+    ]
+  },
+  {
+    "english": "pencil",
+    "turkish": "kurşun kalem",
+    "options": [
+      "kurşun kalem",
+      "boya",
+      "fırça",
+      "kağıt"
+    ]
+  },
+  {
+    "english": "people",
+    "turkish": "insanlar",
+    "options": [
+      "insanlar",
+      "hayvanlar",
+      "eşyalar",
+      "bitkiler"
+    ]
+  },
+  {
+    "english": "perfect",
+    "turkish": "mükemmel",
+    "options": [
+      "mükemmel",
+      "kötü",
+      "eski",
+      "sıradan"
+    ]
+  },
+  {
+    "english": "perform",
+    "turkish": "sergilemek/yapmak",
+    "options": [
+      "sergilemek/yapmak",
+      "izlemek",
+      "durmak",
+      "beklemek"
+    ]
+  },
+  {
+    "english": "perhaps",
+    "turkish": "belki",
+    "options": [
+      "belki",
+      "asla",
+      "her zaman",
+      "kesinlikle"
+    ]
+  },
+  {
+    "english": "person",
+    "turkish": "kişi",
+    "options": [
+      "kişi",
+      "hayvan",
+      "eşya",
+      "grup"
+    ]
+  },
+  {
+    "english": "personal",
+    "turkish": "kişisel",
+    "options": [
+      "kişisel",
+      "genel",
+      "ortak",
+      "kamusal"
+    ]
+  },
+  {
+    "english": "petrol",
+    "turkish": "benzin",
+    "options": [
+      "benzin",
+      "su",
+      "gaz",
+      "yağ"
+    ]
+  },
+  {
+    "english": "phone",
+    "turkish": "telefon",
+    "options": [
+      "telefon",
+      "televizyon",
+      "radyo",
+      "bilgisayar"
+    ]
+  },
+  {
+    "english": "picture",
+    "turkish": "resim",
+    "options": [
+      "resim",
+      "ses",
+      "müzik",
+      "yazı"
+    ]
+  },
+  {
+    "english": "piece",
+    "turkish": "parça",
+    "options": [
+      "parça",
+      "bütün",
+      "grup",
+      "tane"
+    ]
+  },
+  {
+    "english": "pile",
+    "turkish": "yığın",
+    "options": [
+      "yığın",
+      "tek",
+      "parça",
+      "delik"
+    ]
+  },
+  {
+    "english": "pink",
+    "turkish": "pembe",
+    "options": [
+      "pembe",
+      "kırmızı",
+      "mavi",
+      "sarı"
+    ]
+  },
+  {
+    "english": "pity",
+    "turkish": "yazık/acıma",
+    "options": [
+      "yazık/acıma",
+      "sevinç",
+      "gurur",
+      "korku"
+    ]
+  },
+  {
+    "english": "place",
+    "turkish": "yer",
+    "options": [
+      "yer",
+      "zaman",
+      "kişi",
+      "yol"
+    ]
+  },
+  {
+    "english": "plain",
+    "turkish": "sade/ova",
+    "options": [
+      "sade/ova",
+      "karışık",
+      "süslü",
+      "tepe"
+    ]
+  },
+  {
+    "english": "plan",
+    "turkish": "plan",
+    "options": [
+      "plan",
+      "hata",
+      "şans",
+      "sonuç"
+    ]
+  },
+  {
+    "english": "plane",
+    "turkish": "uçak",
+    "options": [
+      "uçak",
+      "araba",
+      "tren",
+      "gemi"
+    ]
+  },
+  {
+    "english": "plant",
+    "turkish": "bitki/fabrika",
+    "options": [
+      "bitki/fabrika",
+      "hayvan",
+      "insan",
+      "bulut"
+    ]
+  },
+  {
+    "english": "plate",
+    "turkish": "tabak",
+    "options": [
+      "tabak",
+      "bardak",
+      "çatal",
+      "kaşık"
+    ]
+  },
+  {
+    "english": "play",
+    "turkish": "oynamak",
+    "options": [
+      "oynamak",
+      "çalışmak",
+      "uyumak",
+      "yemek"
+    ]
+  },
+  {
+    "english": "player",
+    "turkish": "oyuncu",
+    "options": [
+      "oyuncu",
+      "hakem",
+      "izleyici",
+      "antrenör"
+    ]
+  },
+  {
+    "english": "pleasant",
+    "turkish": "hoş/keyifli",
+    "options": [
+      "hoş/keyifli",
+      "kötü",
+      "sıkıcı",
+      "üzücü"
+    ]
+  },
+  {
+    "english": "please",
+    "turkish": "lütfen",
+    "options": [
+      "lütfen",
+      "asla",
+      "hayır",
+      "tamam"
+    ]
+  },
+  {
+    "english": "pleasure",
+    "turkish": "keyif/memnuniyet",
+    "options": [
+      "keyif/memnuniyet",
+      "acı",
+      "keder",
+      "öfke"
+    ]
+  },
+  {
+    "english": "plenty",
+    "turkish": "bol/çok",
+    "options": [
+      "bol/çok",
+      "az",
+      "hiç",
+      "biraz"
+    ]
+  },
+  {
+    "english": "point",
+    "turkish": "nokta/uç",
+    "options": [
+      "nokta/uç",
+      "çizgi",
+      "alan",
+      "daire"
+    ]
+  },
+  {
+    "english": "police",
+    "turkish": "polis",
+    "options": [
+      "polis",
+      "asker",
+      "hırsız",
+      "doktor"
+    ]
+  },
+  {
+    "english": "politics",
+    "turkish": "politika",
+    "options": [
+      "politika",
+      "ekonomi",
+      "spor",
+      "sanat"
+    ]
+  },
+  {
+    "english": "poor",
+    "turkish": "fakir/zavallı",
+    "options": [
+      "fakir/zavallı",
+      "zengin",
+      "mutlu",
+      "güçlü"
+    ]
+  },
+  {
+    "english": "popular",
+    "turkish": "popüler",
+    "options": [
+      "popüler",
+      "bilinmeyen",
+      "eski",
+      "kötü"
+    ]
+  },
+  {
+    "english": "position",
+    "turkish": "konum/pozisyon",
+    "options": [
+      "konum/pozisyon",
+      "zaman",
+      "hız",
+      "renk"
+    ]
+  },
+  {
+    "english": "possible",
+    "turkish": "mümkün",
+    "options": [
+      "mümkün",
+      "imkansız",
+      "zor",
+      "kesin"
+    ]
+  },
+  {
+    "english": "post",
+    "turkish": "posta/direk",
+    "options": [
+      "posta/direk",
+      "mektup",
+      "kağıt",
+      "duvar"
+    ]
+  },
+  {
+    "english": "pound",
+    "turkish": "paund/vuruş",
+    "options": [
+      "paund/vuruş",
+      "metre",
+      "litre",
+      "saat"
+    ]
+  },
+  {
+    "english": "pour",
+    "turkish": "dökmek",
+    "options": [
+      "dökmek",
+      "tutmak",
+      "çekmek",
+      "itmek"
+    ]
+  },
+  {
+    "english": "power",
+    "turkish": "güç",
+    "options": [
+      "güç",
+      "zayıflık",
+      "hız",
+      "ışık"
+    ]
+  },
+  {
+    "english": "practise",
+    "turkish": "pratik yapmak",
+    "options": [
+      "pratik yapmak",
+      "dinlenmek",
+      "uyumak",
+      "izlemek"
+    ]
+  },
+  {
+    "english": "prefer",
+    "turkish": "tercih etmek",
+    "options": [
+      "tercih etmek",
+      "reddetmek",
+      "beklemek",
+      "sormak"
+    ]
+  },
+  {
+    "english": "prepare",
+    "turkish": "hazırlamak",
+    "options": [
+      "hazırlamak",
+      "bozmak",
+      "bitirmek",
+      "başlamak"
+    ]
+  },
+  {
+    "english": "present",
+    "turkish": "hediye/mevcut",
+    "options": [
+      "hediye/mevcut",
+      "geçmiş",
+      "gelecek",
+      "eski"
+    ]
+  },
+  {
+    "english": "president",
+    "turkish": "başkan",
+    "options": [
+      "başkan",
+      "işçi",
+      "memur",
+      "öğrenci"
+    ]
+  },
+  {
+    "english": "press",
+    "turkish": "basmak/basın",
+    "options": [
+      "basmak/basın",
+      "çekmek",
+      "itmek",
+      "kaldırmak"
+    ]
+  },
+  {
+    "english": "pretty",
+    "turkish": "sevimli/oldukça",
+    "options": [
+      "sevimli/oldukça",
+      "çirkin",
+      "kötü",
+      "sıradan"
+    ]
+  },
+  {
+    "english": "price",
+    "turkish": "fiyat",
+    "options": [
+      "fiyat",
+      "miktar",
+      "borç",
+      "gelir"
+    ]
+  },
+  {
+    "english": "prison",
+    "turkish": "hapishane",
+    "options": [
+      "hapishane",
+      "okul",
+      "hastane",
+      "otel"
+    ]
+  },
+  {
+    "english": "private",
+    "turkish": "özel",
+    "options": [
+      "özel",
+      "genel",
+      "ortak",
+      "açık"
+    ]
+  },
+  {
+    "english": "prize",
+    "turkish": "ödül",
+    "options": [
+      "ödül",
+      "ceza",
+      "borç",
+      "kayıp"
+    ]
+  },
+  {
+    "english": "probably",
+    "turkish": "muhtemelen",
+    "options": [
+      "muhtemelen",
+      "kesinlikle",
+      "asla",
+      "henüz"
+    ]
+  },
+  {
+    "english": "problem",
+    "turkish": "problem",
+    "options": [
+      "problem",
+      "çözüm",
+      "şans",
+      "başarı"
+    ]
+  },
+  {
+    "english": "produce",
+    "turkish": "üretmek",
+    "options": [
+      "üretmek",
+      "tüketmek",
+      "bozmak",
+      "atmak"
+    ]
+  },
+  {
+    "english": "product",
+    "turkish": "ürün",
+    "options": [
+      "ürün",
+      "hizmet",
+      "ham madde",
+      "atık"
+    ]
+  },
+  {
+    "english": "profit",
+    "turkish": "kâr",
+    "options": [
+      "kâr",
+      "zarar",
+      "borç",
+      "fiyat"
+    ]
+  },
+  {
+    "english": "promise",
+    "turkish": "söz vermek",
+    "options": [
+      "söz vermek",
+      "yalan söylemek",
+      "ummak",
+      "istemek"
+    ]
+  },
+  {
+    "english": "protect",
+    "turkish": "korumak",
+    "options": [
+      "korumak",
+      "saldırmak",
+      "izlemek",
+      "bozmak"
+    ]
+  },
+  {
+    "english": "proud",
+    "turkish": "gururlu",
+    "options": [
+      "gururlu",
+      "kızgın",
+      "üzgün",
+      "mütevazı"
+    ]
+  },
+  {
+    "english": "prove",
+    "turkish": "kanıtlamak",
+    "options": [
+      "kanıtlamak",
+      "saklamak",
+      "aramak",
+      "söylemek"
+    ]
+  },
+  {
+    "english": "provide",
+    "turkish": "sağlamak/temin etmek",
+    "options": [
+      "sağlamak/temin etmek",
+      "almak",
+      "harcamak",
+      "engellemek"
+    ]
+  },
+  {
+    "english": "public",
+    "turkish": "halk/kamu",
+    "options": [
+      "halk/kamu",
+      "özel",
+      "gizli",
+      "kişisel"
+    ]
+  },
+  {
+    "english": "pull",
+    "turkish": "çekmek",
+    "options": [
+      "çekmek",
+      "itmek",
+      "atmak",
+      "tutmak"
+    ]
+  },
+  {
+    "english": "purpose",
+    "turkish": "amaç",
+    "options": [
+      "amaç",
+      "sonuç",
+      "hata",
+      "şans"
+    ]
+  },
+  {
+    "english": "put",
+    "turkish": "koymak",
+    "options": [
+      "koymak",
+      "almak",
+      "atmak",
+      "bulmak"
+    ]
+  },
+  {
+    "english": "question",
+    "turkish": "soru",
+    "options": [
+      "soru",
+      "cevap",
+      "cümle",
+      "fikir"
+    ]
+  },
+  {
+    "english": "quick",
+    "turkish": "hızlı",
+    "options": [
+      "hızlı",
+      "yavaş",
+      "ağır",
+      "sakin"
+    ]
+  },
+  {
+    "english": "quiet",
+    "turkish": "sessiz",
+    "options": [
+      "sessiz",
+      "gürültülü",
+      "hızlı",
+      "kalabalık"
+    ]
+  },
+  {
+    "english": "quite",
+    "turkish": "oldukça/epey",
+    "options": [
+      "oldukça/epey",
+      "hiç",
+      "biraz",
+      "asla"
+    ]
+  },
+  {
+    "english": "race",
+    "turkish": "yarış/ırk",
+    "options": [
+      "yarış/ırk",
+      "oyun",
+      "kavga",
+      "yol"
+    ]
+  },
+  {
+    "english": "radio",
+    "turkish": "radyo",
+    "options": [
+      "radyo",
+      "televizyon",
+      "telefon",
+      "bilgisayar"
+    ]
+  },
+  {
+    "english": "rain",
+    "turkish": "yağmur",
+    "options": [
+      "yağmur",
+      "kar",
+      "güneş",
+      "rüzgar"
+    ]
+  },
+  {
+    "english": "raise",
+    "turkish": "artırmak/kaldırmak",
+    "options": [
+      "artırmak/kaldırmak",
+      "indirmek",
+      "düşürmek",
+      "tutmak"
+    ]
+  },
+  {
+    "english": "rather",
+    "turkish": "oldukça/tercihen",
+    "options": [
+      "oldukça/tercihen",
+      "asla",
+      "çünkü",
+      "belki"
+    ]
+  },
+  {
+    "english": "read",
+    "turkish": "okumak",
+    "options": [
+      "okumak",
+      "yazmak",
+      "dinlemek",
+      "izlemek"
+    ]
+  },
+  {
+    "english": "ready",
+    "turkish": "hazır",
+    "options": [
+      "hazır",
+      "yorgun",
+      "meşgul",
+      "geç"
+    ]
+  },
+  {
+    "english": "reach",
+    "turkish": "ulaşmak",
+    "options": [
+      "ulaşmak",
+      "ayrılmak",
+      "gitmek",
+      "durmak"
+    ]
+  },
+  {
+    "english": "real",
+    "turkish": "gerçek",
+    "options": [
+      "gerçek",
+      "yalan",
+      "hayal",
+      "sahte"
+    ]
+  },
+  {
+    "english": "really",
+    "turkish": "gerçekten",
+    "options": [
+      "gerçekten",
+      "asla",
+      "belki",
+      "bazen"
+    ]
+  },
+  {
+    "english": "reason",
+    "turkish": "neden/sebep",
+    "options": [
+      "neden/sebep",
+      "sonuç",
+      "amaç",
+      "karar"
+    ]
+  },
+  {
+    "english": "receive",
+    "turkish": "teslim almak",
+    "options": [
+      "teslim almak",
+      "göndermek",
+      "vermek",
+      "satmak"
+    ]
+  },
+  {
+    "english": "recent",
+    "turkish": "son zamanlardaki",
+    "options": [
+      "son zamanlardaki",
+      "eski",
+      "tarihi",
+      "gelecek"
+    ]
+  },
+  {
+    "english": "recently",
+    "turkish": "son zamanlarda",
+    "options": [
+      "son zamanlarda",
+      "eskiden",
+      "asla",
+      "şimdi"
+    ]
+  },
+  {
+    "english": "record",
+    "turkish": "kayıt",
+    "options": [
+      "kayıt",
+      "silme",
+      "oynatma",
+      "yazı"
+    ]
+  },
+  {
+    "english": "red",
+    "turkish": "kırmızı",
+    "options": [
+      "kırmızı",
+      "mavi",
+      "sarı",
+      "yeşil"
+    ]
+  },
+  {
+    "english": "reduce",
+    "turkish": "azaltmak",
+    "options": [
+      "azaltmak",
+      "artırmak",
+      "bitirmek",
+      "başlamak"
+    ]
+  },
+  {
+    "english": "refuse",
+    "turkish": "reddetmek",
+    "options": [
+      "reddetmek",
+      "kabul etmek",
+      "sormak",
+      "istemek"
+    ]
+  },
+  {
+    "english": "regard",
+    "turkish": "saygı/bakım",
+    "options": [
+      "saygı/bakım",
+      "nefret",
+      "korku",
+      "hata"
+    ]
+  },
+  {
+    "english": "regular",
+    "turkish": "düzenli",
+    "options": [
+      "düzenli",
+      "karışık",
+      "hızlı",
+      "yavaş"
+    ]
+  },
+  {
+    "english": "relationship",
+    "turkish": "ilişki",
+    "options": [
+      "ilişki",
+      "ayrılık",
+      "arkadaş",
+      "aile"
+    ]
+  },
+  {
+    "english": "religion",
+    "turkish": "din",
+    "options": [
+      "din",
+      "bilim",
+      "tarih",
+      "sanat"
+    ]
+  },
+  {
+    "english": "remain",
+    "turkish": "kalmak/sürdürmek",
+    "options": [
+      "kalmak/sürdürmek",
+      "gitmek",
+      "değişmek",
+      "bitmek"
+    ]
+  },
+  {
+    "english": "remember",
+    "turkish": "hatırlamak",
+    "options": [
+      "hatırlamak",
+      "unutmak",
+      "bilmek",
+      "anlamak"
+    ]
+  },
+  {
+    "english": "remove",
+    "turkish": "kaldırmak/çıkarmak",
+    "options": [
+      "kaldırmak/çıkarmak",
+      "eklemek",
+      "tutmak",
+      "saklamak"
+    ]
+  },
+  {
+    "english": "repair",
+    "turkish": "tamir etmek",
+    "options": [
+      "tamir etmek",
+      "bozmak",
+      "atmak",
+      "satmak"
+    ]
+  },
+  {
+    "english": "repeat",
+    "turkish": "tekrarlamak",
+    "options": [
+      "tekrarlamak",
+      "başlamak",
+      "bitirmek",
+      "durmak"
+    ]
+  },
+  {
+    "english": "replace",
+    "turkish": "yer değiştirmek",
+    "options": [
+      "yer değiştirmek",
+      "tutmak",
+      "saklamak",
+      "atmak"
+    ]
+  },
+  {
+    "english": "reply",
+    "turkish": "cevap vermek",
+    "options": [
+      "cevap vermek",
+      "sormak",
+      "dinlemek",
+      "susmak"
+    ]
+  },
+  {
+    "english": "report",
+    "turkish": "rapor etmek",
+    "options": [
+      "rapor etmek",
+      "saklamak",
+      "yazmak",
+      "okumak"
+    ]
+  },
+  {
+    "english": "request",
+    "turkish": "istek/rica",
+    "options": [
+      "istek/rica",
+      "emir",
+      "ceza",
+      "yasak"
+    ]
+  },
+  {
+    "english": "respect",
+    "turkish": "saygı duymak",
+    "options": [
+      "saygı duymak",
+      "korkmak",
+      "kızmak",
+      "nefret"
+    ]
+  },
+  {
+    "english": "responsible",
+    "turkish": "sorumlu",
+    "options": [
+      "sorumlu",
+      "sorumsuz",
+      "özgür",
+      "bağımsız"
+    ]
+  },
+  {
+    "english": "rest",
+    "turkish": "dinlenmek/geri kalan",
+    "options": [
+      "dinlenmek/geri kalan",
+      "çalışmak",
+      "koşmak",
+      "yorulmak"
+    ]
+  },
+  {
+    "english": "restaurant",
+    "turkish": "restoran",
+    "options": [
+      "restoran",
+      "otel",
+      "ev",
+      "market"
+    ]
+  },
+  {
+    "english": "result",
+    "turkish": "sonuç",
+    "options": [
+      "sonuç",
+      "neden",
+      "şans",
+      "hata"
+    ]
+  },
+  {
+    "english": "return",
+    "turkish": "geri dönmek",
+    "options": [
+      "geri dönmek",
+      "gitmek",
+      "kalmak",
+      "durmak"
+    ]
+  },
+  {
+    "english": "rice",
+    "turkish": "pirinç",
+    "options": [
+      "pirinç",
+      "ekmek",
+      "makarna",
+      "buğday"
+    ]
+  },
+  {
+    "english": "ride",
+    "turkish": "binmek",
+    "options": [
+      "binmek",
+      "yürümek",
+      "koşmak",
+      "durmak"
+    ]
+  },
+  {
+    "english": "right",
+    "turkish": "doğru/sağ",
+    "options": [
+      "doğru/sağ",
+      "yanlış",
+      "sol",
+      "arka"
+    ]
+  },
+  {
+    "english": "rich",
+    "turkish": "zengin",
+    "options": [
+      "zengin",
+      "fakir",
+      "mutlu",
+      "yaşlı"
+    ]
+  },
+  {
+    "english": "ring",
+    "turkish": "yüzük/çalmak",
+    "options": [
+      "yüzük/çalmak",
+      "bilezik",
+      "kapı",
+      "anahtar"
+    ]
+  },
+  {
+    "english": "rise",
+    "turkish": "yükselmek",
+    "options": [
+      "yükselmek",
+      "düşmek",
+      "batmak",
+      "durmak"
+    ]
+  },
+  {
+    "english": "risk",
+    "turkish": "risk",
+    "options": [
+      "risk",
+      "şans",
+      "güven",
+      "plan"
+    ]
+  },
+  {
+    "english": "river",
+    "turkish": "nehir",
+    "options": [
+      "nehir",
+      "deniz",
+      "göl",
+      "havuz"
+    ]
+  },
+  {
+    "english": "road",
+    "turkish": "yol",
+    "options": [
+      "yol",
+      "dağ",
+      "deniz",
+      "gökyüzü"
+    ]
+  },
+  {
+    "english": "rock",
+    "turkish": "kaya",
+    "options": [
+      "kaya",
+      "toprak",
+      "kum",
+      "ağaç"
+    ]
+  },
+  {
+    "english": "roll",
+    "turkish": "yuvarlanmak/rulo",
+    "options": [
+      "yuvarlanmak/rulo",
+      "atlamak",
+      "koşmak",
+      "durmak"
+    ]
+  },
+  {
+    "english": "room",
+    "turkish": "oda",
+    "options": [
+      "oda",
+      "ev",
+      "bahçe",
+      "mutfak"
+    ]
+  },
+  {
+    "english": "rough",
+    "turkish": "kaba/pürüzlü",
+    "options": [
+      "kaba/pürüzlü",
+      "yumuşak",
+      "ince",
+      "temiz"
+    ]
+  },
+  {
+    "english": "round",
+    "turkish": "yuvarlak",
+    "options": [
+      "yuvarlak",
+      "kare",
+      "üçgen",
+      "çizgi"
+    ]
+  },
+  {
+    "english": "row",
+    "turkish": "sıra/kürek çekmek",
+    "options": [
+      "sıra/kürek çekmek",
+      "masa",
+      "yol",
+      "nehir"
+    ]
+  },
+  {
+    "english": "rule",
+    "turkish": "kural",
+    "options": [
+      "kural",
+      "hata",
+      "izin",
+      "oyun"
+    ]
+  },
+  {
+    "english": "run",
+    "turkish": "koşmak",
+    "options": [
+      "koşmak",
+      "yürümek",
+      "oturmak",
+      "uyumak"
+    ]
+  },
+  {
+    "english": "rush",
+    "turkish": "acele etmek",
+    "options": [
+      "acele etmek",
+      "beklemek",
+      "durmak",
+      "izlemek"
+    ]
+  },
+  {
+    "english": "sad",
+    "turkish": "üzgün",
+    "options": [
+      "üzgün",
+      "mutlu",
+      "kızgın",
+      "heyecanlı"
+    ]
+  },
+  {
+    "english": "safe",
+    "turkish": "güvenli",
+    "options": [
+      "güvenli",
+      "tehlikeli",
+      "hızlı",
+      "korkunç"
+    ]
+  },
+  {
+    "english": "salt",
+    "turkish": "tuz",
+    "options": [
+      "tuz",
+      "şeker",
+      "karabiber",
+      "yağ"
+    ]
+  },
+  {
+    "english": "same",
+    "turkish": "aynı",
+    "options": [
+      "aynı",
+      "farklı",
+      "benzer",
+      "yeni"
+    ]
+  },
+  {
+    "english": "save",
+    "turkish": "kaydetmek/kurtarmak",
+    "options": [
+      "kaydetmek/kurtarmak",
+      "harcamak",
+      "atmak",
+      "kaybetmek"
+    ]
+  },
+  {
+    "english": "say",
+    "turkish": "söylemek",
+    "options": [
+      "söylemek",
+      "duymak",
+      "dinlemek",
+      "yazmak"
+    ]
+  },
+  {
+    "english": "science",
+    "turkish": "bilim",
+    "options": [
+      "bilim",
+      "sanat",
+      "tarih",
+      "spor"
+    ]
+  },
+  {
+    "english": "score",
+    "turkish": "skor",
+    "options": [
+      "skor",
+      "oyun",
+      "süre",
+      "takım"
+    ]
+  },
+  {
+    "english": "sea",
+    "turkish": "deniz",
+    "options": [
+      "deniz",
+      "göl",
+      "nehir",
+      "okyanus"
+    ]
+  },
+  {
+    "english": "search",
+    "turkish": "aramak",
+    "options": [
+      "aramak",
+      "bulmak",
+      "saklamak",
+      "atmak"
+    ]
+  },
+  {
+    "english": "season",
+    "turkish": "mevsim",
+    "options": [
+      "mevsim",
+      "ay",
+      "yıl",
+      "gün"
+    ]
+  },
+  {
+    "english": "seat",
+    "turkish": "koltuk",
+    "options": [
+      "koltuk",
+      "masa",
+      "yatak",
+      "dolap"
+    ]
+  },
+  {
+    "english": "second",
+    "turkish": "saniye/ikinci",
+    "options": [
+      "saniye/ikinci",
+      "birinci",
+      "dakika",
+      "saat"
+    ]
+  },
+  {
+    "english": "secret",
+    "turkish": "sır",
+    "options": [
+      "sır",
+      "haber",
+      "yalan",
+      "gerçek"
+    ]
+  },
+  {
+    "english": "secretary",
+    "turkish": "sekreter",
+    "options": [
+      "sekreter",
+      "patron",
+      "işçi",
+      "memur"
+    ]
+  },
+  {
+    "english": "see",
+    "turkish": "görmek",
+    "options": [
+      "görmek",
+      "duymak",
+      "bakmak",
+      "dokunmak"
+    ]
+  },
+  {
+    "english": "seem",
+    "turkish": "görünmek",
+    "options": [
+      "görünmek",
+      "kaybolmak",
+      "bakmak",
+      "durmak"
+    ]
+  },
+  {
+    "english": "sell",
+    "turkish": "satmak",
+    "options": [
+      "satmak",
+      "almak",
+      "vermek",
+      "çalmak"
+    ]
+  },
+  {
+    "english": "send",
+    "turkish": "göndermek",
+    "options": [
+      "göndermek",
+      "almak",
+      "tutmak",
+      "getirmek"
+    ]
+  },
+  {
+    "english": "sense",
+    "turkish": "duyu/anlam",
+    "options": [
+      "duyu/anlam",
+      "ses",
+      "görüntü",
+      "hayal"
+    ]
+  },
+  {
+    "english": "series",
+    "turkish": "seri",
+    "options": [
+      "seri",
+      "tek",
+      "parça",
+      "film"
+    ]
+  },
+  {
+    "english": "serious",
+    "turkish": "ciddi",
+    "options": [
+      "ciddi",
+      "komik",
+      "eğlenceli",
+      "mutlu"
+    ]
+  },
+  {
+    "english": "serve",
+    "turkish": "hizmet etmek",
+    "options": [
+      "hizmet etmek",
+      "beklemek",
+      "durmak",
+      "gitmek"
+    ]
+  },
+  {
+    "english": "service",
+    "turkish": "servis",
+    "options": [
+      "servis",
+      "ürün",
+      "fatura",
+      "şirket"
+    ]
+  },
+  {
+    "english": "set",
+    "turkish": "kurmak/set",
+    "options": [
+      "kurmak/set",
+      "bozmak",
+      "başlamak",
+      "bitirmek"
+    ]
+  },
+  {
+    "english": "several",
+    "turkish": "birkaç",
+    "options": [
+      "birkaç",
+      "hepsi",
+      "hiç",
+      "birçok"
+    ]
+  },
+  {
+    "english": "shall",
+    "turkish": "-ecek/-acak",
+    "options": [
+      "-ecek/-acak",
+      "belki",
+      "şimdi",
+      "asla"
+    ]
+  },
+  {
+    "english": "shape",
+    "turkish": "şekil",
+    "options": [
+      "şekil",
+      "renk",
+      "boyut",
+      "isim"
+    ]
+  },
+  {
+    "english": "share",
+    "turkish": "paylaşmak",
+    "options": [
+      "paylaşmak",
+      "saklamak",
+      "almak",
+      "çalmak"
+    ]
+  },
+  {
+    "english": "sharp",
+    "turkish": "keskin",
+    "options": [
+      "keskin",
+      "kör",
+      "yumuşak",
+      "düz"
+    ]
+  },
+  {
+    "english": "she",
+    "turkish": "o (kadın)",
+    "options": [
+      "o (kadın)",
+      "o (erkek)",
+      "ben",
+      "sen"
+    ]
+  },
+  {
+    "english": "ship",
+    "turkish": "gemi",
+    "options": [
+      "gemi",
+      "araba",
+      "uçak",
+      "tren"
+    ]
+  },
+  {
+    "english": "shoe",
+    "turkish": "ayakkabı",
+    "options": [
+      "ayakkabı",
+      "çizme",
+      "terlik",
+      "çorap"
+    ]
+  },
+  {
+    "english": "shoot",
+    "turkish": "ateş etmek/çekmek",
+    "options": [
+      "ateş etmek/çekmek",
+      "koşmak",
+      "yakalamak",
+      "atmak"
+    ]
+  },
+  {
+    "english": "shop",
+    "turkish": "dükkan/mağaza",
+    "options": [
+      "dükkan/mağaza",
+      "ofis",
+      "ev",
+      "okul"
+    ]
+  },
+  {
+    "english": "short",
+    "turkish": "kısa",
+    "options": [
+      "kısa",
+      "uzun",
+      "geniş",
+      "dar"
+    ]
+  },
+  {
+    "english": "should",
+    "turkish": "-meli/-malı",
+    "options": [
+      "-meli/-malı",
+      "yapabilir",
+      "istiyor",
+      "olacak"
+    ]
+  },
+  {
+    "english": "shoulder",
+    "turkish": "omuz",
+    "options": [
+      "omuz",
+      "baş",
+      "kol",
+      "boyun"
+    ]
+  },
+  {
+    "english": "show",
+    "turkish": "göstermek",
+    "options": [
+      "göstermek",
+      "izlemek",
+      "bakmak",
+      "saklamak"
+    ]
+  },
+  {
+    "english": "shut",
+    "turkish": "kapatmak",
+    "options": [
+      "kapatmak",
+      "açmak",
+      "kırmak",
+      "itmek"
+    ]
+  },
+  {
+    "english": "school",
+    "turkish": "okul",
+    "options": [
+      "okul",
+      "hastane",
+      "banka",
+      "park"
+    ]
+  },
+  {
+    "english": "sick",
+    "turkish": "hasta",
+    "options": [
+      "hasta",
+      "yorgun",
+      "sağlıklı",
+      "mutlu"
+    ]
+  },
+  {
+    "english": "side",
+    "turkish": "yan/taraf",
+    "options": [
+      "yan/taraf",
+      "orta",
+      "köşe",
+      "baş"
+    ]
+  },
+  {
+    "english": "sign",
+    "turkish": "işaret/imza",
+    "options": [
+      "işaret/imza",
+      "yazı",
+      "resim",
+      "şekil"
+    ]
+  },
+  {
+    "english": "silver",
+    "turkish": "gümüş",
+    "options": [
+      "gümüş",
+      "altın",
+      "bakır",
+      "demir"
+    ]
+  },
+  {
+    "english": "similar",
+    "turkish": "benzer",
+    "options": [
+      "benzer",
+      "farklı",
+      "aynı",
+      "ayrı"
+    ]
+  },
+  {
+    "english": "simple",
+    "turkish": "basit",
+    "options": [
+      "basit",
+      "zor",
+      "karışık",
+      "yeni"
+    ]
+  },
+  {
+    "english": "since",
+    "turkish": "-den beri",
+    "options": [
+      "-den beri",
+      "için",
+      "çünkü",
+      "sonra"
+    ]
+  },
+  {
+    "english": "sing",
+    "turkish": "şarkı söylemek",
+    "options": [
+      "şarkı söylemek",
+      "dans etmek",
+      "yazmak",
+      "okumak"
+    ]
+  },
+  {
+    "english": "single",
+    "turkish": "tek/bekar",
+    "options": [
+      "tek/bekar",
+      "çift",
+      "evli",
+      "çok"
+    ]
+  },
+  {
+    "english": "sister",
+    "turkish": "kız kardeş",
+    "options": [
+      "kız kardeş",
+      "erkek kardeş",
+      "anne",
+      "teyze"
+    ]
+  },
+  {
+    "english": "sit",
+    "turkish": "oturmak",
+    "options": [
+      "oturmak",
+      "kalkmak",
+      "koşmak",
+      "uyumak"
+    ]
+  },
+  {
+    "english": "situation",
+    "turkish": "durum",
+    "options": [
+      "durum",
+      "sonuç",
+      "plan",
+      "olay"
+    ]
+  },
+  {
+    "english": "size",
+    "turkish": "boyut",
+    "options": [
+      "boyut",
+      "renk",
+      "şekil",
+      "fiyat"
+    ]
+  },
+  {
+    "english": "skirt",
+    "turkish": "etek",
+    "options": [
+      "etek",
+      "elbise",
+      "pantolon",
+      "gömlek"
+    ]
+  },
+  {
+    "english": "sky",
+    "turkish": "gökyüzü",
+    "options": [
+      "gökyüzü",
+      "bulut",
+      "dünya",
+      "yıldız"
+    ]
+  },
+  {
+    "english": "sleep",
+    "turkish": "uyumak",
+    "options": [
+      "uyumak",
+      "uyanmak",
+      "oturmak",
+      "dinlenmek"
+    ]
+  },
+  {
+    "english": "slow",
+    "turkish": "yavaş",
+    "options": [
+      "yavaş",
+      "hızlı",
+      "sakin",
+      "ani"
+    ]
+  },
+  {
+    "english": "small",
+    "turkish": "küçük",
+    "options": [
+      "küçük",
+      "büyük",
+      "geniş",
+      "dar"
+    ]
+  },
+  {
+    "english": "smart",
+    "turkish": "zeki/şık",
+    "options": [
+      "zeki/şık",
+      "aptal",
+      "yavaş",
+      "tembel"
+    ]
+  },
+  {
+    "english": "smell",
+    "turkish": "koklamak/koku",
+    "options": [
+      "koklamak/koku",
+      "duymak",
+      "bakmak",
+      "tatmak"
+    ]
+  },
+  {
+    "english": "smile",
+    "turkish": "gülümsemek",
+    "options": [
+      "gülümsemek",
+      "ağlamak",
+      "kızmak",
+      "bağırmak"
+    ]
+  },
+  {
+    "english": "smoke",
+    "turkish": "sigara içmek/duman",
+    "options": [
+      "sigara içmek/duman",
+      "ateş",
+      "su",
+      "hava"
+    ]
+  },
+  {
+    "english": "smooth",
+    "turkish": "pürüzsüz/düz",
+    "options": [
+      "pürüzsüz/düz",
+      "sert",
+      "kaba",
+      "eğri"
+    ]
+  },
+  {
+    "english": "snow",
+    "turkish": "kar",
+    "options": [
+      "kar",
+      "yağmur",
+      "buz",
+      "güneş"
+    ]
+  },
+  {
+    "english": "so",
+    "turkish": "bu yüzden/öyle",
+    "options": [
+      "bu yüzden/öyle",
+      "çünkü",
+      "asla",
+      "ama"
+    ]
+  },
+  {
+    "english": "society",
+    "turkish": "toplum",
+    "options": [
+      "toplum",
+      "aile",
+      "kişi",
+      "devlet"
+    ]
+  },
+  {
+    "english": "soft",
+    "turkish": "yumuşak",
+    "options": [
+      "yumuşak",
+      "sert",
+      "ağır",
+      "soğuk"
+    ]
+  },
+  {
+    "english": "soldier",
+    "turkish": "asker",
+    "options": [
+      "asker",
+      "polis",
+      "hırsız",
+      "kaptan"
+    ]
+  },
+  {
+    "english": "some",
+    "turkish": "bazı/biraz",
+    "options": [
+      "bazı/biraz",
+      "hiç",
+      "hepsi",
+      "çok"
+    ]
+  },
+  {
+    "english": "something",
+    "turkish": "bir şey",
+    "options": [
+      "bir şey",
+      "her şey",
+      "hiçbir şey",
+      "herkes"
+    ]
+  },
+  {
+    "english": "sometimes",
+    "turkish": "bazen",
+    "options": [
+      "bazen",
+      "her zaman",
+      "asla",
+      "sık sık"
+    ]
+  },
+  {
+    "english": "somewhere",
+    "turkish": "bir yer",
+    "options": [
+      "bir yer",
+      "her yer",
+      "hiçbir yer",
+      "burada"
+    ]
+  },
+  {
+    "english": "son",
+    "turkish": "erkek evlat",
+    "options": [
+      "erkek evlat",
+      "kız evlat",
+      "baba",
+      "amca"
+    ]
+  },
+  {
+    "english": "song",
+    "turkish": "şarkı",
+    "options": [
+      "şarkı",
+      "müzik",
+      "ses",
+      "şiir"
+    ]
+  },
+  {
+    "english": "soon",
+    "turkish": "yakında",
+    "options": [
+      "yakında",
+      "sonra",
+      "geç",
+      "eskiden"
+    ]
+  },
+  {
+    "english": "sorry",
+    "turkish": "üzgün/pişman",
+    "options": [
+      "üzgün/pişman",
+      "mutlu",
+      "kızgın",
+      "haklı"
+    ]
+  },
+  {
+    "english": "sound",
+    "turkish": "ses",
+    "options": [
+      "ses",
+      "görüntü",
+      "ışık",
+      "renk"
+    ]
+  },
+  {
+    "english": "south",
+    "turkish": "güney",
+    "options": [
+      "güney",
+      "kuzey",
+      "doğu",
+      "batı"
+    ]
+  },
+  {
+    "english": "space",
+    "turkish": "alan/uzay",
+    "options": [
+      "alan/uzay",
+      "yol",
+      "oda",
+      "gökyüzü"
+    ]
+  },
+  {
+    "english": "speak",
+    "turkish": "konuşmak",
+    "options": [
+      "konuşmak",
+      "dinlemek",
+      "yazmak",
+      "okumak"
+    ]
+  },
+  {
+    "english": "special",
+    "turkish": "özel",
+    "options": [
+      "özel",
+      "genel",
+      "sıradan",
+      "eski"
+    ]
+  },
+  {
+    "english": "speed",
+    "turkish": "hız",
+    "options": [
+      "hız",
+      "zaman",
+      "mesafe",
+      "yol"
+    ]
+  },
+  {
+    "english": "spoil",
+    "turkish": "bozmak/şımartmak",
+    "options": [
+      "bozmak/şımartmak",
+      "yapmak",
+      "sevmek",
+      "atmak"
+    ]
+  },
+  {
+    "english": "sport",
+    "turkish": "spor",
+    "options": [
+      "spor",
+      "oyun",
+      "eğlence",
+      "dans"
+    ]
+  },
+  {
+    "english": "spot",
+    "turkish": "leke/nokta",
+    "options": [
+      "leke/nokta",
+      "çizgi",
+      "alan",
+      "daire"
+    ]
+  },
+  {
+    "english": "spread",
+    "turkish": "yaymak",
+    "options": [
+      "yaymak",
+      "toplamak",
+      "katlamak",
+      "saklamak"
+    ]
+  },
+  {
+    "english": "spring",
+    "turkish": "bahar/yay",
+    "options": [
+      "bahar/yay",
+      "yaz",
+      "kış",
+      "güz"
+    ]
+  },
+  {
+    "english": "square",
+    "turkish": "kare/meydan",
+    "options": [
+      "kare/meydan",
+      "üçgen",
+      "daire",
+      "nokta"
+    ]
+  },
+  {
+    "english": "stand",
+    "turkish": "ayakta durmak",
+    "options": [
+      "ayakta durmak",
+      "oturmak",
+      "yatmak",
+      "koşmak"
+    ]
+  },
+  {
+    "english": "star",
+    "turkish": "yıldız",
+    "options": [
+      "yıldız",
+      "güneş",
+      "ay",
+      "dünya"
+    ]
+  },
+  {
+    "english": "start",
+    "turkish": "başlamak",
+    "options": [
+      "başlamak",
+      "bitirmek",
+      "durmak",
+      "izlemek"
+    ]
+  },
+  {
+    "english": "state",
+    "turkish": "durum/eyalet",
+    "options": [
+      "durum/eyalet",
+      "sonuç",
+      "karar",
+      "olay"
+    ]
+  },
+  {
+    "english": "station",
+    "turkish": "istasyon",
+    "options": [
+      "istasyon",
+      "durak",
+      "liman",
+      "havaalanı"
+    ]
+  },
+  {
+    "english": "stay",
+    "turkish": "kalmak",
+    "options": [
+      "kalmak",
+      "gitmek",
+      "gelmek",
+      "ayrılmak"
+    ]
+  },
+  {
+    "english": "steal",
+    "turkish": "çalmak",
+    "options": [
+      "çalmak",
+      "vermek",
+      "almak",
+      "satmak"
+    ]
+  },
+  {
+    "english": "step",
+    "turkish": "adım",
+    "options": [
+      "adım",
+      "yol",
+      "hız",
+      "durak"
+    ]
+  },
+  {
+    "english": "still",
+    "turkish": "hala",
+    "options": [
+      "hala",
+      "şimdi",
+      "sonra",
+      "asla"
+    ]
+  },
+  {
+    "english": "stone",
+    "turkish": "taş",
+    "options": [
+      "taş",
+      "toprak",
+      "kum",
+      "maden"
+    ]
+  },
+  {
+    "english": "stop",
+    "turkish": "durmak/durdurmak",
+    "options": [
+      "durmak/durdurmak",
+      "koşmak",
+      "yürümek",
+      "başlamak"
+    ]
+  },
+  {
+    "english": "store",
+    "turkish": "mağaza/depolamak",
+    "options": [
+      "mağaza/depolamak",
+      "ofis",
+      "ev",
+      "okul"
+    ]
+  },
+  {
+    "english": "story",
+    "turkish": "hikaye",
+    "options": [
+      "hikaye",
+      "haber",
+      "kitap",
+      "yazı"
+    ]
+  },
+  {
+    "english": "straight",
+    "turkish": "düz",
+    "options": [
+      "düz",
+      "eğri",
+      "ters",
+      "yanlış"
+    ]
+  },
+  {
+    "english": "strange",
+    "turkish": "tuhaf/yabancı",
+    "options": [
+      "tuhaf/yabancı",
+      "tanıdık",
+      "normal",
+      "güzel"
+    ]
+  },
+  {
+    "english": "street",
+    "turkish": "sokak/cadde",
+    "options": [
+      "sokak/cadde",
+      "yol",
+      "dağ",
+      "bahçe"
+    ]
+  },
+  {
+    "english": "strong",
+    "turkish": "güçlü",
+    "options": [
+      "güçlü",
+      "zayıf",
+      "yavaş",
+      "korkak"
+    ]
+  },
+  {
+    "english": "student",
+    "turkish": "öğrenci",
+    "options": [
+      "öğrenci",
+      "öğretmen",
+      "müdür",
+      "veliler"
+    ]
+  },
+  {
+    "english": "study",
+    "turkish": "ders çalışmak",
+    "options": [
+      "ders çalışmak",
+      "oynamak",
+      "uyumak",
+      "dinlenmek"
+    ]
+  },
+  {
+    "english": "subject",
+    "turkish": "konu/özne",
+    "options": [
+      "konu/özne",
+      "nesne",
+      "fikir",
+      "kitap"
+    ]
+  },
+  {
+    "english": "success",
+    "turkish": "başarı",
+    "options": [
+      "başarı",
+      "hata",
+      "kayıp",
+      "şans"
+    ]
+  },
+  {
+    "english": "successful",
+    "turkish": "başarılı",
+    "options": [
+      "başarılı",
+      "başarısız",
+      "tembel",
+      "yavaş"
+    ]
+  },
+  {
+    "english": "suddenly",
+    "turkish": "aniden",
+    "options": [
+      "aniden",
+      "yavaşça",
+      "sonra",
+      "asla"
+    ]
+  },
+  {
+    "english": "sugar",
+    "turkish": "şeker",
+    "options": [
+      "şeker",
+      "tuz",
+      "un",
+      "yağ"
+    ]
+  },
+  {
+    "english": "suggest",
+    "turkish": "önermek",
+    "options": [
+      "önermek",
+      "reddetmek",
+      "istemek",
+      "sormak"
+    ]
+  },
+  {
+    "english": "such",
+    "turkish": "böyle/şöyle",
+    "options": [
+      "böyle/şöyle",
+      "başka",
+      "aynı",
+      "hiç"
+    ]
+  },
+  {
+    "english": "suit",
+    "turkish": "takım elbise/uygun olmak",
+    "options": [
+      "takım elbise/uygun olmak",
+      "gömlek",
+      "ayakkabı",
+      "çanta"
+    ]
+  },
+  {
+    "english": "summer",
+    "turkish": "yaz",
+    "options": [
+      "yaz",
+      "kış",
+      "bahar",
+      "güz"
+    ]
+  },
+  {
+    "english": "sun",
+    "turkish": "güneş",
+    "options": [
+      "güneş",
+      "ay",
+      "yıldız",
+      "bulut"
+    ]
+  },
+  {
+    "english": "supply",
+    "turkish": "tedarik etmek",
+    "options": [
+      "tedarik etmek",
+      "satmak",
+      "harcamak",
+      "atmak"
+    ]
+  },
+  {
+    "english": "support",
+    "turkish": "desteklemek",
+    "options": [
+      "desteklemek",
+      "engellemek",
+      "izlemek",
+      "durdurmak"
+    ]
+  },
+  {
+    "english": "sure",
+    "turkish": "emin",
+    "options": [
+      "emin",
+      "belirsiz",
+      "yanlış",
+      "korkmuş"
+    ]
+  },
+  {
+    "english": "surface",
+    "turkish": "yüzey",
+    "options": [
+      "yüzey",
+      "derinlik",
+      "alt",
+      "iç"
+    ]
+  },
+  {
+    "english": "sweet",
+    "turkish": "tatlı",
+    "options": [
+      "tatlı",
+      "acı",
+      "ekşi",
+      "tuzlu"
+    ]
+  },
+  {
+    "english": "swim",
+    "turkish": "yüzmek",
+    "options": [
+      "yüzmek",
+      "koşmak",
+      "uçmak",
+      "dalmak"
+    ]
+  },
+  {
+    "english": "system",
+    "turkish": "sistem",
+    "options": [
+      "sistem",
+      "parça",
+      "düzen",
+      "hata"
+    ]
+  },
+  {
+    "english": "table",
+    "turkish": "masa",
+    "options": [
+      "masa",
+      "sandalye",
+      "dolap",
+      "yatak"
+    ]
+  },
+  {
+    "english": "take",
+    "turkish": "almak/götürmek",
+    "options": [
+      "almak/götürmek",
+      "vermek",
+      "tutmak",
+      "atmak"
+    ]
+  },
+  {
+    "english": "talk",
+    "turkish": "konuşmak",
+    "options": [
+      "konuşmak",
+      "dinlemek",
+      "yazmak",
+      "okumak"
+    ]
+  },
+  {
+    "english": "tall",
+    "turkish": "uzun (boy)",
+    "options": [
+      "uzun (boy)",
+      "kısa",
+      "geniş",
+      "dar"
+    ]
+  },
+  {
+    "english": "taste",
+    "turkish": "tat/tatmak",
+    "options": [
+      "tat/tatmak",
+      "koku",
+      "ses",
+      "renk"
+    ]
+  },
+  {
+    "english": "tea",
+    "turkish": "çay",
+    "options": [
+      "çay",
+      "kahve",
+      "su",
+      "süt"
+    ]
+  },
+  {
+    "english": "teach",
+    "turkish": "öğretmek",
+    "options": [
+      "öğretmek",
+      "öğrenmek",
+      "bilmek",
+      "sormak"
+    ]
+  },
+  {
+    "english": "teacher",
+    "turkish": "öğretmen",
+    "options": [
+      "öğretmen",
+      "öğrenci",
+      "müdür",
+      "doktor"
+    ]
+  },
+  {
+    "english": "television",
+    "turkish": "televizyon",
+    "options": [
+      "televizyon",
+      "radyo",
+      "bilgisayar",
+      "telefon"
+    ]
+  },
+  {
+    "english": "tell",
+    "turkish": "söylemek/anlatmak",
+    "options": [
+      "söylemek/anlatmak",
+      "dinlemek",
+      "yazmak",
+      "okumak"
+    ]
+  },
+  {
+    "english": "temperature",
+    "turkish": "sıcaklık",
+    "options": [
+      "sıcaklık",
+      "hız",
+      "zaman",
+      "ağırlık"
+    ]
+  },
+  {
+    "english": "test",
+    "turkish": "test/sınav",
+    "options": [
+      "test/sınav",
+      "ders",
+      "kitap",
+      "okul"
+    ]
+  },
+  {
+    "english": "than",
+    "turkish": "-den/-dan (karşılaştırma)",
+    "options": [
+      "-den/-dan (karşılaştırma)",
+      "için",
+      "çünkü",
+      "veya"
+    ]
+  },
+  {
+    "english": "thank",
+    "turkish": "teşekkür etmek",
+    "options": [
+      "teşekkür etmek",
+      "rica etmek",
+      "istemek",
+      "vermek"
+    ]
+  },
+  {
+    "english": "that",
+    "turkish": "o/şu",
+    "options": [
+      "o/şu",
+      "bu",
+      "bunlar",
+      "onlar"
+    ]
+  },
+  {
+    "english": "the",
+    "turkish": "(belirleyici)",
+    "options": [
+      "(belirleyici)",
+      "bir",
+      "hiç",
+      "bazı"
+    ]
+  },
+  {
+    "english": "their",
+    "turkish": "onların",
+    "options": [
+      "onların",
+      "bizim",
+      "senin",
+      "benim"
+    ]
+  },
+  {
+    "english": "then",
+    "turkish": "o zaman/sonra",
+    "options": [
+      "o zaman/sonra",
+      "şimdi",
+      "önce",
+      "asla"
+    ]
+  },
+  {
+    "english": "there",
+    "turkish": "orada",
+    "options": [
+      "orada",
+      "burada",
+      "şurada",
+      "uzakta"
+    ]
+  },
+  {
+    "english": "these",
+    "turkish": "bunlar",
+    "options": [
+      "bunlar",
+      "şunlar",
+      "onlar",
+      "bu"
+    ]
+  },
+  {
+    "english": "they",
+    "turkish": "onlar",
+    "options": [
+      "onlar",
+      "biz",
+      "siz",
+      "sen"
+    ]
+  },
+  {
+    "english": "thick",
+    "turkish": "kalın",
+    "options": [
+      "kalın",
+      "ince",
+      "uzun",
+      "kısa"
+    ]
+  },
+  {
+    "english": "thin",
+    "turkish": "ince",
+    "options": [
+      "ince",
+      "kalın",
+      "geniş",
+      "dar"
+    ]
+  },
+  {
+    "english": "thing",
+    "turkish": "şey",
+    "options": [
+      "şey",
+      "insan",
+      "yer",
+      "zaman"
+    ]
+  },
+  {
+    "english": "think",
+    "turkish": "düşünmek",
+    "options": [
+      "düşünmek",
+      "bilmek",
+      "hatırlamak",
+      "unutmak"
+    ]
+  },
+  {
+    "english": "third",
+    "turkish": "üçüncü",
+    "options": [
+      "üçüncü",
+      "birinci",
+      "ikinci",
+      "dördüncü"
+    ]
+  },
+  {
+    "english": "this",
+    "turkish": "bu",
+    "options": [
+      "bu",
+      "şu",
+      "o",
+      "onlar"
+    ]
+  },
+  {
+    "english": "those",
+    "turkish": "şunlar/onlar",
+    "options": [
+      "şunlar/onlar",
+      "bunlar",
+      "bizler",
+      "sizler"
+    ]
+  },
+  {
+    "english": "though",
+    "turkish": "-e rağmen",
+    "options": [
+      "-e rağmen",
+      "çünkü",
+      "ancak",
+      "eğer"
+    ]
+  },
+  {
+    "english": "through",
+    "turkish": "aracılığıyla/içinden",
+    "options": [
+      "aracılığıyla/içinden",
+      "yanında",
+      "üstünde",
+      "altında"
+    ]
+  },
+  {
+    "english": "ticket",
+    "turkish": "bilet",
+    "options": [
+      "bilet",
+      "kart",
+      "kağıt",
+      "para"
+    ]
+  },
+  {
+    "english": "time",
+    "turkish": "zaman/vakit",
+    "options": [
+      "zaman/vakit",
+      "hız",
+      "mesafe",
+      "yol"
+    ]
+  },
+  {
+    "english": "tired",
+    "turkish": "yorgun",
+    "options": [
+      "yorgun",
+      "mutlu",
+      "kızgın",
+      "heyecanlı"
+    ]
+  },
+  {
+    "english": "today",
+    "turkish": "bugün",
+    "options": [
+      "bugün",
+      "yarın",
+      "dün",
+      "şimdi"
+    ]
+  },
+  {
+    "english": "together",
+    "turkish": "birlikte",
+    "options": [
+      "birlikte",
+      "yalnız",
+      "ayrı",
+      "farklı"
+    ]
+  },
+  {
+    "english": "toilet",
+    "turkish": "tuvalet",
+    "options": [
+      "tuvalet",
+      "banyo",
+      "mutfak",
+      "oda"
+    ]
+  },
+  {
+    "english": "tomorrow",
+    "turkish": "yarın",
+    "options": [
+      "yarın",
+      "bugün",
+      "dün",
+      "sonra"
+    ]
+  },
+  {
+    "english": "too",
+    "turkish": "de/da/çok",
+    "options": [
+      "de/da/çok",
+      "hiç",
+      "asla",
+      "biraz"
+    ]
+  },
+  {
+    "english": "top",
+    "turkish": "üst/zirve",
+    "options": [
+      "üst/zirve",
+      "alt",
+      "yan",
+      "orta"
+    ]
+  },
+  {
+    "english": "touch",
+    "turkish": "dokunmak",
+    "options": [
+      "dokunmak",
+      "bakmak",
+      "duymak",
+      "koklamak"
+    ]
+  },
+  {
+    "english": "town",
+    "turkish": "kasaba/şehir",
+    "options": [
+      "kasaba/şehir",
+      "köy",
+      "ülke",
+      "mahalle"
+    ]
+  },
+  {
+    "english": "trade",
+    "turkish": "ticaret",
+    "options": [
+      "ticaret",
+      "spor",
+      "sanat",
+      "bilim"
+    ]
+  },
+  {
+    "english": "train",
+    "turkish": "tren/eğitmek",
+    "options": [
+      "tren/eğitmek",
+      "otobüs",
+      "araba",
+      "uçak"
+    ]
+  },
+  {
+    "english": "travel",
+    "turkish": "seyahat etmek",
+    "options": [
+      "seyahat etmek",
+      "çalışmak",
+      "oturmak",
+      "uyumak"
+    ]
+  },
+  {
+    "english": "tree",
+    "turkish": "ağaç",
+    "options": [
+      "ağaç",
+      "çiçek",
+      "bitki",
+      "yaprak"
+    ]
+  },
+  {
+    "english": "trip",
+    "turkish": "gezi/yolculuk",
+    "options": [
+      "gezi/yolculuk",
+      "iş",
+      "okul",
+      "ev"
+    ]
+  },
+  {
+    "english": "trouble",
+    "turkish": "sorun/dert",
+    "options": [
+      "sorun/dert",
+      "şans",
+      "başarı",
+      "sevinç"
+    ]
+  },
+  {
+    "english": "true",
+    "turkish": "doğru/gerçek",
+    "options": [
+      "doğru/gerçek",
+      "yanlış",
+      "eksik",
+      "belirsiz"
+    ]
+  },
+  {
+    "english": "trust",
+    "turkish": "güvenmek",
+    "options": [
+      "güvenmek",
+      "korkmak",
+      "kızmak",
+      "nefret"
+    ]
+  },
+  {
+    "english": "try",
+    "turkish": "denemek",
+    "options": [
+      "denemek",
+      "başarmak",
+      "bitirmek",
+      "durmak"
+    ]
+  },
+  {
+    "english": "turn",
+    "turkish": "dönmek/sıra",
+    "options": [
+      "dönmek/sıra",
+      "durmak",
+      "bakmak",
+      "yürümek"
+    ]
+  },
+  {
+    "english": "two",
+    "turkish": "iki",
+    "options": [
+      "iki",
+      "bir",
+      "üç",
+      "sıfır"
+    ]
+  },
+  {
+    "english": "type",
+    "turkish": "tip/tür/yazmak",
+    "options": [
+      "tip/tür/yazmak",
+      "isim",
+      "renk",
+      "boyut"
+    ]
+  },
+  {
+    "english": "uncle",
+    "turkish": "amca/dayı",
+    "options": [
+      "amca/dayı",
+      "teyze",
+      "baba",
+      "kardeş"
+    ]
+  },
+  {
+    "english": "under",
+    "turkish": "altında",
+    "options": [
+      "altında",
+      "üstünde",
+      "yanında",
+      "içinde"
+    ]
+  },
+  {
+    "english": "understand",
+    "turkish": "anlamak",
+    "options": [
+      "anlamak",
+      "sormak",
+      "bilmemek",
+      "unutmak"
+    ]
+  },
+  {
+    "english": "university",
+    "turkish": "üniversite",
+    "options": [
+      "üniversite",
+      "lise",
+      "okul",
+      "kolej"
+    ]
+  },
+  {
+    "english": "until",
+    "turkish": "-e kadar",
+    "options": [
+      "-e kadar",
+      "önce",
+      "sonra",
+      "boyunca"
+    ]
+  },
+  {
+    "english": "up",
+    "turkish": "yukarı",
+    "options": [
+      "yukarı",
+      "aşağı",
+      "sağ",
+      "sol"
+    ]
+  },
+  {
+    "english": "upon",
+    "turkish": "üzerine",
+    "options": [
+      "üzerine",
+      "altına",
+      "yanına",
+      "içine"
+    ]
+  },
+  {
+    "english": "use",
+    "turkish": "kullanmak",
+    "options": [
+      "kullanmak",
+      "atmak",
+      "bozmak",
+      "aramak"
+    ]
+  },
+  {
+    "english": "useful",
+    "turkish": "faydalı",
+    "options": [
+      "faydalı",
+      "gereksiz",
+      "pahalı",
+      "eski"
+    ]
+  },
+  {
+    "english": "usual",
+    "turkish": "olağan/sıradan",
+    "options": [
+      "olağan/sıradan",
+      "tuhaf",
+      "yeni",
+      "farklı"
+    ]
+  },
+  {
+    "english": "usually",
+    "turkish": "genellikle",
+    "options": [
+      "genellikle",
+      "asla",
+      "bazen",
+      "nadiren"
+    ]
+  },
+  {
+    "english": "valley",
+    "turkish": "vadi",
+    "options": [
+      "vadi",
+      "dağ",
+      "deniz",
+      "orman"
+    ]
+  },
+  {
+    "english": "value",
+    "turkish": "değer",
+    "options": [
+      "değer",
+      "fiyat",
+      "miktar",
+      "borç"
+    ]
+  },
+  {
+    "english": "variety",
+    "turkish": "çeşitlilik",
+    "options": [
+      "çeşitlilik",
+      "benzerlik",
+      "aynılık",
+      "tek tip"
+    ]
+  },
+  {
+    "english": "various",
+    "turkish": "çeşitli",
+    "options": [
+      "çeşitli",
+      "aynı",
+      "farklı",
+      "tek"
+    ]
+  },
+  {
+    "english": "vegetable",
+    "turkish": "sebze",
+    "options": [
+      "sebze",
+      "meyve",
+      "et",
+      "tatlı"
+    ]
+  },
+  {
+    "english": "very",
+    "turkish": "çok",
+    "options": [
+      "çok",
+      "az",
+      "hiç",
+      "biraz"
+    ]
+  },
+  {
+    "english": "view",
+    "turkish": "manzara/görünüm",
+    "options": [
+      "manzara/görünüm",
+      "ses",
+      "koku",
+      "tat"
+    ]
+  },
+  {
+    "english": "village",
+    "turkish": "köy",
+    "options": [
+      "köy",
+      "şehir",
+      "kasaba",
+      "ülke"
+    ]
+  },
+  {
+    "english": "virus",
+    "turkish": "virüs",
+    "options": [
+      "virüs",
+      "ilaç",
+      "sağlık",
+      "mikrop"
+    ]
+  },
+  {
+    "english": "visit",
+    "turkish": "ziyaret etmek",
+    "options": [
+      "ziyaret etmek",
+      "ayrılmak",
+      "beklemek",
+      "gitmek"
+    ]
+  },
+  {
+    "english": "voice",
+    "turkish": "ses",
+    "options": [
+      "ses",
+      "görüntü",
+      "ışık",
+      "yazı"
+    ]
+  },
+  {
+    "english": "vote",
+    "turkish": "oy vermek",
+    "options": [
+      "oy vermek",
+      "seçmek",
+      "sormak",
+      "reddetmek"
+    ]
+  },
+  {
+    "english": "wait",
+    "turkish": "beklemek",
+    "options": [
+      "beklemek",
+      "gitmek",
+      "koşmak",
+      "başlamak"
+    ]
+  },
+  {
+    "english": "walk",
+    "turkish": "yürümek",
+    "options": [
+      "yürümek",
+      "koşmak",
+      "oturmak",
+      "uyumak"
+    ]
+  },
+  {
+    "english": "wall",
+    "turkish": "duvar",
+    "options": [
+      "duvar",
+      "kapı",
+      "pencere",
+      "çatı"
+    ]
+  },
+  {
+    "english": "want",
+    "turkish": "istemek",
+    "options": [
+      "istemek",
+      "vermek",
+      "atmak",
+      "bulmak"
+    ]
+  },
+  {
+    "english": "war",
+    "turkish": "savaş",
+    "options": [
+      "savaş",
+      "barış",
+      "kavga",
+      "oyun"
+    ]
+  },
+  {
+    "english": "warm",
+    "turkish": "ılık/sıcak",
+    "options": [
+      "ılık/sıcak",
+      "soğuk",
+      "donmuş",
+      "serin"
+    ]
+  },
+  {
+    "english": "wash",
+    "turkish": "yıkamak",
+    "options": [
+      "yıkamak",
+      "kirletmek",
+      "silmek",
+      "atmak"
+    ]
+  },
+  {
+    "english": "water",
+    "turkish": "su",
+    "options": [
+      "su",
+      "süt",
+      "çay",
+      "kahve"
+    ]
+  },
+  {
+    "english": "watch",
+    "turkish": "izlemek/saat",
+    "options": [
+      "izlemek/saat",
+      "dinlemek",
+      "bakmak",
+      "yazmak"
+    ]
+  },
+  {
+    "english": "way",
+    "turkish": "yol/yöntem",
+    "options": [
+      "yol/yöntem",
+      "dağ",
+      "deniz",
+      "zaman"
+    ]
+  },
+  {
+    "english": "we",
+    "turkish": "biz",
+    "options": [
+      "biz",
+      "onlar",
+      "siz",
+      "sen"
+    ]
+  },
+  {
+    "english": "weather",
+    "turkish": "hava durumu",
+    "options": [
+      "hava durumu",
+      "zemin",
+      "yol",
+      "zaman"
+    ]
+  },
+  {
+    "english": "week",
+    "turkish": "hafta",
+    "options": [
+      "hafta",
+      "ay",
+      "yıl",
+      "gün"
+    ]
+  },
+  {
+    "english": "welcome",
+    "turkish": "hoş geldiniz",
+    "options": [
+      "hoş geldiniz",
+      "güle güle",
+      "merhaba",
+      "tamam"
+    ]
+  },
+  {
+    "english": "well",
+    "turkish": "iyi/kuyu",
+    "options": [
+      "iyi/kuyu",
+      "kötü",
+      "çirkin",
+      "eski"
+    ]
+  },
+  {
+    "english": "west",
+    "turkish": "batı",
+    "options": [
+      "batı",
+      "doğu",
+      "kuzey",
+      "güney"
+    ]
+  },
+  {
+    "english": "what",
+    "turkish": "ne",
+    "options": [
+      "ne",
+      "nasıl",
+      "neden",
+      "kim"
+    ]
+  },
+  {
+    "english": "when",
+    "turkish": "ne zaman",
+    "options": [
+      "ne zaman",
+      "nerede",
+      "nasıl",
+      "hangisi"
+    ]
+  },
+  {
+    "english": "where",
+    "turkish": "nerede",
+    "options": [
+      "nerede",
+      "ne zaman",
+      "kiminle",
+      "niçin"
+    ]
+  },
+  {
+    "english": "which",
+    "turkish": "hangisi",
+    "options": [
+      "hangisi",
+      "kim",
+      "ne",
+      "nerede"
+    ]
+  },
+  {
+    "english": "while",
+    "turkish": "-iken/sırasında",
+    "options": [
+      "-iken/sırasında",
+      "sonra",
+      "asla",
+      "önce"
+    ]
+  },
+  {
+    "english": "who",
+    "turkish": "kim",
+    "options": [
+      "kim",
+      "ne",
+      "nasıl",
+      "nerede"
+    ]
+  },
+  {
+    "english": "whose",
+    "turkish": "kimin",
+    "options": [
+      "kimin",
+      "benim",
+      "senin",
+      "onun"
+    ]
+  },
+  {
+    "english": "why",
+    "turkish": "neden",
+    "options": [
+      "neden",
+      "nasıl",
+      "ne zaman",
+      "kim"
+    ]
+  },
+  {
+    "english": "wife",
+    "turkish": "karı/eş",
+    "options": [
+      "karı/eş",
+      "koca/eş",
+      "anne",
+      "kız kardeş"
+    ]
+  },
+  {
+    "english": "wild",
+    "turkish": "vahşi",
+    "options": [
+      "vahşi",
+      "evcil",
+      "sakin",
+      "güzel"
+    ]
+  },
+  {
+    "english": "will",
+    "turkish": "irade/-ecek",
+    "options": [
+      "irade/-ecek",
+      "şimdi",
+      "asla",
+      "belki"
+    ]
+  },
+  {
+    "english": "win",
+    "turkish": "kazanmak",
+    "options": [
+      "kazanmak",
+      "kaybetmek",
+      "harcamak",
+      "bulmak"
+    ]
+  },
+  {
+    "english": "window",
+    "turkish": "pencere",
+    "options": [
+      "pencere",
+      "kapı",
+      "duvar",
+      "çatı"
+    ]
+  },
+  {
+    "english": "winter",
+    "turkish": "kış",
+    "options": [
+      "kış",
+      "yaz",
+      "bahar",
+      "güz"
+    ]
+  },
+  {
+    "english": "wish",
+    "turkish": "dilemek",
+    "options": [
+      "dilemek",
+      "korkmak",
+      "unutmak",
+      "beklemek"
+    ]
+  },
+  {
+    "english": "with",
+    "turkish": "ile",
+    "options": [
+      "ile",
+      "için",
+      "çünkü",
+      "veya"
+    ]
+  },
+  {
+    "english": "without",
+    "turkish": "-sız/-siz",
+    "options": [
+      "-sız/-siz",
+      "ile",
+      "için",
+      "rağmen"
+    ]
+  },
+  {
+    "english": "woman",
+    "turkish": "kadın",
+    "options": [
+      "kadın",
+      "adam",
+      "çocuk",
+      "bebek"
+    ]
+  },
+  {
+    "english": "wonderful",
+    "turkish": "harika",
+    "options": [
+      "harika",
+      "kötü",
+      "sıradan",
+      "eski"
+    ]
+  },
+  {
+    "english": "wood",
+    "turkish": "odun/tahta",
+    "options": [
+      "odun/tahta",
+      "metal",
+      "cam",
+      "plastik"
+    ]
+  },
+  {
+    "english": "word",
+    "turkish": "kelime",
+    "options": [
+      "kelime",
+      "harf",
+      "cümle",
+      "sayfa"
+    ]
+  },
+  {
+    "english": "work",
+    "turkish": "çalışmak",
+    "options": [
+      "çalışmak",
+      "oynamak",
+      "uyumak",
+      "dinlenmek"
+    ]
+  },
+  {
+    "english": "world",
+    "turkish": "dünya",
+    "options": [
+      "dünya",
+      "ay",
+      "yıldız",
+      "güneş"
+    ]
+  },
+  {
+    "english": "would",
+    "turkish": "-erdi/-ardı",
+    "options": [
+      "-erdi/-ardı",
+      "şimdi",
+      "asla",
+      "belki"
+    ]
+  },
+  {
+    "english": "write",
+    "turkish": "yazmak",
+    "options": [
+      "yazmak",
+      "okumak",
+      "dinlemek",
+      "izlemek"
+    ]
+  },
+  {
+    "english": "wrong",
+    "turkish": "yanlış",
+    "options": [
+      "yanlış",
+      "doğru",
+      "eksik",
+      "farklı"
+    ]
+  },
+  {
+    "english": "year",
+    "turkish": "yıl",
+    "options": [
+      "yıl",
+      "ay",
+      "hafta",
+      "gün"
+    ]
+  },
+  {
+    "english": "yes",
+    "turkish": "evet",
+    "options": [
+      "evet",
+      "hayır",
+      "belki",
+      "tamam"
+    ]
+  },
+  {
+    "english": "yesterday",
+    "turkish": "dün",
+    "options": [
+      "dün",
+      "bugün",
+      "yarın",
+      "şimdi"
+    ]
+  },
+  {
+    "english": "you",
+    "turkish": "sen/siz",
+    "options": [
+      "sen/siz",
+      "ben",
+      "o",
+      "biz"
+    ]
+  },
+  {
+    "english": "young",
+    "turkish": "genç",
+    "options": [
+      "genç",
+      "yaşlı",
+      "eski",
+      "yeni"
+    ]
+  }
+]
