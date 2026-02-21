@@ -257,6 +257,7 @@ function StartScreen({ onStart, isMuted, onToggleSound }) {
   const [showHistory, setShowHistory] = useState(false)
   const [history, setHistory] = useState(() => getQuizHistory())
   const bestScores = getBestScores()
+  const timerSectionRef = useRef(null)
 
   const presetOptions = [
     { count: 20, label: '20', icon: '⚡' },
@@ -296,6 +297,21 @@ function StartScreen({ onStart, isMuted, onToggleSound }) {
   const handleClearHistory = () => {
     clearHistory()
     setHistory([])
+  }
+
+  const handleTimerToggle = () => {
+    setTimerEnabled(prev => {
+      const newState = !prev
+      if (newState) {
+        setTimeout(() => {
+          timerSectionRef.current?.scrollIntoView({
+            behavior: 'smooth',
+            block: 'start' // Alanın tepeye yapışarak en aşağıları bile göstermesini sağlar
+          })
+        }, 150) // DOM güncellenmesi için esneklik süresi arttırıldı
+      }
+      return newState
+    })
   }
 
   const overallBest = Object.values(bestScores).sort((a, b) => b.percentage - a.percentage)[0]
@@ -449,10 +465,10 @@ function StartScreen({ onStart, isMuted, onToggleSound }) {
           </div>
 
           {/* Timer Toggle */}
-          <div className="timer-toggle-section">
+          <div className="timer-toggle-section" ref={timerSectionRef}>
             <button
               className={`timer-toggle-btn ${timerEnabled ? 'active' : ''}`}
-              onClick={() => setTimerEnabled(!timerEnabled)}
+              onClick={handleTimerToggle}
             >
               <span className="timer-toggle-icon">⏱️</span>
               <span className="timer-toggle-text">Zamanlayıcı</span>

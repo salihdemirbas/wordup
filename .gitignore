@@ -22,3 +22,9 @@ Thumbs.db
 # Logs
 *.log
 npm-debug.log*
+
+# Capacitor / iOS
+ios/App/public/
+ios/App/App/public/
+capacitor.config.json.swp
+

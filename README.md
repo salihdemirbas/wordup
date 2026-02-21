@@ -12,15 +12,17 @@
 
 ## ✨ Özellikler
 
-- 🎯 **Esnek Soru Sayısı** — 20, 50, 100 hazır seçeneklerle veya kendi istediğiniz sayıda soru ile sınav
+- 🎯 **Geniş Kelime Havuzu** — Tam 1000 kelimelik zengin İngilizce kelime arşivi
+- 🔀 **Esnek Soru Seçimi** — 20, 50, 100 veya kendi belirleyeceğiniz sayıda soru ile test olma
 - 🔄 **Çift Yönlü Quiz** — İngilizce → Türkçe veya Türkçe → İngilizce modları
+- ⏭️ **Pas Geç & İptal Et** — Soruları atlama ve quizi yarıda kesip durum kaydetme imkanı
 - ⏱️ **Zamanlayıcı Modu** — 5, 10 veya 15 saniyelik süre limiti ile heyecanlı sınavlar
-- 📊 **Sınav Geçmişi** — Tüm sonuçlarınız kaydedilir ve takip edilir
+- 📊 **Sınav Geçmişi** — Tüm sonuçlar, yarıda kesilen ve pas geçilen detaylarıyla kaydedilir
 - 🏅 **En İyi Skorlar** — Kategorilere göre en yüksek puanlar saklanır
-- 🔁 **Yanlışlarla Tekrar** — Yanlış bilinen kelimelerle yeniden sınav olma imkanı
-- 🔊 **Ses Efektleri** — Web Audio API ile doğru/yanlış/zaman aşımı ses geri bildirimleri
-- 🎨 **Modern Tasarım** — Glassmorphism, gradient animasyonlar ve responsive arayüz
-- 📱 **Mobil Uyumlu** — Tüm cihazlarda kusursuz çalışır
+- 🔁 **Yanlışlarla Tekrar** — Yanlış bilinen veya pas geçilen kelimelerle yeniden sınav olma imkanı
+- 🔊 **Ses Efektleri** — Web Audio API ile doğru/yanlış/zaman aşımı sesleri
+- 🎨 **Modern & Animasyonlu Tasarım** — Glassmorphism, akıllı timer kaydırmaları
+- 📱 **Mobil Uygulama (iOS/Capacitor)** — Özel güvenli alan (Notch/Safe-area) uyumluluğu ve tam ekran mobil görünüm
 
 ## 🚀 Kurulum
 
@@ -52,9 +54,25 @@ Tarayıcınızda `http://localhost:5173` adresini açın.
 |-----------|----------|
 | **React 18** | Kullanıcı arayüzü |
 | **Vite 5** | Build & geliştirme sunucusu |
-| **CSS3** | Glassmorphism, animasyonlar |
-| **Web Audio API** | Ses efektleri |
-| **LocalStorage** | Sınav geçmişi & skorlar |
+| **Capacitor** | iOS/Android native derleme motoru |
+| **CSS3** | Ortama duyarlı safe-area esneklikleri, animasyonlar |
+| **Web Audio API** | Cihaza özgü etkileşimli ses efektleri |
+| **LocalStorage** | Sınav geçmişi, yarım bırakılan testler ve skorlar |
+
+## 📱 iOS Uygulaması Olarak Çalıştırmak (Capacitor)
+
+Uygulama, web platformunun yanı sıra yerleşik iOS özellikleri ile donatılmış bir mobil uygulamadır (Çentik/Home Indicator uyumlu).
+
+```bash
+# İlk olarak güncel web sürümünü build edin
+npm run build
+
+# Değişiklikleri iOS kütüphanesine transfer edin
+npx cap sync
+
+# Xcode'da projeyi açın ve simülatöre kurun
+npx cap open ios
+```
 
 ## 📁 Proje Yapısı
 

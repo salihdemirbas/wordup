@@ -114,8 +114,8 @@
    ========================================== */
 .sound-toggle {
   position: fixed;
-  top: 1.2rem;
-  right: 1.2rem;
+  top: calc(env(safe-area-inset-top, 0px) + 1.2rem);
+  right: calc(env(safe-area-inset-right, 0px) + 1.2rem);
   z-index: 100;
   display: flex;
   align-items: center;
@@ -248,7 +248,7 @@
   align-items: center;
   justify-content: center;
   text-align: center;
-  padding: 2rem;
+  padding: max(2rem, env(safe-area-inset-top)) max(2rem, env(safe-area-inset-right)) max(2rem, env(safe-area-inset-bottom)) max(2rem, env(safe-area-inset-left));
   position: relative;
   overflow: hidden;
 }
@@ -259,6 +259,8 @@
 .start-screen {
   background: linear-gradient(135deg, #4f46e5 0%, #7c3aed 40%, #a855f7 100%);
   overflow-y: auto;
+  align-items: flex-start;
+  padding: 0;
 }
 
 .start-content {
@@ -267,6 +269,8 @@
   width: 100%;
   position: relative;
   z-index: 1;
+  /* Hem yatayda ortala hem de ses butonuyla tam aynı hizada (1.2rem) başlat */
+  margin: calc(env(safe-area-inset-top, 0px) + 1.2rem) auto calc(env(safe-area-inset-bottom, 0px) + 1.2rem);
 }
 
 .logo-icon {
@@ -1290,7 +1294,7 @@
 /* Quiz Header */
 .quiz-header {
   background: #fff;
-  padding: 0.8rem 1.2rem 0;
+  padding: max(0.8rem, env(safe-area-inset-top)) 1.2rem 0;
   box-shadow: 0 2px 12px rgba(79, 70, 229, 0.06);
   position: relative;
   z-index: 10;
@@ -1411,7 +1415,7 @@
 /* Options Section */
 .options-section {
   flex: 1;
-  padding: 0.8rem 1rem 1rem;
+  padding: 0.8rem 1rem max(1rem, env(safe-area-inset-bottom));
 }
 
 .options-grid {
@@ -1440,11 +1444,13 @@
   overflow: hidden;
 }
 
-.option-btn:hover {
-  border-color: #a78bfa;
-  background: #f5f3ff;
-  transform: scale(1.02);
-  box-shadow: 0 4px 16px rgba(79, 70, 229, 0.1);
+@media (hover: hover) {
+  .option-btn:hover {
+    border-color: #a78bfa;
+    background: #f5f3ff;
+    transform: scale(1.02);
+    box-shadow: 0 4px 16px rgba(79, 70, 229, 0.1);
+  }
 }
 
 .option-btn:active {
@@ -1631,7 +1637,7 @@
   }
 
   .options-section {
-    padding: 0.4rem 0.5rem 0.6rem;
+    padding: 0.4rem 0.5rem max(0.6rem, env(safe-area-inset-bottom));
   }
 
   .options-grid {
