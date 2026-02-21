@@ -9946,5 +9946,55 @@
       "eski",
       "yeni"
     ]
+  },
+  {
+    "english": "zero",
+    "turkish": "sıfır",
+    "options": [
+      "sıfır",
+      "bir",
+      "sonsuz",
+      "hiçbiri"
+    ]
+  },
+  {
+    "english": "zone",
+    "turkish": "bölge/alan",
+    "options": [
+      "bölge/alan",
+      "zaman",
+      "çizgi",
+      "sınır"
+    ]
+  },
+  {
+    "english": "zoo",
+    "turkish": "hayvanat bahçesi",
+    "options": [
+      "hayvanat bahçesi",
+      "park",
+      "müze",
+      "orman"
+    ]
+  },
+  {
+    "english": "zoom",
+    "turkish": "yakınlaştırmak/büyütmek",
+    "options": [
+      "yakınlaştırmak/büyütmek",
+      "uzaklaştırmak",
+      "koşmak",
+      "bakmak"
+    ]
+  },
+  {
+    "english": "zealous",
+    "turkish": "gayretli/şevkli",
+    "options": [
+      "gayretli/şevkli",
+      "tembel",
+      "öfkeli",
+      "mutlu"
+    ]
   }
 ]

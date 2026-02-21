@@ -62,6 +62,7 @@ function getBestScores() {
 }
 
 function updateBestScore(result) {
+  if (result.status === 'quit') return
   const best = getBestScores()
   const key = `q${result.totalQuestions}`
   if (!best[key] || result.percentage > best[key].percentage) {
@@ -350,8 +351,8 @@ function StartScreen({ onStart, isMuted, onToggleSound }) {
                       {item.quizMode === 'reverse' && <span className="history-mode-badge">🔄</span>}
                       {item.timerMode > 0 && <span className="history-timer-badge">⏱️{item.timerMode}s</span>}
                     </span>
-                    <span className={`history-score ${item.percentage >= 70 ? 'good' : item.percentage >= 50 ? 'ok' : 'bad'}`}>
-                      %{item.percentage}
+                    <span className={`history-score ${item.status === 'quit' ? 'quit' : item.percentage >= 70 ? 'good' : item.percentage >= 50 ? 'ok' : 'bad'}`}>
+                      {item.status === 'quit' ? 'Bırakıldı' : `%${item.percentage}`}
                     </span>
                   </div>
                 ))}
@@ -483,12 +484,34 @@ function StartScreen({ onStart, isMuted, onToggleSound }) {
 
 // ===== BİTİŞ EKRANI =====
 function FinishScreen({ stats, onGoHome, onQuickRestart, onRetryWrong, wrongWords, quizMode, isMuted, onToggleSound }) {
-  const { totalQuestions, correctCount, wrongCount } = stats
+  const { totalQuestions, correctCount, wrongCount, skippedCount, status } = stats
   const percentage = Math.round((correctCount / totalQuestions) * 100)
   const performance = getPerformanceMessage(percentage)
   const [showWrongList, setShowWrongList] = useState(false)
 
   const isReverse = quizMode === 'reverse'
+
+  if (status === 'quit') {
+    return (
+      <div className="screen finish-screen">
+        <FloatingShapes />
+        <SoundToggle isMuted={isMuted} onToggle={onToggleSound} />
+        <div className="finish-content fade-in">
+          <div className="finish-emoji-big">👋</div>
+          <h1 className="finish-title">Sınav Yarıda Bırakıldı</h1>
+          <p className="performance-text">
+            Bir dahaki sefere daha iyi hazırlanıp tekrar deneyebilirsin!
+          </p>
+          <div className="finish-actions" style={{ marginTop: '2rem' }}>
+            <button className="restart-btn" onClick={onGoHome}>
+              <span>🏠 Ana Sayfaya Dön</span>
+              <span className="btn-arrow">→</span>
+            </button>
+          </div>
+        </div>
+      </div>
+    )
+  }
 
   return (
     <div className="screen finish-screen">
@@ -533,6 +556,11 @@ function FinishScreen({ stats, onGoHome, onQuickRestart, onRetryWrong, wrongWord
             <div className="stat-icon">❌</div>
             <span className="stat-value">{wrongCount}</span>
             <span className="stat-label">Yanlış</span>
+          </div>
+          <div className="stat-card stat-skipped">
+            <div className="stat-icon">⏭️</div>
+            <span className="stat-value">{skippedCount}</span>
+            <span className="stat-label">Pas</span>
           </div>
         </div>
 
@@ -620,13 +648,35 @@ function useTimer(seconds, onTimeout) {
     setTimeLeft(seconds)
   }, [seconds, stop])
 
+  const pause = useCallback(() => {
+    if (intervalRef.current) {
+      clearInterval(intervalRef.current)
+      intervalRef.current = null
+    }
+  }, [])
+
+  const resume = useCallback(() => {
+    if (intervalRef.current) return
+    intervalRef.current = setInterval(() => {
+      setTimeLeft(prev => {
+        if (prev <= 1) {
+          clearInterval(intervalRef.current)
+          intervalRef.current = null
+          callbackRef.current()
+          return 0
+        }
+        return prev - 1
+      })
+    }, 1000)
+  }, [])
+
   useEffect(() => {
     return () => {
       if (intervalRef.current) clearInterval(intervalRef.current)
     }
   }, [])
 
-  return { timeLeft, start, stop, reset }
+  return { timeLeft, start, stop, reset, pause, resume }
 }
 
 // ===== ANA UYGULAMA =====
@@ -645,6 +695,9 @@ function App() {
   const [timedOut, setTimedOut] = useState(false)
   const [quizMode, setQuizMode] = useState('normal') // 'normal' | 'reverse'
   const [lastQuestionCount, setLastQuestionCount] = useState(20)
+  const [skippedCount, setSkippedCount] = useState(0)
+  const [showQuitPopup, setShowQuitPopup] = useState(false)
+  const [quizStatus, setQuizStatus] = useState('completed')
   const mutedRef = useRef(false)
 
   const toggleSound = useCallback(() => {
@@ -714,6 +767,8 @@ function App() {
     setCurrentIndex(0)
     setCorrectCount(0)
     setWrongCount(0)
+    setSkippedCount(0)
+    setQuizStatus('completed')
     setHasWrongAnswer(false)
     setWrongWords([])
     setSelectedOption(null)
@@ -738,6 +793,9 @@ function App() {
     setIsCorrect(null)
     setCorrectCount(0)
     setWrongCount(0)
+    setSkippedCount(0)
+    setQuizStatus('completed')
+    setShowQuitPopup(false)
     setHasWrongAnswer(false)
     setWrongWords([])
     setTimedOut(false)
@@ -763,12 +821,48 @@ function App() {
         totalQuestions: quizQuestions.length,
         correctCount,
         wrongCount,
+        skippedCount,
         percentage,
         timerMode,
         quizMode,
+        status: quizStatus
       })
     }
   }, [gameState])
+
+  const handleSkip = () => {
+    if (selectedOption !== null || timedOut) return
+    if (timerMode > 0) timer.stop()
+
+    setSkippedCount(prev => prev + 1)
+    if (currentWord) {
+      setWrongWords(prev => [...prev, currentWord]) // Yanlış testine dahil etmek için
+    }
+
+    if (currentIndex === quizQuestions.length - 1) {
+      playFinishSound()
+      setGameState('finished')
+    } else {
+      setCurrentIndex(prev => prev + 1)
+      if (timerMode > 0) timer.start()
+    }
+  }
+
+  const handleQuitModalOpen = () => {
+    if (timerMode > 0) timer.pause()
+    setShowQuitPopup(true)
+  }
+
+  const handleQuitConfirm = () => {
+    setShowQuitPopup(false)
+    setQuizStatus('quit')
+    setGameState('finished')
+  }
+
+  const handleQuitCancel = () => {
+    setShowQuitPopup(false)
+    if (timerMode > 0 && gameState === 'playing') timer.resume()
+  }
 
   const handleOptionClick = (option) => {
     if (selectedOption !== null || timedOut) return
@@ -832,6 +926,8 @@ function App() {
           totalQuestions: quizQuestions.length,
           correctCount,
           wrongCount,
+          skippedCount,
+          status: quizStatus
         }}
         wrongWords={wrongWords}
         quizMode={quizMode}
@@ -888,6 +984,8 @@ function App() {
               <span className="mini-stat correct-stat">✓ {correctCount}</span>
               <span className="mini-stat wrong-stat">✗ {wrongCount}</span>
             </div>
+            <button className="header-action-btn" onClick={handleSkip} title="Pas Geç">⏭️</button>
+            <button className="header-action-btn quit-btn" onClick={handleQuitModalOpen} title="Sınavı Terk Et">✖</button>
             <SoundToggle isMuted={isMuted} onToggle={toggleSound} variant="dark" />
           </div>
         </div>
@@ -934,6 +1032,24 @@ function App() {
           ))}
         </div>
       </div>
+
+      {/* Quit Popup */}
+      {showQuitPopup && (
+        <div className="quit-overlay fade-in">
+          <div className="quit-popup slide-in">
+            <button className="quit-close-btn" onClick={handleQuitCancel}>✕</button>
+            <div className="quit-icon">🥺</div>
+            <h3 className="quit-title">Gerçekten ayrılmak istiyor musun?</h3>
+            <p className="quit-text">
+              Harika gidiyordun! Biraz daha devam edersen quiz'i başarıyla tamamlayabilirsin. Yine de bitirmek istiyor musun?
+            </p>
+            <div className="quit-actions">
+              <button className="quit-cancel-btn" onClick={handleQuitCancel}>Hayır, Devam Et</button>
+              <button className="quit-confirm-btn" onClick={handleQuitConfirm}>Evet, Bırak</button>
+            </div>
+          </div>
+        </div>
+      )}
     </div>
   )
 }
