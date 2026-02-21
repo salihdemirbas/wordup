@@ -811,7 +811,7 @@ function App() {
 
   const getButtonClass = (option) => {
     if (timedOut) return 'option-btn dimmed'
-    if (selectedOption === null) return 'option-btn'
+    if (selectedOption === null || selectedOption === undefined) return 'option-btn'
     if (selectedOption === option) {
       return `option-btn ${isCorrect ? 'correct' : 'wrong'}`
     }
@@ -925,7 +925,7 @@ function App() {
         <div className="options-grid">
           {shuffledOptions.map((option, index) => (
             <button
-              key={`${currentIndex}-${index}`}
+              key={`q${currentIndex}-opt${index}-${option}`}
               className={getButtonClass(option)}
               onClick={() => handleOptionClick(option)}
             >
