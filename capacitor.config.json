@@ -1,5 +1,11 @@
 {
   "appId": "com.salihdemirbas.wordup",
   "appName": "WordUp",
-  "webDir": "dist"
+  "webDir": "dist",
+  "plugins": {
+    "AdMob": {
+      "appIdIos": "ca-app-pub-3940256099942544~1458002511",
+      "appIdAndroid": "ca-app-pub-3940256099942544~3347511713"
+    }
+  }
 }

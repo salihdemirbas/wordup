@@ -1928,3 +1928,72 @@
 .offline-toast-text {
   letter-spacing: 0.2px;
 }
+
+/* ==========================================
+   REMOVE ADS BUTTON
+   ========================================== */
+.remove-ads-btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.6rem;
+  width: 100%;
+  font-family: 'Inter', sans-serif;
+  font-size: 0.95rem;
+  font-weight: 700;
+  color: #78350f;
+  background: linear-gradient(135deg, #fde68a 0%, #f59e0b 50%, #d97706 100%);
+  border: none;
+  border-radius: 16px;
+  padding: 1rem 1.5rem;
+  margin-top: 1rem;
+  cursor: pointer;
+  transition: all 0.25s ease;
+  box-shadow:
+    0 4px 16px rgba(245, 158, 11, 0.3),
+    inset 0 1px 0 rgba(255, 255, 255, 0.3);
+  position: relative;
+  overflow: hidden;
+}
+
+.remove-ads-btn::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: -100%;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(90deg,
+      transparent,
+      rgba(255, 255, 255, 0.25),
+      transparent);
+  animation: shimmer 3s ease-in-out infinite;
+}
+
+.remove-ads-btn:hover {
+  transform: translateY(-2px);
+  box-shadow:
+    0 8px 24px rgba(245, 158, 11, 0.4),
+    inset 0 1px 0 rgba(255, 255, 255, 0.3);
+}
+
+.remove-ads-btn:active {
+  transform: translateY(0);
+}
+
+.remove-ads-icon {
+  font-size: 1.2rem;
+}
+
+.remove-ads-text {
+  flex: 1;
+  text-align: left;
+}
+
+.remove-ads-price {
+  background: rgba(120, 53, 15, 0.15);
+  padding: 0.25rem 0.7rem;
+  border-radius: 20px;
+  font-size: 0.85rem;
+  font-weight: 800;
+}

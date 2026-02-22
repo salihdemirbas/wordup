@@ -1,6 +1,16 @@
 import { useState, useMemo, useCallback, useRef, useEffect } from 'react'
 import './App.css'
 import wordsData from './data/words.json'
+import {
+  initializeAds,
+  showBanner,
+  hideBanner,
+  removeBanner,
+  prepareInterstitial,
+  showInterstitial,
+  isAdsRemoved,
+  setAdsRemoved,
+} from './adService'
 
 // ===== İNTERNET BAĞLANTI KONTROLÜ =====
 function useOnlineStatus() {
@@ -292,7 +302,7 @@ function FloatingShapes() {
 }
 
 // ===== BAŞLANGIÇ EKRANI =====
-function StartScreen({ onStart, isMuted, onToggleSound }) {
+function StartScreen({ onStart, isMuted, onToggleSound, adsRemoved, onRemoveAds }) {
   const [customCount, setCustomCount] = useState('')
   const [inputError, setInputError] = useState('')
   const [timerEnabled, setTimerEnabled] = useState(false)
@@ -538,6 +548,15 @@ function StartScreen({ onStart, isMuted, onToggleSound }) {
         </div>
 
         <p className="total-info">Toplam {maxQuestions} kelime havuzundan rastgele sorular</p>
+
+        {/* Reklamları Kaldır Butonu */}
+        {!adsRemoved && (
+          <button className="remove-ads-btn" onClick={onRemoveAds}>
+            <span className="remove-ads-icon">✨</span>
+            <span className="remove-ads-text">Reklamları Kaldır</span>
+            <span className="remove-ads-price">$0.99</span>
+          </button>
+        )}
       </div>
     </div>
   )
@@ -761,7 +780,19 @@ function App() {
   const [skippedCount, setSkippedCount] = useState(0)
   const [showQuitPopup, setShowQuitPopup] = useState(false)
   const [quizStatus, setQuizStatus] = useState('completed')
+  const [adsRemoved, setAdsRemovedState] = useState(() => isAdsRemoved())
   const mutedRef = useRef(false)
+
+  // AdMob başlat & banner göster
+  useEffect(() => {
+    async function setupAds() {
+      await initializeAds()
+      if (!isAdsRemoved()) {
+        showBanner()
+      }
+    }
+    setupAds()
+  }, [])
 
   // İlk açılışta internet varsa geçmesine izin ver
   useEffect(() => {
@@ -847,6 +878,9 @@ function App() {
     setTimerMode(timerSec)
     setQuizMode(mode)
     setGameState('playing')
+    // Sınav başlarken banner'ı gizle ve interstitial'ı hazırla
+    hideBanner()
+    prepareInterstitial()
   }
 
   const handleStart = (questionCount, timerSec = 0, mode = 'normal') => {
@@ -870,6 +904,8 @@ function App() {
     setWrongWords([])
     setTimedOut(false)
     setGameState('start')
+    // Ana sayfaya dönünce banner'ı tekrar göster
+    if (!isAdsRemoved()) showBanner()
   }
 
   const handleQuickRestart = () => {
@@ -897,6 +933,9 @@ function App() {
         quizMode,
         status: quizStatus
       })
+
+      // Sınav bittiğinde interstitial reklam göster
+      showInterstitial()
     }
   }, [gameState])
 
@@ -932,6 +971,21 @@ function App() {
   const handleQuitCancel = () => {
     setShowQuitPopup(false)
     if (timerMode > 0 && gameState === 'playing') timer.resume()
+  }
+
+  // Reklamları kaldır (In-App Purchase)
+  const handleRemoveAds = async () => {
+    // TODO: Apple Developer hesabı alındıktan sonra
+    // gerçek StoreKit/RevenueCat satın alma akışı buraya eklenecek.
+    // Şu an sadece local olarak işaretliyoruz (test amaçlı).
+    const confirmed = window.confirm(
+      'Reklamları kaldırmak için $0.99 ödeme yapılacaktır. Devam etmek istiyor musun?\n\n(Bu özellik Apple Developer hesabı kurulduğunda aktif olacaktır)'
+    )
+    if (confirmed) {
+      setAdsRemoved(true)
+      setAdsRemovedState(true)
+      removeBanner()
+    }
   }
 
   const handleOptionClick = (option) => {
@@ -991,7 +1045,15 @@ function App() {
   }
 
   if (gameState === 'start') {
-    return <StartScreen onStart={handleStart} isMuted={isMuted} onToggleSound={toggleSound} />
+    return (
+      <StartScreen
+        onStart={handleStart}
+        isMuted={isMuted}
+        onToggleSound={toggleSound}
+        adsRemoved={adsRemoved}
+        onRemoveAds={handleRemoveAds}
+      />
+    )
   }
 
   if (gameState === 'finished') {

@@ -26,6 +26,19 @@ npm-debug.log*
 # Capacitor / iOS
 ios/App/public/
 ios/App/App/public/
-capacitor.config.json.swp
+ios/App/Pods/
+ios/DerivedData/
 
+# Xcode
+*.xcworkspace/xcuserdata/
+*.xcodeproj/xcuserdata/
+xcuserdata/
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+build/
+
+# Local assets (already copied to ios)
 AppIcons/
+assets/
