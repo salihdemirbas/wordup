@@ -1823,3 +1823,108 @@
   color: #ef4444;
   border-color: #fca5a5;
 }
+
+/* ==========================================
+   NO INTERNET SCREEN
+   ========================================== */
+.no-internet-screen {
+  background: linear-gradient(135deg, #1e1b4b 0%, #312e81 40%, #4338ca 100%);
+  flex-direction: column;
+}
+
+.no-internet-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  color: #fff;
+  max-width: 380px;
+  width: 100%;
+  padding: 2rem;
+}
+
+.no-internet-icon {
+  font-size: 4.5rem;
+  margin-bottom: 1.5rem;
+  animation: pulse 3s ease-in-out infinite;
+  filter: drop-shadow(0 4px 16px rgba(99, 102, 241, 0.4));
+}
+
+.no-internet-title {
+  font-size: 1.8rem;
+  font-weight: 800;
+  margin-bottom: 1rem;
+  letter-spacing: -0.5px;
+  background: linear-gradient(135deg, #c7d2fe, #e0e7ff);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.no-internet-description {
+  font-size: 1rem;
+  line-height: 1.6;
+  opacity: 0.8;
+  margin-bottom: 2.5rem;
+  color: #c7d2fe;
+}
+
+.no-internet-retry-btn {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  font-family: 'Inter', sans-serif;
+  font-size: 1.1rem;
+  font-weight: 700;
+  color: #312e81;
+  background: linear-gradient(135deg, #e0e7ff, #c7d2fe);
+  border: none;
+  border-radius: 50px;
+  padding: 1rem 2.5rem;
+  cursor: pointer;
+  transition: all 0.25s ease;
+  box-shadow: 0 8px 24px rgba(99, 102, 241, 0.3);
+}
+
+.no-internet-retry-btn:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 12px 32px rgba(99, 102, 241, 0.45);
+}
+
+.no-internet-retry-btn:active {
+  transform: translateY(0);
+}
+
+/* ==========================================
+   OFFLINE TOAST BANNER (QUIZ ESNASI)
+   ========================================== */
+.offline-toast {
+  position: fixed;
+  top: calc(env(safe-area-inset-top, 0px) + 0.6rem);
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 999;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  background: rgba(239, 68, 68, 0.95);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  color: #fff;
+  font-size: 0.85rem;
+  font-weight: 600;
+  padding: 0.6rem 1.2rem;
+  border-radius: 50px;
+  box-shadow:
+    0 4px 16px rgba(239, 68, 68, 0.35),
+    0 0 0 1px rgba(255, 255, 255, 0.1) inset;
+  white-space: nowrap;
+}
+
+.offline-toast-icon {
+  font-size: 1rem;
+}
+
+.offline-toast-text {
+  letter-spacing: 0.2px;
+}

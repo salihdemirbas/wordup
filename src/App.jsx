@@ -2,6 +2,50 @@ import { useState, useMemo, useCallback, useRef, useEffect } from 'react'
 import './App.css'
 import wordsData from './data/words.json'
 
+// ===== İNTERNET BAĞLANTI KONTROLÜ =====
+function useOnlineStatus() {
+  const [isOnline, setIsOnline] = useState(navigator.onLine)
+
+  useEffect(() => {
+    const goOnline = () => setIsOnline(true)
+    const goOffline = () => setIsOnline(false)
+    window.addEventListener('online', goOnline)
+    window.addEventListener('offline', goOffline)
+    return () => {
+      window.removeEventListener('online', goOnline)
+      window.removeEventListener('offline', goOffline)
+    }
+  }, [])
+
+  return isOnline
+}
+
+// ===== İNTERNET YOK EKRANI =====
+function NoInternetScreen() {
+  const handleRetry = () => {
+    if (navigator.onLine) {
+      window.location.reload()
+    }
+  }
+
+  return (
+    <div className="screen no-internet-screen">
+      <div className="no-internet-content fade-in">
+        <div className="no-internet-icon">📡</div>
+        <h1 className="no-internet-title">İnternet Bağlantısı Gerekli</h1>
+        <p className="no-internet-description">
+          WordUp'ı kullanabilmek için aktif bir internet bağlantısına ihtiyacın var.
+          Lütfen Wi-Fi veya mobil verini kontrol et.
+        </p>
+        <button className="no-internet-retry-btn" onClick={handleRetry}>
+          <span>🔄</span>
+          <span>Tekrar Dene</span>
+        </button>
+      </div>
+    </div>
+  )
+}
+
 const shuffle = (array) => {
   const arr = [...array]
   for (let i = arr.length - 1; i > 0; i--) {
@@ -698,6 +742,8 @@ function useTimer(seconds, onTimeout) {
 
 // ===== ANA UYGULAMA =====
 function App() {
+  const isOnline = useOnlineStatus()
+  const [passedInitialCheck, setPassedInitialCheck] = useState(false)
   const [gameState, setGameState] = useState('start')
   const [currentIndex, setCurrentIndex] = useState(0)
   const [quizQuestions, setQuizQuestions] = useState([])
@@ -716,6 +762,13 @@ function App() {
   const [showQuitPopup, setShowQuitPopup] = useState(false)
   const [quizStatus, setQuizStatus] = useState('completed')
   const mutedRef = useRef(false)
+
+  // İlk açılışta internet varsa geçmesine izin ver
+  useEffect(() => {
+    if (isOnline && !passedInitialCheck) {
+      setPassedInitialCheck(true)
+    }
+  }, [isOnline, passedInitialCheck])
 
   const toggleSound = useCallback(() => {
     setIsMuted(prev => {
@@ -930,6 +983,11 @@ function App() {
       return 'option-btn correct'
     }
     return 'option-btn dimmed'
+  }
+
+  // Açılışta internet yoksa blokla (hook'lardan SONRA yapılmalı — React kuralı)
+  if (!passedInitialCheck && !isOnline) {
+    return <NoInternetScreen />
   }
 
   if (gameState === 'start') {
