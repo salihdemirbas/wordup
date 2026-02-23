@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">WordUp</string>
+    <string name="title_activity_main">WordUp</string>
+    <string name="package_name">com.salihdemirbas.wordup</string>
+    <string name="custom_url_scheme">com.salihdemirbas.wordup</string>
+</resources>

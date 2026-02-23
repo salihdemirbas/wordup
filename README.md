@@ -1,10 +1,10 @@
 # 🧠 WordUp - İngilizce Kelime Quiz Uygulaması
 
-İngilizce kelime bilginizi eğlenceli bir şekilde test edebileceğiniz modern ve interaktif bir quiz uygulaması. Hem web hem de iOS platformunda çalışır.
+İngilizce kelime bilginizi eğlenceli bir şekilde test edebileceğiniz modern ve interaktif bir quiz uygulaması. Web, iOS ve Android platformlarında çalışır.
 
 ![React](https://img.shields.io/badge/React-18-61dafb?logo=react&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-5-646CFF?logo=vite&logoColor=white)
-![Capacitor](https://img.shields.io/badge/Capacitor-iOS-119EFF?logo=capacitor&logoColor=white)
+![Capacitor](https://img.shields.io/badge/Capacitor-iOS%20%26%20Android-119EFF?logo=capacitor&logoColor=white)
 ![AdMob](https://img.shields.io/badge/AdMob-Integrated-EA4335?logo=google&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
@@ -24,7 +24,7 @@
 - 🔁 **Yanlışlarla Tekrar** — Yanlış bilinen veya pas geçilen kelimelerle yeniden sınav olma imkanı
 - 🔊 **Ses Efektleri** — Web Audio API ile doğru/yanlış/zaman aşımı sesleri
 - 🎨 **Modern & Animasyonlu Tasarım** — Glassmorphism, akıllı timer kaydırmaları
-- 📱 **iOS Uygulaması** — Capacitor ile native iOS desteği (Dynamic Island/Notch uyumlu)
+- 📱 **iOS & Android Uygulaması** — Capacitor ile native mobil destek (Dynamic Island/Notch uyumlu)
 - 📶 **İnternet Kontrolü** — Açılışta bağlantı doğrulaması, reklam altyapısı hazırlığı
 - 💰 **Reklam & In-App Purchase** — Google AdMob entegrasyonu ve reklamları kaldırma seçeneği
 
@@ -34,6 +34,8 @@
 - [Node.js](https://nodejs.org/) (v16 veya üzeri)
 - npm
 - Xcode (iOS için)
+- Android Studio veya Android SDK Command-Line Tools (Android için)
+- Java JDK 21+ (Android build için)
 
 ### Adımlar
 
@@ -53,14 +55,14 @@ npm run dev
 
 Tarayıcınızda `http://localhost:5173` adresini açın.
 
-## � iOS Uygulaması Olarak Çalıştırmak
+## 📱 iOS Uygulaması Olarak Çalıştırmak
 
 ```bash
 # Web sürümünü build edin
 npm run build
 
 # iOS projesine senkronize edin
-npx cap sync
+npx cap sync ios
 
 # Xcode'da açın
 npx cap open ios
@@ -68,7 +70,41 @@ npx cap open ios
 
 Xcode'da sol üstten hedef cihazı seçip ▶ Play'e basın.
 
-## �🛠️ Teknolojiler
+## 🤖 Android Uygulaması Olarak Çalıştırmak
+
+### Android Studio ile
+
+```bash
+# Web sürümünü build edin
+npm run build
+
+# Android projesine senkronize edin
+npx cap sync android
+
+# Android Studio'da açın
+npx cap open android
+```
+
+### Komut Satırından APK Oluşturmak (Android Studio gerekmez)
+
+```bash
+# Gerekli araçlar: Java JDK 21+, Android SDK
+# Homebrew ile kurulum:
+# brew install openjdk@21
+# brew install --cask android-commandlinetools
+
+# Build edin
+npm run build && npx cap sync android
+
+# Debug APK oluşturun
+export JAVA_HOME=/opt/homebrew/opt/openjdk@21/libexec/openjdk.jdk/Contents/Home
+export ANDROID_SDK_ROOT=/opt/homebrew/share/android-commandlinetools
+cd android && ./gradlew assembleDebug
+
+# APK konumu: android/app/build/outputs/apk/debug/app-debug.apk
+```
+
+## 🛠️ Teknolojiler
 
 | Teknoloji | Kullanım |
 |-----------|----------|
@@ -93,6 +129,7 @@ wordup/
 │   └── data/
 │       └── words.json   # 1000 kelimelik havuz
 ├── ios/                 # Capacitor iOS projesi
+├── android/             # Capacitor Android projesi
 ├── capacitor.config.json
 ├── index.html
 ├── vite.config.js

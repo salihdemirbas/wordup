@@ -29,6 +29,17 @@ ios/App/App/public/
 ios/App/Pods/
 ios/DerivedData/
 
+# Capacitor / Android
+android/app/build/
+android/app/release/
+android/.gradle/
+android/build/
+android/capacitor-cordova-android-plugins/build/
+android/local.properties
+android/.idea/
+*.apk
+*.aab
+
 # Xcode
 *.xcworkspace/xcuserdata/
 *.xcodeproj/xcuserdata/
@@ -39,6 +50,6 @@ xcuserdata/
 *.perspectivev3
 build/
 
-# Local assets (already copied to ios)
+# Local assets (already copied to ios/android)
 AppIcons/
 assets/

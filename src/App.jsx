@@ -10,6 +10,7 @@ import {
   showInterstitial,
   isAdsRemoved,
   setAdsRemoved,
+  getPlatform,
 } from './adService'
 
 // ===== İNTERNET BAĞLANTI KONTROLÜ =====
@@ -975,11 +976,13 @@ function App() {
 
   // Reklamları kaldır (In-App Purchase)
   const handleRemoveAds = async () => {
-    // TODO: Apple Developer hesabı alındıktan sonra
-    // gerçek StoreKit/RevenueCat satın alma akışı buraya eklenecek.
+    // TODO: Developer hesabı alındıktan sonra
+    // gerçek StoreKit/Google Play Billing satın alma akışı buraya eklenecek.
     // Şu an sadece local olarak işaretliyoruz (test amaçlı).
+    const platform = getPlatform()
+    const storeName = platform === 'android' ? 'Google Play Developer' : 'Apple Developer'
     const confirmed = window.confirm(
-      'Reklamları kaldırmak için $0.99 ödeme yapılacaktır. Devam etmek istiyor musun?\n\n(Bu özellik Apple Developer hesabı kurulduğunda aktif olacaktır)'
+      `Reklamları kaldırmak için $0.99 ödeme yapılacaktır. Devam etmek istiyor musun?\n\n(Bu özellik ${storeName} hesabı kurulduğunda aktif olacaktır)`
     )
     if (confirmed) {
       setAdsRemoved(true)

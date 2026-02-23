@@ -34,7 +34,7 @@ function isNativePlatform() {
     return typeof window !== 'undefined' && window.Capacitor && window.Capacitor.isNativePlatform()
 }
 
-function getPlatform() {
+export function getPlatform() {
     if (!isNativePlatform()) return null
     return window.Capacitor.getPlatform() // 'ios' | 'android'
 }
@@ -57,6 +57,16 @@ export async function initializeAds() {
         })
         initialized = true
         console.log('✅ AdMob başlatıldı')
+
+        // Consent durumunu kontrol et (gerekli olmayabilir ama API uyumu için)
+        try {
+            const consentInfo = await AdMob.requestConsentInfo()
+            if (consentInfo.isConsentFormAvailable && consentInfo.status === AdmobConsentStatus.REQUIRED) {
+                await AdMob.showConsentForm()
+            }
+        } catch (consentErr) {
+            console.warn('Consent kontrolü atlandı:', consentErr)
+        }
     } catch (err) {
         console.warn('AdMob başlatılamadı:', err)
     }
@@ -64,7 +74,14 @@ export async function initializeAds() {
 
 // ===== BANNER REKLAM =====
 export async function showBanner() {
-    if (!isNativePlatform() || isAdsRemoved() || !initialized) return
+    if (!isNativePlatform() || isAdsRemoved()) return
+
+    // Eğer henüz initialize olmadıysa bekle ve tekrar dene
+    if (!initialized) {
+        console.log('⏳ AdMob henüz hazır değil, banner için bekleniyor...')
+        setTimeout(() => showBanner(), 1000)
+        return
+    }
 
     const adId = getAdId('banner')
     if (!adId) return
