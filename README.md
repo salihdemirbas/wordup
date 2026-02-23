@@ -1,16 +1,12 @@
 # 🧠 WordUp - İngilizce Kelime Quiz Uygulaması
 
-İngilizce kelime bilginizi eğlenceli bir şekilde test edebileceğiniz modern ve interaktif bir quiz uygulaması. Web, iOS ve Android platformlarında çalışır.
+İngilizce kelime bilginizi eğlenceli bir şekilde test edebileceğiniz modern ve interaktif bir quiz uygulaması. iOS ve Android platformlarında çalışır.
 
 ![React](https://img.shields.io/badge/React-18-61dafb?logo=react&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-5-646CFF?logo=vite&logoColor=white)
 ![Capacitor](https://img.shields.io/badge/Capacitor-iOS%20%26%20Android-119EFF?logo=capacitor&logoColor=white)
 ![AdMob](https://img.shields.io/badge/AdMob-Integrated-EA4335?logo=google&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green)
-
-## 🌐 Demo
-
-👉 **[Canlı Demo (Web)](https://salihdemirbas.github.io/wordup)**
 
 ## ✨ Özellikler
 
